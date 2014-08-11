@@ -1,0 +1,851 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://xmlns.com/foaf/0.1/" > 
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/mehmetYayla">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Yayla</j.0:family_name>
+    <j.0:firstName>Mehmet</j.0:firstName>
+    <j.0:title>Post-doc</j.0:title>
+    <j.0:member>Ifremer</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/alexandraMaufroy">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Maufroy</j.0:family_name>
+    <j.0:firstName>Alexandra</j.0:firstName>
+    <j.0:title>Doctorante</j.0:title>
+    <j.0:member>IRD</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/pabloBrosset">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Brosset</j.0:family_name>
+    <j.0:firstName>Pablo</j.0:firstName>
+    <j.0:title>Doctorant</j.0:title>
+    <j.0:member>Ifremer</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/jeromeGuiet">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Guiet</j.0:family_name>
+    <j.0:firstName>Jérome</j.0:firstName>
+    <j.0:title>Doctorant</j.0:title>
+    <j.0:member>IRD</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/marcSoria">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Soria</j.0:family_name>
+    <j.0:firstName>Marc</j.0:firstName>
+    <j.0:title>CR2</j.0:title>
+    <j.0:member>IRD</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/marieWach">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Wach</j.0:family_name>
+    <j.0:firstName>Marie</j.0:firstName>
+    <j.0:title>VI</j.0:title>
+    <j.0:member>IRD</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/gianninaPassunisaldana">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Passuni Saldana</j.0:family_name>
+    <j.0:firstName>Giannina</j.0:firstName>
+    <j.0:title>Doctorante</j.0:title>
+    <j.0:member>IRD</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/johnFilmalter">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Filmalter</j.0:family_name>
+    <j.0:firstName>John</j.0:firstName>
+    <j.0:title>Doctorant</j.0:title>
+    <j.0:member>IRD</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/louisDubuisson">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Du Buisson</j.0:family_name>
+    <j.0:firstName>Louis</j.0:firstName>
+    <j.0:title>Doctorant</j.0:title>
+    <j.0:member>IRD</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/marcSuavin">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Suavin</j.0:family_name>
+    <j.0:firstName>Marc</j.0:firstName>
+    <j.0:title>TCN</j.0:title>
+    <j.0:member>IRD</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/anaAlegre">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Alegre</j.0:family_name>
+    <j.0:firstName>Ana</j.0:firstName>
+    <j.0:title>Doctorante</j.0:title>
+    <j.0:member>IRD</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/arnaudBertrand">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Bertrand</j.0:family_name>
+    <j.0:firstName>Arnaud</j.0:firstName>
+    <j.0:title>DR2</j.0:title>
+    <j.0:member>IRD</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/elyBeibou">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Beibou</j.0:family_name>
+    <j.0:firstName>Ely</j.0:firstName>
+    <j.0:title>Doctorant</j.0:title>
+    <j.0:member>IRD</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/sandrineVaz">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Vaz </j.0:family_name>
+    <j.0:firstName>Sandrine</j.0:firstName>
+    <j.0:title>Chercheur Ifremer</j.0:title>
+    <j.0:member>Ifremer</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/anneeliseNieblas">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Nieblas</j.0:family_name>
+    <j.0:firstName>Anne-Elise</j.0:firstName>
+    <j.0:title>Post-doc</j.0:title>
+    <j.0:member>Ifremer</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/manonAiraud">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Airaud</j.0:family_name>
+    <j.0:firstName>Manon</j.0:firstName>
+    <j.0:title>"CDD</j.0:title>
+    <j.0:member> IE"</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/philippeVendeville">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Vendeville</j.0:family_name>
+    <j.0:firstName>Philippe</j.0:firstName>
+    <j.0:title>CR1</j.0:title>
+    <j.0:member>IRD</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/capucineMellon">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Mellon</j.0:family_name>
+    <j.0:firstName>Capucine</j.0:firstName>
+    <j.0:title>"Directrice adjointe de l'UMR</j.0:title>
+    <j.0:member> Chercheur "</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/laurenceVicens">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Vicens</j.0:family_name>
+    <j.0:firstName>Laurence</j.0:firstName>
+    <j.0:title>TCE</j.0:title>
+    <j.0:member>IRD</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/annecatherineGandrillon">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Gandrillon</j.0:family_name>
+    <j.0:firstName>Anne-Catherine</j.0:firstName>
+    <j.0:title>TCS</j.0:title>
+    <j.0:member>IRD</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/robertBauer">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Bauer</j.0:family_name>
+    <j.0:firstName>Robert</j.0:firstName>
+    <j.0:title>Doctorant</j.0:title>
+    <j.0:member>Ifremer</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/bernardSeret">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Seret</j.0:family_name>
+    <j.0:firstName>Bernard</j.0:firstName>
+    <j.0:title>CR1</j.0:title>
+    <j.0:member>IRD</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/laurianeEscalle">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Escalle</j.0:family_name>
+    <j.0:firstName>Lauriane</j.0:firstName>
+    <j.0:title>Doctorante</j.0:title>
+    <j.0:member>IRD</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/fabienForget">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Forget</j.0:family_name>
+    <j.0:firstName>Fabien</j.0:firstName>
+    <j.0:title>Doctorant</j.0:title>
+    <j.0:member>IRD</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/danielGaertner">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Gaertner</j.0:family_name>
+    <j.0:firstName>Daniel</j.0:firstName>
+    <j.0:title>"Responsable du pôle Expertise</j.0:title>
+    <j.0:member> CR1"</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/pascalCauquil">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Cauquil</j.0:family_name>
+    <j.0:firstName>Pascal</j.0:firstName>
+    <j.0:title>IE</j.0:title>
+    <j.0:member>IRD</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/antoniaLeroy">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Leroy</j.0:family_name>
+    <j.0:firstName>Antonia</j.0:firstName>
+    <j.0:title>"CDD</j.0:title>
+    <j.0:member> IE"</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/sibylleDueri">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Dueri</j.0:family_name>
+    <j.0:firstName>Sibylle</j.0:firstName>
+    <j.0:title>post-doc</j.0:title>
+    <j.0:member>IRD</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/christianChaboud">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Chaboud</j.0:family_name>
+    <j.0:firstName>Christian</j.0:firstName>
+    <j.0:title>"Responsable thème 3</j.0:title>
+    <j.0:member> CR1"</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/tristanRouyer">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Rouyer</j.0:family_name>
+    <j.0:firstName>Tristan</j.0:firstName>
+    <j.0:title>Chercheur Ifremer</j.0:title>
+    <j.0:member>Ifremer</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/davidKaplan">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Kaplan</j.0:family_name>
+    <j.0:firstName>David</j.0:firstName>
+    <j.0:title>CR1</j.0:title>
+    <j.0:member>IRD</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/judepeterBijoux">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Bijoux</j.0:family_name>
+    <j.0:firstName>Jude Peter</j.0:firstName>
+    <j.0:title>Post-doc</j.0:title>
+    <j.0:member>IRD</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/elisabethVanbeveren">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Van Beveren</j.0:family_name>
+    <j.0:firstName>Elisabeth</j.0:firstName>
+    <j.0:title>Doctorante</j.0:title>
+    <j.0:member>Ifremer</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/fredericMenard">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Ménard</j.0:family_name>
+    <j.0:firstName>Frédéric</j.0:firstName>
+    <j.0:title>"Responsable thème 2</j.0:title>
+    <j.0:member> DR2"</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/pierreFreon">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Fréon</j.0:family_name>
+    <j.0:firstName>Pierre</j.0:firstName>
+    <j.0:title>DR0</j.0:title>
+    <j.0:member>éméritat</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/beeneshMotah">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Motah</j.0:family_name>
+    <j.0:firstName>Beenesh</j.0:firstName>
+    <j.0:title>Doctorant</j.0:title>
+    <j.0:member>IRD</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/danielGrados">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Grados</j.0:family_name>
+    <j.0:firstName>Daniel</j.0:firstName>
+    <j.0:title>Doctorant</j.0:title>
+    <j.0:member>IRD</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/marianoGutierrez">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Gutierrez</j.0:family_name>
+    <j.0:firstName>Mariano</j.0:firstName>
+    <j.0:title>Doctorant</j.0:title>
+    <j.0:member>IRD</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/nastassiaReyes">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Reyes</j.0:family_name>
+    <j.0:firstName>Nastassia</j.0:firstName>
+    <j.0:title>Doctorante</j.0:title>
+    <j.0:member>IRD</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/caroleCarries">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Carries</j.0:family_name>
+    <j.0:firstName>Carole</j.0:firstName>
+    <j.0:title>Attaché administratif</j.0:title>
+    <j.0:member>Ifremer</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/camenlilianaRoapascuali">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Roa Pascuali</j.0:family_name>
+    <j.0:firstName>Camen Liliana</j.0:firstName>
+    <j.0:title>Doctorante</j.0:title>
+    <j.0:member>IRD</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/bastienMerigot">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Mérigot</j.0:family_name>
+    <j.0:firstName>Bastien</j.0:firstName>
+    <j.0:title>"Responsable enseignement</j.0:title>
+    <j.0:member> Maitre de conference"</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/pepeEspinoza">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Espinoza</j.0:family_name>
+    <j.0:firstName>Pepe</j.0:firstName>
+    <j.0:title>Doctorant</j.0:title>
+    <j.0:member>IRD</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/laureVelez">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Velez</j.0:family_name>
+    <j.0:firstName>Laure</j.0:firstName>
+    <j.0:title>"CDD</j.0:title>
+    <j.0:member> IE"</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/edwinFouche">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Fouche</j.0:family_name>
+    <j.0:firstName>Edwin</j.0:firstName>
+    <j.0:title>"CDD</j.0:title>
+    <j.0:member> AI"</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/jeanherveBourdeix">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Bourdeix</j.0:family_name>
+    <j.0:firstName>Jean-Hervé</j.0:firstName>
+    <j.0:title>Technicien Ifremer</j.0:title>
+    <j.0:member>Ifremer</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/pierrefrancoisBaisnee">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Baisnée</j.0:family_name>
+    <j.0:firstName>Pierre-François</j.0:firstName>
+    <j.0:title>IR2</j.0:title>
+    <j.0:member>CDI IRD</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/pascalBach">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Bach</j.0:family_name>
+    <j.0:firstName>Pascal</j.0:firstName>
+    <j.0:title>CR1</j.0:title>
+    <j.0:member>IRD</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/laurentFloch">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Floch</j.0:family_name>
+    <j.0:firstName>Laurent</j.0:firstName>
+    <j.0:title>TCE</j.0:title>
+    <j.0:member>IRD</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/alainFonteneau">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Fonteneau</j.0:family_name>
+    <j.0:firstName>Alain</j.0:firstName>
+    <j.0:title>DR1</j.0:title>
+    <j.0:member>éméritat</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/yunneShin">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Shin</j.0:family_name>
+    <j.0:firstName>Yunne</j.0:firstName>
+    <j.0:title>DR2</j.0:title>
+    <j.0:member>IRD</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/saikououmarKide">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Kidé</j.0:family_name>
+    <j.0:firstName>Saikou Oumar</j.0:firstName>
+    <j.0:title>Doctorant</j.0:title>
+    <j.0:member>IRD</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/fanySardenne">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Sardenne</j.0:family_name>
+    <j.0:firstName>Fany</j.0:firstName>
+    <j.0:title>Doctorante</j.0:title>
+    <j.0:member>IRD</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/emmanuelChassot">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Chassot</j.0:family_name>
+    <j.0:firstName>Emmanuel</j.0:firstName>
+    <j.0:title>INR2</j.0:title>
+    <j.0:member>IRD</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/angeliqueJadaud">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Jadaud</j.0:family_name>
+    <j.0:firstName>Angelique</j.0:firstName>
+    <j.0:title>Chercheur </j.0:title>
+    <j.0:member>Ifremer</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/christianMullon">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Mullon</j.0:family_name>
+    <j.0:firstName>Christian</j.0:firstName>
+    <j.0:title>DR1</j.0:title>
+    <j.0:member>IRD</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/aissaBenazzouz">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Benazzouz</j.0:family_name>
+    <j.0:firstName>Aïssa</j.0:firstName>
+    <j.0:title>Doctorant</j.0:title>
+    <j.0:member>IRD</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/patriceDewals">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Dewals</j.0:family_name>
+    <j.0:firstName>Patrice</j.0:firstName>
+    <j.0:title>TCE</j.0:title>
+    <j.0:member>IRD</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/sophieBertrand">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Bertrand</j.0:family_name>
+    <j.0:firstName>Sophie</j.0:firstName>
+    <j.0:title>CR1</j.0:title>
+    <j.0:member>IRD</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/coraliePicoche">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Picoche</j.0:family_name>
+    <j.0:firstName>Coralie</j.0:firstName>
+    <j.0:title>"CDD</j.0:title>
+    <j.0:member> IR"</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/gillesDomalain">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Domalain</j.0:family_name>
+    <j.0:firstName>Gilles</j.0:firstName>
+    <j.0:title>IE</j.0:title>
+    <j.0:member>IRD</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/julienLebranchu">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Lebranchu</j.0:family_name>
+    <j.0:firstName>Julien</j.0:firstName>
+    <j.0:title>"CDD</j.0:title>
+    <j.0:member> IR"</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/aurelienAmiel">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Amiel</j.0:family_name>
+    <j.0:firstName>Aurélien</j.0:firstName>
+    <j.0:title>"CDD</j.0:title>
+    <j.0:member> IE"</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/carloPecoraro">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Pecoraro</j.0:family_name>
+    <j.0:firstName>Carlo</j.0:firstName>
+    <j.0:title>Doctorant</j.0:title>
+    <j.0:member>IRD</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/nathalieBodin">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Bodin</j.0:family_name>
+    <j.0:firstName>Nathalie</j.0:firstName>
+    <j.0:title>CR2</j.0:title>
+    <j.0:member>IRD</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/luisaMetral">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Metral</j.0:family_name>
+    <j.0:firstName>Luisa</j.0:firstName>
+    <j.0:title>Technicien </j.0:title>
+    <j.0:member>Ifremer</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/zahiraDhurmeea">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Dhurmeea</j.0:family_name>
+    <j.0:firstName>Zahira</j.0:firstName>
+    <j.0:title>Doctorante</j.0:title>
+    <j.0:member>IRD</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/emmanuelleDortel">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Dortel</j.0:family_name>
+    <j.0:firstName>Emmanuelle</j.0:firstName>
+    <j.0:title>Doctorante</j.0:title>
+    <j.0:member>IRD</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/herveDemarcq">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Demarcq</j.0:family_name>
+    <j.0:firstName>Hervé</j.0:firstName>
+    <j.0:title>CR1</j.0:title>
+    <j.0:member>IRD</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/pierreLopez">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Lopez</j.0:family_name>
+    <j.0:firstName>Pierre</j.0:firstName>
+    <j.0:title>TCS</j.0:title>
+    <j.0:member>IRD</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/jonLopez">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Lopez</j.0:family_name>
+    <j.0:firstName>Jon</j.0:firstName>
+    <j.0:title>Doctorant</j.0:title>
+    <j.0:member>IRD</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/philippeVerley">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Verley</j.0:family_name>
+    <j.0:firstName>Philippe</j.0:firstName>
+    <j.0:title>"CDD</j.0:title>
+    <j.0:member> IR"</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/claireSaraux">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Saraux</j.0:family_name>
+    <j.0:firstName>Claire</j.0:firstName>
+    <j.0:title>Chercheur </j.0:title>
+    <j.0:member>Ifremer</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/tahaImzilen">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Imzilen </j.0:family_name>
+    <j.0:firstName>Taha</j.0:firstName>
+    <j.0:title>"CDD</j.0:title>
+    <j.0:member> IE"</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/yannTremblay">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Tremblay</j.0:family_name>
+    <j.0:firstName>Yann</j.0:firstName>
+    <j.0:title>CR2</j.0:title>
+    <j.0:member>IRD</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/ikerZudaire">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Zudaire</j.0:family_name>
+    <j.0:firstName>Iker</j.0:firstName>
+    <j.0:title>Doctorant</j.0:title>
+    <j.0:member>IRD</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/julienBonnefont">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Bonnefont</j.0:family_name>
+    <j.0:firstName>Julien</j.0:firstName>
+    <j.0:title>"CDD</j.0:title>
+    <j.0:member> IE"</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/martaCollmonton">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Coll Monton</j.0:family_name>
+    <j.0:firstName>Marta</j.0:firstName>
+    <j.0:title>CR2</j.0:title>
+    <j.0:member>IRD</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/jeanpierreLamoureux">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Lamoureux</j.0:family_name>
+    <j.0:firstName>Jean-Pierre</j.0:firstName>
+    <j.0:title>TCN</j.0:title>
+    <j.0:member>IRD</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/laurentDagorn">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Dagorn</j.0:family_name>
+    <j.0:firstName>Laurent</j.0:firstName>
+    <j.0:title>DR2</j.0:title>
+    <j.0:member>IRD</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/guillaumeBessigneul">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Bessigneul</j.0:family_name>
+    <j.0:firstName>Guillaume</j.0:firstName>
+    <j.0:title>"CDD</j.0:title>
+    <j.0:member> IE"</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/marionCuif">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Cuif</j.0:family_name>
+    <j.0:firstName>Marion</j.0:firstName>
+    <j.0:title>Doctorante</j.0:title>
+    <j.0:member>IRD</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/victoriaSuntov">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Suntov</j.0:family_name>
+    <j.0:firstName>Victoria</j.0:firstName>
+    <j.0:title>Doctorante</j.0:title>
+    <j.0:member>IRD</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/moniqueSimier">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Simier</j.0:family_name>
+    <j.0:firstName>Monique</j.0:firstName>
+    <j.0:title>INR2</j.0:title>
+    <j.0:member>IRD</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/florenceGalletti">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Galletti</j.0:family_name>
+    <j.0:firstName>Florence</j.0:firstName>
+    <j.0:title>CR1</j.0:title>
+    <j.0:member>IRD</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/fredericLemanach">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Le Manach</j.0:family_name>
+    <j.0:firstName>Frédéric</j.0:firstName>
+    <j.0:title>Doctorant</j.0:title>
+    <j.0:member>IRD</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/ainhoaLezamaochoa">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Lezama Ochoa</j.0:family_name>
+    <j.0:firstName>Ainhoa</j.0:firstName>
+    <j.0:title>Post-doc</j.0:title>
+    <j.0:member>IRD</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/thierryFredou">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Frédou</j.0:family_name>
+    <j.0:firstName>Thierry</j.0:firstName>
+    <j.0:title>Chercheur en Accueil</j.0:title>
+    <j.0:member>IRD</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/julienBarde">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Barde</j.0:family_name>
+    <j.0:firstName>Julien</j.0:firstName>
+    <j.0:title>"Responsable du projet Ecoscope</j.0:title>
+    <j.0:member> INR2"</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/gildasLecorre">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Le Corre</j.0:family_name>
+    <j.0:firstName>Gildas</j.0:firstName>
+    <j.0:title>Chercheur</j.0:title>
+    <j.0:member>Ifremer</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/nicolasBez">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Bez</j.0:family_name>
+    <j.0:firstName>Nicolas</j.0:firstName>
+    <j.0:title>"Directeur adjoint de l'UMR</j.0:title>
+    <j.0:member> DR2"</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/bernardinoMalauene">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Malauene</j.0:family_name>
+    <j.0:firstName>Bernardino</j.0:firstName>
+    <j.0:title>Doctorant</j.0:title>
+    <j.0:member>IRD</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/flaviaLucenafredou">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Lucena Frédou</j.0:family_name>
+    <j.0:firstName>Flavia</j.0:firstName>
+    <j.0:title>Chercheur en Accueil</j.0:title>
+    <j.0:member>IRD</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/isabelleCheret">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Chéret</j.0:family_name>
+    <j.0:firstName>Isabelle</j.0:firstName>
+    <j.0:title>Technicienne</j.0:title>
+    <j.0:member>Ifremer</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/isabelleVidalayouba">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Vidal-Ayouba</j.0:family_name>
+    <j.0:firstName>Isabelle</j.0:firstName>
+    <j.0:title>TCE</j.0:title>
+    <j.0:member>IRD</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/jeanlucCoeurdacier">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Coeurdacier</j.0:family_name>
+    <j.0:firstName>Jean-Luc</j.0:firstName>
+    <j.0:title>Chercheur </j.0:title>
+    <j.0:member>Ifremer</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/pierreChavance">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Chavance</j.0:family_name>
+    <j.0:firstName>Pierre</j.0:firstName>
+    <j.0:title>"Responsable du pôle Observatoire</j.0:title>
+    <j.0:member> DR2"</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/marianaTravassos">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Travassos</j.0:family_name>
+    <j.0:firstName>Mariana</j.0:firstName>
+    <j.0:title>Doctorante</j.0:title>
+    <j.0:member>IRD</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/joseYonss">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Yonss</j.0:family_name>
+    <j.0:firstName>Jose</j.0:firstName>
+    <j.0:title>Doctorante</j.0:title>
+    <j.0:member>IRD</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/jeanfrancoisTernon">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Ternon</j.0:family_name>
+    <j.0:firstName>Jean-François</j.0:firstName>
+    <j.0:title>CR1</j.0:title>
+    <j.0:member>IRD</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/jeanmarcFromentin">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Fromentin</j.0:family_name>
+    <j.0:firstName>Jean-Marc</j.0:firstName>
+    <j.0:title>"Responsable thème 1</j.0:title>
+    <j.0:member> Chercheur"</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/ghislaineFerardpouget">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Ferard-Pouget</j.0:family_name>
+    <j.0:firstName>Ghislaine</j.0:firstName>
+    <j.0:title>IE</j.0:title>
+    <j.0:member>IRD</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/soniaClermidy">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Clermidy</j.0:family_name>
+    <j.0:firstName>Sonia</j.0:firstName>
+    <j.0:title>"CDD</j.0:title>
+    <j.0:member> IE"</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/jeanlouisBigot">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Bigot</j.0:family_name>
+    <j.0:firstName>Jean-Louis</j.0:firstName>
+    <j.0:title>Ingénieur</j.0:title>
+    <j.0:member>Ifremer</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/francoisPoisson">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Poisson</j.0:family_name>
+    <j.0:firstName>François</j.0:firstName>
+    <j.0:title>Chercheur Ifremer</j.0:title>
+    <j.0:member>Ifremer</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/olivierMaury">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Maury</j.0:family_name>
+    <j.0:firstName>Olivier</j.0:firstName>
+    <j.0:title>CR1</j.0:title>
+    <j.0:member>IRD</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/pascalCotel">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Cotel</j.0:family_name>
+    <j.0:firstName>Pascal</j.0:firstName>
+    <j.0:title>ASIN</j.0:title>
+    <j.0:member>IRD</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/blandineBrisset">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Brisset</j.0:family_name>
+    <j.0:firstName>Blandine</j.0:firstName>
+    <j.0:title>Technicien </j.0:title>
+    <j.0:member>Ifremer</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/rachelCooper">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Cooper</j.0:family_name>
+    <j.0:firstName>Rachel</j.0:firstName>
+    <j.0:title>Doctorante</j.0:title>
+    <j.0:member>IRD</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/francisMarsac">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Marsac</j.0:family_name>
+    <j.0:firstName>Francis</j.0:firstName>
+    <j.0:title>DR1</j.0:title>
+    <j.0:member>IRD</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/norbertBillet">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Billet</j.0:family_name>
+    <j.0:firstName>Norbert</j.0:firstName>
+    <j.0:title>"CDD</j.0:title>
+    <j.0:member> IE"</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/michelPotier">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Potier</j.0:family_name>
+    <j.0:firstName>Michel</j.0:firstName>
+    <j.0:title>CR1</j.0:title>
+    <j.0:member>IRD</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/alainDamiano">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Damiano</j.0:family_name>
+    <j.0:firstName>Alain</j.0:firstName>
+    <j.0:title>ASIN</j.0:title>
+    <j.0:member>IRD</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/davidricardoOliverosramos">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Oliveros-Ramos</j.0:family_name>
+    <j.0:firstName>David-Ricardo</j.0:firstName>
+    <j.0:title>Doctorant</j.0:title>
+    <j.0:member>IRD</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/jeanbernardPerodou">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Perodou</j.0:family_name>
+    <j.0:firstName>Jean-Bernard</j.0:firstName>
+    <j.0:title>Chercheur </j.0:title>
+    <j.0:member>Ifremer</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/philippeSabarros">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Sabarros</j.0:family_name>
+    <j.0:firstName>Philippe</j.0:firstName>
+    <j.0:title>"CDD</j.0:title>
+    <j.0:member> IR"</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/sophieArnaudhaond">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Arnaud-Haond</j.0:family_name>
+    <j.0:firstName>Sophie</j.0:firstName>
+    <j.0:title>Chercheur Ifremer</j.0:title>
+    <j.0:member>Ifremer</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/sylvainBonhommeau">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Bonhommeau</j.0:family_name>
+    <j.0:firstName>Sylvain</j.0:firstName>
+    <j.0:title>Chercheur Ifremer</j.0:title>
+    <j.0:member>Ifremer</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/mariagraciaPennino">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Pennino</j.0:family_name>
+    <j.0:firstName>Maria Gracia</j.0:firstName>
+    <j.0:title>Post-doc</j.0:title>
+    <j.0:member>IRD</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/philippeCury">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Cury</j.0:family_name>
+    <j.0:firstName>Philippe</j.0:firstName>
+    <j.0:title>"Directeur de l'UMR</j.0:title>
+    <j.0:member> DR1"</j.0:member>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/resources/agents/antoninBlaison">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:family_name>Blaison</j.0:family_name>
+    <j.0:firstName>Antonin</j.0:firstName>
+    <j.0:title>Doctorant</j.0:title>
+    <j.0:member>IRD</j.0:member>
+  </rdf:Description>
+</rdf:RDF>

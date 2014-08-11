@@ -1,0 +1,2 @@
+Ajout du couple : <data , 289> à la table map_cpt
+Ajout du couple : <	data , 289> à la table map_mots

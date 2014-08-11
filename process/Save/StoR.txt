@@ -1,0 +1,3301 @@
+Affichage Map String Vers Ressource
+Benguela <-> http://www.ecoscope.org/ontologies/ecosystems/benguela_ecosystem
+
+
+Guinea ecosystem <-> http://www.ecoscope.org/ontologies/ecosystems/guinea_ecosystem
+
+
+Procellaria cinerea <-> http://www.ecoscope.org/ontologies/ecosystems/procellaria_cinerea
+
+
+Amphitretus pelagicus <-> http://www.ecoscope.org/ontologies/ecosystems/amphitretus_pelagicus
+
+
+Macarela alicorta <-> http://www.ecoscope.org/ontologies/ecosystems/decapterus_macrosoma
+
+
+light-mantled sooty albatross <-> http://www.ecoscope.org/ontologies/ecosystems/phoebetria_palpebrata
+
+
+TOPEX <-> http://www.ecoscope.org/ontologies/ecosystems/topexPoseidon
+
+
+Pompano dolphinfish <-> http://www.ecoscope.org/ontologies/ecosystems/coryphaena_equiselis
+
+
+Mediterranean ecosystem <-> http://www.ecoscope.org/ontologies/ecosystems/mediterranean_ecosystem
+
+
+ile de sein <-> http://www.ecoscope.org/ontologies/ecosystems/ile_de_sein
+
+
+True tunas nei <-> http://www.ecoscope.org/ontologies/ecosystems/thunnus_spp
+
+
+Loutène battoir <-> http://www.ecoscope.org/ontologies/ecosystems/pholidoteuthis_boschmai
+
+
+Acoustique <-> http://www.ecoscope.org/ontologies/ecosystems/acoustic
+
+
+Remora osteochir <-> http://www.ecoscope.org/ontologies/ecosystems/remora_osteochir
+
+
+Carcharhinus plumbeus <-> http://www.ecoscope.org/ontologies/ecosystems/carcharhinus_plumbeus
+
+
+White-edged grouper <-> http://www.ecoscope.org/ontologies/ecosystems/epinephelus_albomarginatus
+
+
+Serra spanish mackerel <-> http://www.ecoscope.org/ontologies/ecosystems/scomberomorus_brasiliensis
+
+
+Pez vela <-> http://www.ecoscope.org/ontologies/ecosystems/istiophorus_albicans
+
+
+Escolier <-> http://www.ecoscope.org/ontologies/ecosystems/thyrsites_atun
+
+
+Carcharhinus brevipinna <-> http://www.ecoscope.org/ontologies/ecosystems/carcharhinus_brevipinna
+
+
+Paparda del Atlántico <-> http://www.ecoscope.org/ontologies/ecosystems/scomberesox_saurus
+
+
+Variola louti <-> http://www.ecoscope.org/ontologies/ecosystems/variola_louti
+
+
+Atlantic pomfret <-> http://www.ecoscope.org/ontologies/ecosystems/brama_brama
+
+
+Scorpionfishes nei <-> http://www.ecoscope.org/ontologies/ecosystems/scorpaenidae
+
+
+Statistiques spatiales <-> http://www.ecoscope.org/ontologies/ecosystems/spatial_statistics
+
+
+Chlorurus sordidus <-> http://www.ecoscope.org/ontologies/ecosystems/chlorurus_sordidus
+
+
+Eumecichthys fiski <-> http://www.ecoscope.org/ontologies/ecosystems/eumecichthys_fiski
+
+
+Histioteuthis meleagroteuthis <-> http://www.ecoscope.org/ontologies/ecosystems/histioteuthis_meleagroteuthis
+
+
+Thonine orientale <-> http://www.ecoscope.org/ontologies/ecosystems/euthynnus_affinis
+
+
+Jureles, pámpanos nep <-> http://www.ecoscope.org/ontologies/ecosystems/caranx_sp
+
+
+Humboldt current ecosystem <-> http://www.ecoscope.org/ontologies/ecosystems/humboldt_ecosystem
+
+
+Balaenoptera physalus <-> http://www.ecoscope.org/ontologies/ecosystems/balaenoptera_physalus
+
+
+Tintorera tigre <-> http://www.ecoscope.org/ontologies/ecosystems/galeocerdo_cuvier
+
+
+Scombridae <-> http://www.ecoscope.org/ontologies/ecosystems/scombridae
+
+
+Decapterus macarellus <-> http://www.ecoscope.org/ontologies/ecosystems/decapterus_macarellus
+
+
+Pisces <-> http://www.ecoscope.org/ontologies/ecosystems/pisces
+
+
+Thon ventru <-> http://www.ecoscope.org/ontologies/ecosystems/thunnus_obesus
+
+
+Plain bonito <-> http://www.ecoscope.org/ontologies/ecosystems/orcynopsis_unicolor
+
+
+Aluterus scriptus <-> http://www.ecoscope.org/ontologies/ecosystems/aluterus_scriptus
+
+
+Listao <-> http://www.ecoscope.org/ontologies/ecosystems/katsuwonus_pelamis
+
+
+Trophic ecology <-> http://www.ecoscope.org/ontologies/ecosystems/trophic_ecology
+
+
+Hydroacoustique <-> http://www.ecoscope.org/ontologies/ecosystems/hydroacoustic
+
+
+Diretmichthys parini <-> http://www.ecoscope.org/ontologies/ecosystems/diretmoides_parini
+
+
+Daisy parrotfish <-> http://www.ecoscope.org/ontologies/ecosystems/chlorurus_sordidus
+
+
+Grey Petrel <-> http://www.ecoscope.org/ontologies/ecosystems/procellaria_cinerea
+
+
+Dasyatidae <-> http://www.ecoscope.org/ontologies/ecosystems/dasyatidae
+
+
+Seine <-> http://www.ecoscope.org/ontologies/ecosystems/seine
+
+
+Sphyrna zygaena <-> http://www.ecoscope.org/ontologies/ecosystems/sphyrna_zygaena
+
+
+Snappers nei <-> http://www.ecoscope.org/ontologies/ecosystems/lutjanus_spp
+
+
+macronectes halli <-> http://www.ecoscope.org/ontologies/ecosystems/macronectes_halli
+
+
+Ecosystème de la mer d'Arabie <-> http://www.ecoscope.org/ontologies/ecosystems/arabian_sea
+
+
+Advanced Very High Resolution Radiometer <-> http://www.ecoscope.org/ontologies/ecosystems/avhrr
+
+
+Bonite à dos rayé <-> http://www.ecoscope.org/ontologies/ecosystems/sarda_sarda
+
+
+Marlin rayé <-> http://www.ecoscope.org/ontologies/ecosystems/tetrapturus_audax
+
+
+Casarte ojón <-> http://www.ecoscope.org/ontologies/ecosystems/gymnosarda_unicolor
+
+
+Grimalditeuthis bonplandii dans worms !!! <-> http://www.ecoscope.org/ontologies/ecosystems/grimalditeuthis_bonplandi
+
+
+Economy <-> http://www.ecoscope.org/ontologies/ecosystems/economy
+
+
+Sphyrna spp <-> http://www.ecoscope.org/ontologies/ecosystems/sphyrna_spp
+
+
+Electric lantern fish <-> http://www.ecoscope.org/ontologies/ecosystems/electrona_risso
+
+
+Encornet poulpe dana <-> http://www.ecoscope.org/ontologies/ecosystems/taaningia_danae
+
+
+Fou du Cap <-> http://www.ecoscope.org/ontologies/ecosystems/morus_capensis
+
+
+Japetella diaphana <-> http://www.ecoscope.org/ontologies/ecosystems/japetella_diaphana
+
+
+Carcharhinus sorrah <-> http://www.ecoscope.org/ontologies/ecosystems/carcharhinus_sorrah
+
+
+Dactyloptena orientalis <-> http://www.ecoscope.org/ontologies/ecosystems/dactyloptena_orientalis
+
+
+Titan <-> http://www.ecoscope.org/ontologies/ecosystems/titan
+
+
+Cycloteuthis akimushkini <-> http://www.ecoscope.org/ontologies/ecosystems/cycloteuthis_akimushkini
+
+
+Peto <-> http://www.ecoscope.org/ontologies/ecosystems/acanthocybium_solandri
+
+
+aldabra <-> http://www.ecoscope.org/ontologies/ecosystems/aldabra
+
+
+Renard <-> http://www.ecoscope.org/ontologies/ecosystems/alopias_vulpinus
+
+
+Grey reef shark <-> http://www.ecoscope.org/ontologies/ecosystems/carcharhinus_amblyrhynchos
+
+
+Atule mate <-> http://www.ecoscope.org/ontologies/ecosystems/atule_mate
+
+
+Bougainville <-> http://www.ecoscope.org/ontologies/ecosystems/bougainville
+
+
+Stromateidae <-> http://www.ecoscope.org/ontologies/ecosystems/stromateidae
+
+
+Ecosystème de Somalie <-> http://www.ecoscope.org/ontologies/ecosystems/somali_ecosystem
+
+
+Aire marine protégée Somalienne <-> http://www.ecoscope.org/ontologies/ecosystems/ampExampleCaseStudy
+
+
+Caranx ignobilis <-> http://www.ecoscope.org/ontologies/ecosystems/caranx_ignobilis
+
+
+Longtail tuna <-> http://www.ecoscope.org/ontologies/ecosystems/thunnus_tonggol
+
+
+Scomberomorus maculatus <-> http://www.ecoscope.org/ontologies/ecosystems/scomberomorus_maculatus
+
+
+Narrow-barred Spanish mackerel <-> http://www.ecoscope.org/ontologies/ecosystems/scomberomorus_commerson
+
+
+Economie <-> http://www.ecoscope.org/ontologies/ecosystems/economy
+
+
+baliste <-> http://www.ecoscope.org/ontologies/ecosystems/balistes_capriscus
+
+
+Carite chinigua <-> http://www.ecoscope.org/ontologies/ecosystems/scomberomorus_regalis
+
+
+Tylosurus crocodilus <-> http://www.ecoscope.org/ontologies/ecosystems/tylosurus_crocodilus
+
+
+Anomalie du niveau de la mer <-> http://www.ecoscope.org/ontologies/ecosystems/seaLevelAnomaly
+
+
+Thon rouge <-> http://www.ecoscope.org/ontologies/ecosystems/bft
+
+
+Mangrove red snapper <-> http://www.ecoscope.org/ontologies/ecosystems/lutjanus_argentimaculatus
+
+
+Isurus oxyrinchus <-> http://www.ecoscope.org/ontologies/ecosystems/isurus_oxyrinchus
+
+
+Ecologie <-> http://www.ecoscope.org/ontologies/ecosystems/ecology
+
+
+Polyprion spp <-> http://www.ecoscope.org/ontologies/ecosystems/polyprion_spp
+
+
+Océano Índico <-> http://www.ecoscope.org/ontologies/ecosystems/indianOcean
+
+
+Diaphus mollis <-> http://www.ecoscope.org/ontologies/ecosystems/diaphus_mollis
+
+
+senne exemple <-> http://www.ecoscope.org/ontologies/ecosystems/fisheryWithSeineExampleCaseStudy
+
+
+Funchalia taaningi <-> http://www.ecoscope.org/ontologies/ecosystems/funchalia_taaningi
+
+
+Spot-tail shark <-> http://www.ecoscope.org/ontologies/ecosystems/carcharhinus_sorrah
+
+
+oriental flying gurnard <-> http://www.ecoscope.org/ontologies/ecosystems/dactyloptena_orientalis
+
+
+Rabil <-> http://www.ecoscope.org/ontologies/ecosystems/thunnus_albacares
+
+
+Scomberesox saurus <-> http://www.ecoscope.org/ontologies/ecosystems/scomberesox_saurus
+
+
+Aqua (EOS PM) satellite <-> http://www.ecoscope.org/ontologies/ecosystems/aqua
+
+
+Acanthephyra sp <-> http://www.ecoscope.org/ontologies/ecosystems/acanthephyra_sp
+
+
+Dermochelys coriacea <-> http://www.ecoscope.org/ontologies/ecosystems/dermochelys_coriacea
+
+
+Tremoctopus violaceus <-> http://www.ecoscope.org/ontologies/ecosystems/tremoctopus_violaceus
+
+
+Physiculus sp <-> http://www.ecoscope.org/ontologies/ecosystems/physiculus_sp
+
+
+Sphyrna lewini <-> http://www.ecoscope.org/ontologies/ecosystems/sphyrna_lewini
+
+
+Albacore Once <-> http://www.ecoscope.org/ontologies/ecosystems/albacore_Once
+
+
+Canaria current <-> http://www.ecoscope.org/ontologies/ecosystems/canaria_ecosystem
+
+
+Bermuda sea chub <-> http://www.ecoscope.org/ontologies/ecosystems/kyphosis_sectatrix
+
+
+Seychelles <-> http://www.ecoscope.org/ontologies/ecosystems/Seychelles
+
+
+Argonaute papier <-> http://www.ecoscope.org/ontologies/ecosystems/argonauta_argo
+
+
+Scomberomorus unclassified <-> http://www.ecoscope.org/ontologies/ecosystems/scomberomorus_sp
+
+
+Pez hacha <-> http://www.ecoscope.org/ontologies/ecosystems/argyropelecus_gigas
+
+
+Foie <-> http://www.ecoscope.org/ontologies/ecosystems/liver
+
+
+Thon aux gros yeux <-> http://www.ecoscope.org/ontologies/ecosystems/thunnus_obesus
+
+
+squille... <-> http://www.ecoscope.org/ontologies/ecosystems/lysiosquilla_tredecimendata
+
+
+Coffeebean scaled squid <-> http://www.ecoscope.org/ontologies/ecosystems/pholidoteuthis_boschmai
+
+
+Greasy grouper <-> http://www.ecoscope.org/ontologies/ecosystems/epinephelus_tauvina
+
+
+Bignose shark <-> http://www.ecoscope.org/ontologies/ecosystems/carcharhinus_altimus
+
+
+mirounga leonina <-> http://www.ecoscope.org/ontologies/ecosystems/mirounga_leonina
+
+
+Ancistrocheirus lesueuri <-> http://www.ecoscope.org/ontologies/ecosystems/ancistrocheirus_lesueuri
+
+
+Bigeye thresher <-> http://www.ecoscope.org/ontologies/ecosystems/alopias_superciliosus
+
+
+Scads nei <-> http://www.ecoscope.org/ontologies/ecosystems/decapterus_sp
+
+
+SINGAPOUR <-> http://www.ecoscope.org/ontologies/ecosystems/harbour_SGP_SIN
+
+
+Manchot de Humboldt <-> http://www.ecoscope.org/ontologies/ecosystems/spheniscus_humboldti
+
+
+Moonfish, opah, mambo <-> http://www.ecoscope.org/ontologies/ecosystems/lampris_spp
+
+
+glenan <-> http://www.ecoscope.org/ontologies/ecosystems/glenan
+
+
+Requin-marteau commun <-> http://www.ecoscope.org/ontologies/ecosystems/sphyrna_zygaena
+
+
+Epinephelus summana <-> http://www.ecoscope.org/ontologies/ecosystems/epinephelus_summana
+
+
+TRANSBORDEMENT EN MER <-> http://www.ecoscope.org/ontologies/ecosystems/harbour_TB
+
+
+Albatros pico amarillo y negro <-> http://www.ecoscope.org/ontologies/ecosystems/thalassarche_chlororhynchos
+
+
+Otarie à fourrure <-> http://www.ecoscope.org/ontologies/ecosystems/arctocephalus_Australis
+
+
+Oceanographie <-> http://www.ecoscope.org/ontologies/ecosystems/oceanography
+
+
+Istiophorus albicans <-> http://www.ecoscope.org/ontologies/ecosystems/istiophorus_albicans
+
+
+drennec <-> http://www.ecoscope.org/ontologies/ecosystems/drennec
+
+
+Carcharhinus longimanus <-> http://www.ecoscope.org/ontologies/ecosystems/carcharhinus_longimanus
+
+
+Rascasses, etc. nca <-> http://www.ecoscope.org/ontologies/ecosystems/scorpaenidae
+
+
+pelagic stingray <-> http://www.ecoscope.org/ontologies/ecosystems/pteroplatytrygon_violacea
+
+
+Diomedea amsterdamensis <-> http://www.ecoscope.org/ontologies/ecosystems/diomedea_amsterdamensis
+
+
+Statistiques bayésiennes <-> http://www.ecoscope.org/ontologies/ecosystems/bayesian_statistics
+
+
+Chalut <-> http://www.ecoscope.org/ontologies/ecosystems/trawlnet
+
+
+Wind Speed <-> http://www.ecoscope.org/ontologies/ecosystems/windSpeed
+
+
+YFT <-> http://www.ecoscope.org/ontologies/ecosystems/thunnus_albacares
+
+
+Chipiloua commun <-> http://www.ecoscope.org/ontologies/ecosystems/thysanoteuthis_rhombus
+
+
+Marlin <-> http://www.ecoscope.org/ontologies/ecosystems/makaira_spp
+
+
+Moroteuthis lonnbergii et lonnbergi dans FAO et dans worms !!! et Moroteuthis loennbergii  dans sealifebase !!!! <-> http://www.ecoscope.org/ontologies/ecosystems/moroteuthis_lonnbergii
+
+
+thon blanc <-> http://www.ecoscope.org/ontologies/ecosystems/thunnus_alalunga
+
+
+Seerfishes nei <-> http://www.ecoscope.org/ontologies/ecosystems/scomberomorus_spp
+
+
+Omosudis lowii dans worms et lowei dans FAO ??? <-> http://www.ecoscope.org/ontologies/ecosystems/ommosudis_lowsi
+
+
+Lepidocybium flavobrunneum <-> http://www.ecoscope.org/ontologies/ecosystems/lepidocybium_flavobrunneum
+
+
+Éléphant de mer austral <-> http://www.ecoscope.org/ontologies/ecosystems/mirounga_leonina
+
+
+Opah <-> http://www.ecoscope.org/ontologies/ecosystems/lampris_guttatus
+
+
+trawlnet <-> http://www.ecoscope.org/ontologies/ecosystems/trawlnet
+
+
+Port à corriger <-> http://www.ecoscope.org/ontologies/ecosystems/harbour_999
+
+
+Poulpe <-> http://www.ecoscope.org/ontologies/ecosystems/Octopus_vulgaris
+
+
+Snub-nosed cachalot <-> http://www.ecoscope.org/ontologies/ecosystems/kogia_sima
+
+
+Bowel <-> http://www.ecoscope.org/ontologies/ecosystems/bowel
+
+
+Scopelosaurus hoedti <-> http://www.ecoscope.org/ontologies/ecosystems/scopelosaurus_hoedti
+
+
+Marlin bleu Atlantique dans stomac <-> http://www.ecoscope.org/ontologies/ecosystems/makaira_nigricans
+
+
+Requin blanc <-> http://www.ecoscope.org/ontologies/ecosystems/carcharodon_carcharias
+
+
+Diaphus spp <-> http://www.ecoscope.org/ontologies/ecosystems/diaphus_spp
+
+
+Parin's spinyfish <-> http://www.ecoscope.org/ontologies/ecosystems/diretmoides_parini
+
+
+Thazard rayé (Indo-Pacifique) <-> http://www.ecoscope.org/ontologies/ecosystems/scomberomorus_commerson
+
+
+DURBAN <-> http://www.ecoscope.org/ontologies/ecosystems/harbour_ZAF_DUR
+
+
+nellie <-> http://www.ecoscope.org/ontologies/ecosystems/macronectes_halli
+
+
+Makaire blanc <-> http://www.ecoscope.org/ontologies/ecosystems/tetrapturus_albidus
+
+
+Oxyporhamphus micropterus <-> http://www.ecoscope.org/ontologies/ecosystems/oxyporhamphus_micropterus
+
+
+Pelagic thresher <-> http://www.ecoscope.org/ontologies/ecosystems/alopias_pelagicus
+
+
+Gymnosarda unicolor <-> http://www.ecoscope.org/ontologies/ecosystems/gymnosarda_unicolor
+
+
+Melva y melvera <-> http://www.ecoscope.org/ontologies/ecosystems/auxis_sp
+
+
+Chiasmodon niger <-> http://www.ecoscope.org/ontologies/ecosystems/chiasmodon_niger
+
+
+Atlantic saury <-> http://www.ecoscope.org/ontologies/ecosystems/scomberesox_saurus
+
+
+White-chinned Petrel <-> http://www.ecoscope.org/ontologies/ecosystems/procellaria_aequinoctialis
+
+
+Diaphus dumerilii <-> http://www.ecoscope.org/ontologies/ecosystems/diaphus_dumerilii
+
+
+Scopelarchus analis <-> http://www.ecoscope.org/ontologies/ecosystems/scopelarchus_analis
+
+
+Lutjanus gibbus <-> http://www.ecoscope.org/ontologies/ecosystems/lutjanus_gibbus
+
+
+South American fur seal <-> http://www.ecoscope.org/ontologies/ecosystems/arctocephalus_Australis
+
+
+Bolinichthys photothorax <-> http://www.ecoscope.org/ontologies/ecosystems/bolinichthys_photothorax
+
+
+Anatife <-> http://www.ecoscope.org/ontologies/ecosystems/lepas_anatifera
+
+
+Agura blanca <-> http://www.ecoscope.org/ontologies/ecosystems/tetrapturus_albidus
+
+
+Diaphus garmani <-> http://www.ecoscope.org/ontologies/ecosystems/diaphus_garmani
+
+
+phoebetria palpebrata <-> http://www.ecoscope.org/ontologies/ecosystems/phoebetria_palpebrata
+
+
+Tasarte <-> http://www.ecoscope.org/ontologies/ecosystems/orcynopsis_unicolor
+
+
+Rhynchonereella angelinia dans worms !!!! <-> http://www.ecoscope.org/ontologies/ecosystems/rynchonerella_angelini
+
+
+Carapidae <-> http://www.ecoscope.org/ontologies/ecosystems/carapidae
+
+
+Arabian sea ecosystem <-> http://www.ecoscope.org/ontologies/ecosystems/arabian_sea
+
+
+Diomedea exulans <-> http://www.ecoscope.org/ontologies/ecosystems/diomedea_exulans
+
+
+Liver <-> http://www.ecoscope.org/ontologies/ecosystems/liver
+
+
+Rhincodon typus <-> http://www.ecoscope.org/ontologies/ecosystems/rhincodon_typus
+
+
+sériole limon <-> http://www.ecoscope.org/ontologies/ecosystems/seriola_rivoliana
+
+
+Platax teira <-> http://www.ecoscope.org/ontologies/ecosystems/platax_teira
+
+
+Humphead snapper <-> http://www.ecoscope.org/ontologies/ecosystems/lutjanus_sanguineus
+
+
+Kemp's ridley sea turtle <-> http://www.ecoscope.org/ontologies/ecosystems/lepidochelys_kempii
+
+
+southern giant petrel <-> http://www.ecoscope.org/ontologies/ecosystems/macronectes_giganteus
+
+
+Ecosystème du courant des Aiguilles <-> http://www.ecoscope.org/ontologies/ecosystems/agulhas_current_ecosystem
+
+
+Remora sp <-> http://www.ecoscope.org/ontologies/ecosystems/remora_sp
+
+
+Blackfin tuna <-> http://www.ecoscope.org/ontologies/ecosystems/thunnus_atlanticus
+
+
+Chispa <-> http://www.ecoscope.org/ontologies/ecosystems/electrona_risso
+
+
+Raja rays nei <-> http://www.ecoscope.org/ontologies/ecosystems/raja_spp
+
+
+Thazard serra <-> http://www.ecoscope.org/ontologies/ecosystems/scomberomorus_cavalla
+
+
+Senegal <-> http://www.ecoscope.org/ontologies/ecosystems/senegalSea
+
+
+Rio Mare <-> http://www.ecoscope.org/ontologies/ecosystems/via_euros
+
+
+Isurus oxyrinchus dans worms et fao, fishbase dans wiki !! <-> http://www.ecoscope.org/ontologies/ecosystems/isurus_oxyrhinchus
+
+
+South Atlantic Ocean <-> http://www.ecoscope.org/ontologies/ecosystems/southAtlanticOcean
+
+
+common remora <-> http://www.ecoscope.org/ontologies/ecosystems/remora_remora
+
+
+DUBAI <-> http://www.ecoscope.org/ontologies/ecosystems/harbour_ARE_DXB
+
+
+Cap St Vincent <-> http://www.ecoscope.org/ontologies/ecosystems/cap_st_vincent
+
+
+Southern bluefin tuna <-> http://www.ecoscope.org/ontologies/ecosystems/thunnus_maccoyii
+
+
+Crimson jobfish <-> http://www.ecoscope.org/ontologies/ecosystems/pristipomoides_filamentosus
+
+
+Marlins,sailfishes,etc nei <-> http://www.ecoscope.org/ontologies/ecosystems/katsuwonus_pelamis
+
+
+Almaco jack <-> http://www.ecoscope.org/ontologies/ecosystems/seriola_rivoliana
+
+
+Catalan-Balearic Sea <-> http://www.ecoscope.org/ontologies/ecosystems/balearicSea
+
+
+Somalian protected marine area <-> http://www.ecoscope.org/ontologies/ecosystems/ampExampleCaseStudy
+
+
+Otaria flavescens <-> http://www.ecoscope.org/ontologies/ecosystems/otaria_flavescens
+
+
+FUJAYRAH <-> http://www.ecoscope.org/ontologies/ecosystems/harbour_ARE_FJR
+
+
+Carite lucio <-> http://www.ecoscope.org/ontologies/ecosystems/scomberomorus_cavalla
+
+
+Great hammerhead <-> http://www.ecoscope.org/ontologies/ecosystems/taractes_spp
+
+
+sea_surface_temperature <-> http://www.ecoscope.org/ontologies/ecosystems/sst
+
+
+Echeneis naucrates <-> http://www.ecoscope.org/ontologies/ecosystems/echeneis_naucrates
+
+
+Taractichthys longipinnis <-> http://www.ecoscope.org/ontologies/ecosystems/taractichthys_longipinnis
+
+
+Aptenodytes patagonicus <-> http://www.ecoscope.org/ontologies/ecosystems/aptenodytes_patagonicus
+
+
+Indo-Pacific sailfish <-> http://www.ecoscope.org/ontologies/ecosystems/istiophorus_platypterus
+
+
+Charybdis smithii <-> http://www.ecoscope.org/ontologies/ecosystems/charybdis_smithii
+
+
+Sphyraena barracuda <-> http://www.ecoscope.org/ontologies/ecosystems/sphyraena_barracuda
+
+
+Poulp <-> http://www.ecoscope.org/ontologies/ecosystems/Octopus_vulgaris
+
+
+Canal du Mozambique <-> http://www.ecoscope.org/ontologies/ecosystems/mozambiqueChannel
+
+
+Bonitou <-> http://www.ecoscope.org/ontologies/ecosystems/katsuwonus_pelamis
+
+
+Diaphus anderseni <-> http://www.ecoscope.org/ontologies/ecosystems/diaphus_anderseni
+
+
+Charybdis edwardsii <-> http://www.ecoscope.org/ontologies/ecosystems/charybdis_smithii
+
+
+Ommastrephidae spp <-> http://www.ecoscope.org/ontologies/ecosystems/ommastrephidae_spp
+
+
+Walvitethis rancureli <-> http://www.ecoscope.org/ontologies/ecosystems/walvitethis_rancureli
+
+
+Dasyatis violacea <-> http://www.ecoscope.org/ontologies/ecosystems/dasyatis_violacea
+
+
+Thon à nageoires noires <-> http://www.ecoscope.org/ontologies/ecosystems/thunnus_atlanticus
+
+
+Und Fish <-> http://www.ecoscope.org/ontologies/ecosystems/und_fish
+
+
+Via Avenir <-> http://www.ecoscope.org/ontologies/ecosystems/via_avenir
+
+
+PHUKET <-> http://www.ecoscope.org/ontologies/ecosystems/harbour_THA_HKT
+
+
+Mola mola <-> http://www.ecoscope.org/ontologies/ecosystems/mola_mola
+
+
+pêche à la senne <-> http://www.ecoscope.org/ontologies/ecosystems/seine
+
+
+Diogenichtys atlanticus <-> http://www.ecoscope.org/ontologies/ecosystems/diogenichtys_atlanticus
+
+
+Carcharhinus melanopterus <-> http://www.ecoscope.org/ontologies/ecosystems/carcharhinus_melanopterus
+
+
+Président Lacour <-> http://www.ecoscope.org/ontologies/ecosystems/president_Lacour
+
+
+Longfin escolar <-> http://www.ecoscope.org/ontologies/ecosystems/scombrolabrax_heterolepis
+
+
+sharptail mola <-> http://www.ecoscope.org/ontologies/ecosystems/masturus_lanceolatus
+
+
+Lysiosquilla tredecimendata <-> http://www.ecoscope.org/ontologies/ecosystems/lysiosquilla_tredecimendata
+
+
+Chinchards, carangues nca <-> http://www.ecoscope.org/ontologies/ecosystems/caranx_sp
+
+
+Advanced Microwave Scanning Radiometer-EOS <-> http://www.ecoscope.org/ontologies/ecosystems/amsre
+
+
+Sierra <-> http://www.ecoscope.org/ontologies/ecosystems/thyrsites_atun
+
+
+Ruvettus pretiosus <-> http://www.ecoscope.org/ontologies/ecosystems/ruvettus_pretiosus
+
+
+MOMBASA <-> http://www.ecoscope.org/ontologies/ecosystems/harbour_KEN_MBA
+
+
+Carcharhinus isodon <-> http://www.ecoscope.org/ontologies/ecosystems/carcharhinus_isodon
+
+
+Tropical two-wing flyingfish <-> http://www.ecoscope.org/ontologies/ecosystems/exocoetus_volitans
+
+
+Gillnet <-> http://www.ecoscope.org/ontologies/ecosystems/gillnet
+
+
+Schedophilus ovalis <-> http://www.ecoscope.org/ontologies/ecosystems/schedophilus_ovalis
+
+
+Statistics <-> http://www.ecoscope.org/ontologies/ecosystems/statistics
+
+
+Yellow boxfish <-> http://www.ecoscope.org/ontologies/ecosystems/ostracion_cubicus
+
+
+Ctenopteryx sicula <-> http://www.ecoscope.org/ontologies/ecosystems/ctenopteryx_sicula
+
+
+Naucrates ductor <-> http://www.ecoscope.org/ontologies/ecosystems/naucrates_ductor
+
+
+Carangidae <-> http://www.ecoscope.org/ontologies/ecosystems/carangidae
+
+
+Carites, sin clasificar <-> http://www.ecoscope.org/ontologies/ecosystems/scomberomorus_sp
+
+
+Pastenague violette <-> http://www.ecoscope.org/ontologies/ecosystems/dasyatis_violacea
+
+
+Thunnus spp <-> http://www.ecoscope.org/ontologies/ecosystems/thunnus_spp
+
+
+Coryphaena spp <-> http://www.ecoscope.org/ontologies/ecosystems/coryphaena_spp
+
+
+Draco <-> http://www.ecoscope.org/ontologies/ecosystems/draco
+
+
+Bonite à gros yeux <-> http://www.ecoscope.org/ontologies/ecosystems/gymnosarda_unicolor
+
+
+Lagocephalus lagocephalus <-> http://www.ecoscope.org/ontologies/ecosystems/lagocephalus_lagocephalus
+
+
+Uranoscopus spp <-> http://www.ecoscope.org/ontologies/ecosystems/uranoscopus_spp
+
+
+Stingrays nei <-> http://www.ecoscope.org/ontologies/ecosystems/dasyatis_spp
+
+
+Terra (EOS AM) Satellite <-> http://www.ecoscope.org/ontologies/ecosystems/terra
+
+
+Macarela salmón <-> http://www.ecoscope.org/ontologies/ecosystems/elagatis_bipinnulata
+
+
+TMI <-> http://www.ecoscope.org/ontologies/ecosystems/tmi
+
+
+Sargocentron sp <-> http://www.ecoscope.org/ontologies/ecosystems/sargocentron_sp
+
+
+Océano Pacífico <-> http://www.ecoscope.org/ontologies/ecosystems/pacificOcean
+
+
+Carita oeste africano <-> http://www.ecoscope.org/ontologies/ecosystems/scomberomorus_tritor
+
+
+Platyscelus ovoides <-> http://www.ecoscope.org/ontologies/ecosystems/platyscelus_ovoides
+
+
+Amsterdam albatross <-> http://www.ecoscope.org/ontologies/ecosystems/diomedea_amsterdamensis
+
+
+Zorro <-> http://www.ecoscope.org/ontologies/ecosystems/alopias_vulpinus
+
+
+Canaria ecosystem <-> http://www.ecoscope.org/ontologies/ecosystems/canaria_ecosystem
+
+
+Serranidae <-> http://www.ecoscope.org/ontologies/ecosystems/serranidae
+
+
+Lethrinus harak <-> http://www.ecoscope.org/ontologies/ecosystems/lethrinus_harak
+
+
+Diodon sp <-> http://www.ecoscope.org/ontologies/ecosystems/diodon_sp
+
+
+Yellowtail scad <-> http://www.ecoscope.org/ontologies/ecosystems/auxis_sp
+
+
+Pez vela del Indo-Pacífico <-> http://www.ecoscope.org/ontologies/ecosystems/istiophorus_platypterus
+
+
+Abidjan Harbour, Ivory coast <-> http://www.ecoscope.org/ontologies/ecosystems/abidjanHarbour
+
+
+albacan <-> http://www.ecoscope.org/ontologies/ecosystems/albacan
+
+
+POINTE NOIRE <-> http://www.ecoscope.org/ontologies/ecosystems/harbour_COG_PNR
+
+
+Scomberomorus tritor <-> http://www.ecoscope.org/ontologies/ecosystems/scomberomorus_tritor
+
+
+Uraspis secunda <-> http://www.ecoscope.org/ontologies/ecosystems/uraspis_secunda
+
+
+Stargazers <-> http://www.ecoscope.org/ontologies/ecosystems/epinephelus_longispinis
+
+
+Streaked seerfish <-> http://www.ecoscope.org/ontologies/ecosystems/scomberomorus_lineolatus
+
+
+Acanthocybium solandri <-> http://www.ecoscope.org/ontologies/ecosystems/acanthocybium_solandri
+
+
+greater silver hatchetfish <-> http://www.ecoscope.org/ontologies/ecosystems/argyropelecus_gigas
+
+
+Vitesse du vent <-> http://www.ecoscope.org/ontologies/ecosystems/windSpeed
+
+
+Brama brama <-> http://www.ecoscope.org/ontologies/ecosystems/brama_brama
+
+
+Thresher <-> http://www.ecoscope.org/ontologies/ecosystems/alopias_vulpinus
+
+
+Oegopsida NI <-> http://www.ecoscope.org/ontologies/ecosystems/oegopsida_ni
+
+
+Température de surface de l'océan <-> http://www.ecoscope.org/ontologies/ecosystems/sst
+
+
+Indian south subtropical gyre <-> http://www.ecoscope.org/ontologies/ecosystems/indian_south_subtropical_gyre_ecosystem
+
+
+Haliphron atlanticus <-> http://www.ecoscope.org/ontologies/ecosystems/haliphron_atlanticus
+
+
+Oceanic lightfish <-> http://www.ecoscope.org/ontologies/ecosystems/vinciguerria_nimbaria
+
+
+Epinephelus marginatus <-> http://www.ecoscope.org/ontologies/ecosystems/epinephelus_marginatus
+
+
+Hydroacoustic <-> http://www.ecoscope.org/ontologies/ecosystems/hydroacoustic
+
+
+Thon obèse <-> http://www.ecoscope.org/ontologies/ecosystems/thunnus_obesus
+
+
+Statistiques <-> http://www.ecoscope.org/ontologies/ecosystems/statistics
+
+
+Albatros à nez jaune <-> http://www.ecoscope.org/ontologies/ecosystems/thalassarche_chlororhynchos
+
+
+BET <-> http://www.ecoscope.org/ontologies/ecosystems/thunnus_obesus
+
+
+Tetrapturus audax <-> http://www.ecoscope.org/ontologies/ecosystems/tetrapturus_audax
+
+
+wind_speed <-> http://www.ecoscope.org/ontologies/ecosystems/windSpeed
+
+
+Tiburón oceánico <-> http://www.ecoscope.org/ontologies/ecosystems/carcharhinus_longimanus
+
+
+ESPAGNE <-> http://www.ecoscope.org/ontologies/ecosystems/harbour_ESP
+
+
+Peruvian booby <-> http://www.ecoscope.org/ontologies/ecosystems/sula_variegata
+
+
+Pacific Ocean <-> http://www.ecoscope.org/ontologies/ecosystems/pacificOcean
+
+
+Albatros hurleur <-> http://www.ecoscope.org/ontologies/ecosystems/diomedea_exulans
+
+
+Carita lucio <-> http://www.ecoscope.org/ontologies/ecosystems/scomberomorus_cavalla
+
+
+Silky shark <-> http://www.ecoscope.org/ontologies/ecosystems/carcharhinus_falciformis
+
+
+Gonade <-> http://www.ecoscope.org/ontologies/ecosystems/gonad
+
+
+Bigeye tuna <-> http://www.ecoscope.org/ontologies/ecosystems/thunnus_obesus
+
+
+Sharptooth jobfish <-> http://www.ecoscope.org/ontologies/ecosystems/pristipomoides_typus
+
+
+Bluenose warehou <-> http://www.ecoscope.org/ontologies/ecosystems/hyperoglyphe_antarctica
+
+
+Peau bleue <-> http://www.ecoscope.org/ontologies/ecosystems/prionace_glauca
+
+
+TOPEX/POSÉIDON <-> http://www.ecoscope.org/ontologies/ecosystems/topexPoseidon
+
+
+Cape hen <-> http://www.ecoscope.org/ontologies/ecosystems/procellaria_aequinoctialis
+
+
+Ecologie trophique <-> http://www.ecoscope.org/ontologies/ecosystems/trophic_ecology
+
+
+Mackerel scad <-> http://www.ecoscope.org/ontologies/ecosystems/decapterus_macarellus
+
+
+brassy chub <-> http://www.ecoscope.org/ontologies/ecosystems/kyphosus_vaigiensis
+
+
+Scomberomorus spp <-> http://www.ecoscope.org/ontologies/ecosystems/scomberomorus_spp
+
+
+MAURICE <-> http://www.ecoscope.org/ontologies/ecosystems/harbour_MUS_PLU
+
+
+Plectropomus pessuliferus <-> http://www.ecoscope.org/ontologies/ecosystems/plectropomus_pessuliferus
+
+
+BFT <-> http://www.ecoscope.org/ontologies/ecosystems/bft
+
+
+Katsuwonus pelamis <-> http://www.ecoscope.org/ontologies/ecosystems/katsuwonus_pelamis
+
+
+Modis <-> http://www.ecoscope.org/ontologies/ecosystems/modis
+
+
+Makaire bécune <-> http://www.ecoscope.org/ontologies/ecosystems/tetrapturus_pfluegeri
+
+
+Pp <-> http://www.ecoscope.org/ontologies/ecosystems/primaryProduction
+
+
+Sarda sarda <-> http://www.ecoscope.org/ontologies/ecosystems/sarda_sarda
+
+
+Scomberomorus commerson <-> http://www.ecoscope.org/ontologies/ecosystems/scomberomorus_commerson
+
+
+Halieutique <-> http://www.ecoscope.org/ontologies/ecosystems/halieutique
+
+
+Espírula <-> http://www.ecoscope.org/ontologies/ecosystems/spirula_spirula
+
+
+Big-scale pomfret ?? <-> http://www.ecoscope.org/ontologies/ecosystems/taractichthys_longipinnis
+
+
+Anoplogaster cornuta <-> http://www.ecoscope.org/ontologies/ecosystems/anoplogaster_cornuta
+
+
+Alopias pelagicus <-> http://www.ecoscope.org/ontologies/ecosystems/alopias_pelagicus
+
+
+Goose barnacle <-> http://www.ecoscope.org/ontologies/ecosystems/lepas_anatifera
+
+
+Carangids nei <-> http://www.ecoscope.org/ontologies/ecosystems/carangidae
+
+
+Lophotidae <-> http://www.ecoscope.org/ontologies/ecosystems/lophotidae
+
+
+Paralepididae <-> http://www.ecoscope.org/ontologies/ecosystems/paralepididae
+
+
+Pterycombus petersii <-> http://www.ecoscope.org/ontologies/ecosystems/pterycombus_petersii
+
+
+Carcharhinus amblyrhynchos <-> http://www.ecoscope.org/ontologies/ecosystems/carcharhinus_amblyrhynchos
+
+
+Diodon hystrix <-> http://www.ecoscope.org/ontologies/ecosystems/diodon_hystrix
+
+
+Dorade coryphène commune <-> http://www.ecoscope.org/ontologies/ecosystems/coryphaena_hippurus
+
+
+Cape dolphin <-> http://www.ecoscope.org/ontologies/ecosystems/stenella_attenuata
+
+
+Lampris guttatus <-> http://www.ecoscope.org/ontologies/ecosystems/lampris_guttatus
+
+
+Octopus vulgaris <-> http://www.ecoscope.org/ontologies/ecosystems/Octopus_vulgaris
+
+
+Trevignon <-> http://www.ecoscope.org/ontologies/ecosystems/trevignon
+
+
+Argentinidae <-> http://www.ecoscope.org/ontologies/ecosystems/argentinidae
+
+
+Remote sensing <-> http://www.ecoscope.org/ontologies/ecosystems/remote_sensing
+
+
+Agulhas current ecosystem <-> http://www.ecoscope.org/ontologies/ecosystems/agulhas_current_ecosystem
+
+
+Atún blanco <-> http://www.ecoscope.org/ontologies/ecosystems/thunnus_alalunga
+
+
+Petrus rupestris <-> http://www.ecoscope.org/ontologies/ecosystems/petrus_rupestris
+
+
+Diretmichthys parini dans worms et dans FAO !!!! <-> http://www.ecoscope.org/ontologies/ecosystems/diretmoides_parini
+
+
+Atlantic bonito <-> http://www.ecoscope.org/ontologies/ecosystems/sarda_sarda
+
+
+Thunnus thynnus <-> http://www.ecoscope.org/ontologies/ecosystems/bft
+
+
+Thunnus obesus <-> http://www.ecoscope.org/ontologies/ecosystems/thunnus_obesus
+
+
+Ecology <-> http://www.ecoscope.org/ontologies/ecosystems/ecology
+
+
+AVHRR <-> http://www.ecoscope.org/ontologies/ecosystems/avhrr
+
+
+Sphyraena spp <-> http://www.ecoscope.org/ontologies/ecosystems/sphyraena_spp
+
+
+Pomfrets, ocean breams nei <-> http://www.ecoscope.org/ontologies/ecosystems/bramidae
+
+
+white suckerfish <-> http://www.ecoscope.org/ontologies/ecosystems/remorina_albescens
+
+
+Carcharodon carcharias <-> http://www.ecoscope.org/ontologies/ecosystems/carcharodon_carcharias
+
+
+@es <-> http://www.ecoscope.org/ontologies/ecosystems/alepisaurus_ferox
+
+
+Makaira indica <-> http://www.ecoscope.org/ontologies/ecosystems/makaira_indica
+
+
+Moderate-resolution Imaging Spectroradiometer <-> http://www.ecoscope.org/ontologies/ecosystems/modis
+
+
+Thorax <-> http://www.ecoscope.org/ontologies/ecosystems/thorax
+
+
+Auxis thazard <-> http://www.ecoscope.org/ontologies/ecosystems/auxis_thazard
+
+
+Lurión japonés <-> http://www.ecoscope.org/ontologies/ecosystems/moroteuthis_lonnbergii
+
+
+Shortfin mako <-> http://www.ecoscope.org/ontologies/ecosystems/isurus_oxyrinchus
+
+
+island trevally <-> http://www.ecoscope.org/ontologies/ecosystems/carangoides_orthogrammus
+
+
+Sharpfin barracuda <-> http://www.ecoscope.org/ontologies/ecosystems/sphyraena_acutipinnis
+
+
+Auxides et bonitou <-> http://www.ecoscope.org/ontologies/ecosystems/auxis_sp
+
+
+Lactoria diaphana <-> http://www.ecoscope.org/ontologies/ecosystems/lactoria_diaphana
+
+
+mass_concentration_of_chlorophyll_a_in_sea_water <-> http://www.ecoscope.org/ontologies/ecosystems/chlorophyllA
+
+
+Carite atlántico <-> http://www.ecoscope.org/ontologies/ecosystems/scomberomorus_maculatus
+
+
+Thazard barré <-> http://www.ecoscope.org/ontologies/ecosystems/scomberomorus_cavalla
+
+
+Tiburón azul <-> http://www.ecoscope.org/ontologies/ecosystems/prionace_glauca
+
+
+houndfish <-> http://www.ecoscope.org/ontologies/ecosystems/tylosurus_crocodilus
+
+
+Thunnus tonggol <-> http://www.ecoscope.org/ontologies/ecosystems/thunnus_tonggol
+
+
+Smooth hammerhead <-> http://www.ecoscope.org/ontologies/ecosystems/sphyrna_zygaena
+
+
+Sternoptyx diaphana <-> http://www.ecoscope.org/ontologies/ecosystems/sternoptyx_diaphana
+
+
+Rascacios, gallinetas nep <-> http://www.ecoscope.org/ontologies/ecosystems/scorpaenidae
+
+
+Thumbprint emperor <-> http://www.ecoscope.org/ontologies/ecosystems/lethrinus_harak
+
+
+Snoek <-> http://www.ecoscope.org/ontologies/ecosystems/thyrsites_atun
+
+
+Spirula spirula <-> http://www.ecoscope.org/ontologies/ecosystems/spirula_spirula
+
+
+Natosquilla investigatoris <-> http://www.ecoscope.org/ontologies/ecosystems/natosquilla_investigatoris
+
+
+Carcharhinus sp <-> http://www.ecoscope.org/ontologies/ecosystems/carcharhinus_sp
+
+
+Sierra grácil <-> http://www.ecoscope.org/ontologies/ecosystems/thyrsitoides_marleyi
+
+
+goldenstriped soapfish <-> http://www.ecoscope.org/ontologies/ecosystems/grammistes_sexlineatus
+
+
+Red steenbras <-> http://www.ecoscope.org/ontologies/ecosystems/petrus_rupestris
+
+
+Alepisaurus brevirostris <-> http://www.ecoscope.org/ontologies/ecosystems/alepisaurus_brevirostris
+
+
+Quick Scatterometer <-> http://www.ecoscope.org/ontologies/ecosystems/QuikSCAT
+
+
+shark-sucker <-> http://www.ecoscope.org/ontologies/ecosystems/remora_remora
+
+
+Luria escamuda cafetal <-> http://www.ecoscope.org/ontologies/ecosystems/pholidoteuthis_boschmai
+
+
+Atlant. yellow-nosed albatross <-> http://www.ecoscope.org/ontologies/ecosystems/thalassarche_chlororhynchos
+
+
+Taractes rubescens <-> http://www.ecoscope.org/ontologies/ecosystems/taractes_rubescens
+
+
+Escolar <-> http://www.ecoscope.org/ontologies/ecosystems/lethrinus_spp
+
+
+Psenes arafurensis <-> http://www.ecoscope.org/ontologies/ecosystems/psenes_arafurensis
+
+
+palangre <-> http://www.ecoscope.org/ontologies/ecosystems/longline
+
+
+Chlorophyll A <-> http://www.ecoscope.org/ontologies/ecosystems/chlorophyllA
+
+
+Fishery science <-> http://www.ecoscope.org/ontologies/ecosystems/halieutique
+
+
+Symplectoteuthis oualaniensis <-> http://www.ecoscope.org/ontologies/ecosystems/sthenoteuthis_oualaniensis
+
+
+Blacktip shark <-> http://www.ecoscope.org/ontologies/ecosystems/carcharhinus_limbatus
+
+
+Oplophorus spinicauda <-> http://www.ecoscope.org/ontologies/ecosystems/oplophorus_spinicauda
+
+
+Gempylus serpens <-> http://www.ecoscope.org/ontologies/ecosystems/gempylus_serpens
+
+
+Bullet tuna <-> http://www.ecoscope.org/ontologies/ecosystems/auxis_rochei
+
+
+Walvisteuthis dans worms (341471) ?!! mais pas l'espece  <-> http://www.ecoscope.org/ontologies/ecosystems/walvitethis_rancureli
+
+
+Hyperoglyphe antarctica <-> http://www.ecoscope.org/ontologies/ecosystems/hyperoglyphe_antarctica
+
+
+Walvisteuthis dans worms ?!! <-> http://www.ecoscope.org/ontologies/ecosystems/walvitethis_rancureli
+
+
+Common dolphinfish <-> http://www.ecoscope.org/ontologies/ecosystems/coryphaena_hippurus
+
+
+Diaphus effulgens <-> http://www.ecoscope.org/ontologies/ecosystems/diaphus_effulgens
+
+
+Escolar de canal <-> http://www.ecoscope.org/ontologies/ecosystems/gempylus_serpens
+
+
+MAYOTTE <-> http://www.ecoscope.org/ontologies/ecosystems/harbour_MYT
+
+
+chlorophylle A <-> http://www.ecoscope.org/ontologies/ecosystems/chlorophyllA
+
+
+Alakrana <-> http://www.ecoscope.org/ontologies/ecosystems/alakrana
+
+
+Makaire bleu Indo-Pacifique <-> http://www.ecoscope.org/ontologies/ecosystems/makaira_mazara
+
+
+Ecotem <-> http://www.ecoscope.org/ontologies/ecosystems/ecotem
+
+
+rorqual commun <-> http://www.ecoscope.org/ontologies/ecosystems/balaenoptera_physalus
+
+
+Barracudas nei <-> http://www.ecoscope.org/ontologies/ecosystems/sphyraena_spp
+
+
+Silver spinyfin <-> http://www.ecoscope.org/ontologies/ecosystems/diretmus_argenteus
+
+
+Aguja picuda <-> http://www.ecoscope.org/ontologies/ecosystems/tetrapturus_pfluegeri
+
+
+VIGO <-> http://www.ecoscope.org/ontologies/ecosystems/harbour_ESP_VGO
+
+
+Thyrsites atun <-> http://www.ecoscope.org/ontologies/ecosystems/thyrsites_atun
+
+
+Tetrapturus spp <-> http://www.ecoscope.org/ontologies/ecosystems/tetrapturus_spp
+
+
+Requiem sharks nei <-> http://www.ecoscope.org/ontologies/ecosystems/carcharhinidae
+
+
+Pristipomoides zonatus <-> http://www.ecoscope.org/ontologies/ecosystems/pristipomoides_zonatus
+
+
+Lutjanus argentimaculatus <-> http://www.ecoscope.org/ontologies/ecosystems/lutjanus_argentimaculatus
+
+
+pilotfish <-> http://www.ecoscope.org/ontologies/ecosystems/naucrates_ductor
+
+
+Malabar trevally <-> http://www.ecoscope.org/ontologies/ecosystems/carangoides_malabaricus
+
+
+Guéotec <-> http://www.ecoscope.org/ontologies/ecosystems/gueotec
+
+
+Kawakawa <-> http://www.ecoscope.org/ontologies/ecosystems/euthynnus_affinis
+
+
+Diaphus perspicillatus <-> http://www.ecoscope.org/ontologies/ecosystems/diaphus_perspicillatus
+
+
+Fish larvae <-> http://www.ecoscope.org/ontologies/ecosystems/fish_larvae
+
+
+Coureur arc-en-ciel <-> http://www.ecoscope.org/ontologies/ecosystems/elagatis_bipinnulata
+
+
+NOUVELLE ZELANDE <-> http://www.ecoscope.org/ontologies/ecosystems/harbour_NZL
+
+
+CAP TOWN <-> http://www.ecoscope.org/ontologies/ecosystems/harbour_ZAF_CPT
+
+
+Humboldt <-> http://www.ecoscope.org/ontologies/ecosystems/humboldt_ecosystem
+
+
+Greater argonaut <-> http://www.ecoscope.org/ontologies/ecosystems/argonauta_argo
+
+
+Purpleback flying squid <-> http://www.ecoscope.org/ontologies/ecosystems/sthenoteuthis_oualaniensis
+
+
+ALB <-> http://www.ecoscope.org/ontologies/ecosystems/thunnus_alalunga
+
+
+Longfin mako <-> http://www.ecoscope.org/ontologies/ecosystems/isurus_paucus
+
+
+Humpback red snapper <-> http://www.ecoscope.org/ontologies/ecosystems/lutjanus_gibbus
+
+
+ALF <-> http://www.ecoscope.org/ontologies/ecosystems/alepisaurus_ferox
+
+
+Brachysculus crusculum <-> http://www.ecoscope.org/ontologies/ecosystems/brachysculus_crusculum
+
+
+TRMM Microwave Imager (TMI) <-> http://www.ecoscope.org/ontologies/ecosystems/tmi
+
+
+Galapagos shark <-> http://www.ecoscope.org/ontologies/ecosystems/carcharhinus_galapagensis
+
+
+Computer sciences <-> http://www.ecoscope.org/ontologies/ecosystems/computer_sciences
+
+
+CHABAHAR <-> http://www.ecoscope.org/ontologies/ecosystems/harbour_IRN_ZBR
+
+
+Carcharhinus amblyrhynchoides <-> http://www.ecoscope.org/ontologies/ecosystems/carcharhinus_amblyrhynchoides
+
+
+Ommastrephes bartrami <-> http://www.ecoscope.org/ontologies/ecosystems/ommastrephes_bartrami
+
+
+Black swallower <-> http://www.ecoscope.org/ontologies/ecosystems/chiasmodon_niger
+
+
+Spirule <-> http://www.ecoscope.org/ontologies/ecosystems/spirula_spirula
+
+
+Black snoek <-> http://www.ecoscope.org/ontologies/ecosystems/thyrsitoides_marleyi
+
+
+Auxis spp <-> http://www.ecoscope.org/ontologies/ecosystems/auxis_spp
+
+
+Seawifs <-> http://www.ecoscope.org/ontologies/ecosystems/seawifs
+
+
+Spatial analysis <-> http://www.ecoscope.org/ontologies/ecosystems/spatial_analysis
+
+
+wandering albatross <-> http://www.ecoscope.org/ontologies/ecosystems/diomedea_exulans
+
+
+REUNION <-> http://www.ecoscope.org/ontologies/ecosystems/harbour_REU_REU
+
+
+Lethrinus spp <-> http://www.ecoscope.org/ontologies/ecosystems/lethrinus_spp
+
+
+tortue de Kemp <-> http://www.ecoscope.org/ontologies/ecosystems/lepidochelys_kempii
+
+
+Lion de mer <-> http://www.ecoscope.org/ontologies/ecosystems/otaria_flavescens
+
+
+Croupia roche <-> http://www.ecoscope.org/ontologies/ecosystems/lobotes_surinamensis
+
+
+Prionace glauca <-> http://www.ecoscope.org/ontologies/ecosystems/prionace_glauca
+
+
+Apogonidae <-> http://www.ecoscope.org/ontologies/ecosystems/apogonidae
+
+
+Epinephelus areolatus <-> http://www.ecoscope.org/ontologies/ecosystems/epinephelus_areolatus
+
+
+Pollicipes pollicipes <-> http://www.ecoscope.org/ontologies/ecosystems/pollicipes_pollicipes
+
+
+roundbelly cowfish <-> http://www.ecoscope.org/ontologies/ecosystems/lactoria_diaphana
+
+
+Caretta caretta <-> http://www.ecoscope.org/ontologies/ecosystems/caretta_caretta
+
+
+GEOdesic SATellite <-> http://www.ecoscope.org/ontologies/ecosystems/GEOSAT
+
+
+Lobianchia gemellari <-> http://www.ecoscope.org/ontologies/ecosystems/lobianchia_gemellari
+
+
+Decapterus kurroides <-> http://www.ecoscope.org/ontologies/ecosystems/decapterus_kurroides
+
+
+Sarda orientalis <-> http://www.ecoscope.org/ontologies/ecosystems/sarda_orientalis
+
+
+Kyphosis sectatrix <-> http://www.ecoscope.org/ontologies/ecosystems/kyphosis_sectatrix
+
+
+Océan Atlantique nord <-> http://www.ecoscope.org/ontologies/ecosystems/northAtlanticOcean
+
+
+Brama spp <-> http://www.ecoscope.org/ontologies/ecosystems/brama_spp
+
+
+Thonine commune <-> http://www.ecoscope.org/ontologies/ecosystems/euthynnus_alleteratus
+
+
+Cornuda común <-> http://www.ecoscope.org/ontologies/ecosystems/sphyrna_lewini
+
+
+Lampadena luminosa <-> http://www.ecoscope.org/ontologies/ecosystems/lampadena_luminosa
+
+
+Antea <-> http://www.ecoscope.org/ontologies/ecosystems/antea
+
+
+Encornet bande violette <-> http://www.ecoscope.org/ontologies/ecosystems/sthenoteuthis_oualaniensis
+
+
+Foca elephante del sur <-> http://www.ecoscope.org/ontologies/ecosystems/mirounga_leonina
+
+
+Makaira spp <-> http://www.ecoscope.org/ontologies/ecosystems/makaira_spp
+
+
+Scalloped hammerhead <-> http://www.ecoscope.org/ontologies/ecosystems/sphyrna_lewini
+
+
+Bull shark <-> http://www.ecoscope.org/ontologies/ecosystems/carcharhinus_leucas
+
+
+Magnisudis atlantica : autre terme dans worms !! Magnisudis atlantica !! <-> http://www.ecoscope.org/ontologies/ecosystems/paralepis_atlantica
+
+
+Black snake mackerel <-> http://www.ecoscope.org/ontologies/ecosystems/nealotus_tripes
+
+
+Senne <-> http://www.ecoscope.org/ontologies/ecosystems/seine
+
+
+Alopias spp <-> http://www.ecoscope.org/ontologies/ecosystems/alopias_spp
+
+
+Unicorn crestfish <-> http://www.ecoscope.org/ontologies/ecosystems/eumecichthys_fiski
+
+
+FRI <-> http://www.ecoscope.org/ontologies/ecosystems/auxis_thazard
+
+
+Bonito mono <-> http://www.ecoscope.org/ontologies/ecosystems/sarda_orientalis
+
+
+Oplophorus typus <-> http://www.ecoscope.org/ontologies/ecosystems/oplophorus_typus
+
+
+Finetooth shark <-> http://www.ecoscope.org/ontologies/ecosystems/carcharhinus_isodon
+
+
+Porbeagle <-> http://www.ecoscope.org/ontologies/ecosystems/lamna_nasus
+
+
+EAF example <-> http://www.ecoscope.org/ontologies/ecosystems/aepExampleCaseStudy
+
+
+Tiburón de puntas blancas <-> http://www.ecoscope.org/ontologies/ecosystems/carcharhinus_albimarginatus
+
+
+Pole and line fishing <-> http://www.ecoscope.org/ontologies/ecosystems/canne
+
+
+Géomatique <-> http://www.ecoscope.org/ontologies/ecosystems/geomatic
+
+
+Courant de Humboldt <-> http://www.ecoscope.org/ontologies/ecosystems/humboldt_ecosystem
+
+
+Groupers, seabasses nei <-> http://www.ecoscope.org/ontologies/ecosystems/serranidae
+
+
+Scomberomorus cavalla <-> http://www.ecoscope.org/ontologies/ecosystems/scomberomorus_cavalla
+
+
+Talenduic <-> http://www.ecoscope.org/ontologies/ecosystems/talenduic
+
+
+Sea Level Anomaly <-> http://www.ecoscope.org/ontologies/ecosystems/seaLevelAnomaly
+
+
+Renard pélagique <-> http://www.ecoscope.org/ontologies/ecosystems/alopias_pelagicus
+
+
+Taraska <-> http://www.ecoscope.org/ontologies/ecosystems/taraska
+
+
+LAS PALMAS <-> http://www.ecoscope.org/ontologies/ecosystems/harbour_ESP_LPA
+
+
+Lepidochelys kempii <-> http://www.ecoscope.org/ontologies/ecosystems/lepidochelys_kempii
+
+
+Ecosystème du golfe du Benguale <-> http://www.ecoscope.org/ontologies/ecosystems/bay_of_bengual_ecosystem
+
+
+Dogtooth tuna <-> http://www.ecoscope.org/ontologies/ecosystems/gymnosarda_unicolor
+
+
+Decapterus sp <-> http://www.ecoscope.org/ontologies/ecosystems/decapterus_sp
+
+
+La pêche palangrière à l'espadon à la Réunion <-> http://www.ecoscope.org/ontologies/ecosystems/fisheryWithOctopus_vulgaris
+
+
+Requin marteau <-> http://www.ecoscope.org/ontologies/ecosystems/sphyrna_lewini
+
+
+Renard à gros yeux <-> http://www.ecoscope.org/ontologies/ecosystems/alopias_superciliosus
+
+
+Aguja negra <-> http://www.ecoscope.org/ontologies/ecosystems/makaira_indica
+
+
+Escolier noir <-> http://www.ecoscope.org/ontologies/ecosystems/lepidocybium_flavobrunneum
+
+
+Méditerranée <-> http://www.ecoscope.org/ontologies/ecosystems/mediterranean_ecosystem
+
+
+Magnisudis atlantica <-> http://www.ecoscope.org/ontologies/ecosystems/paralepis_atlantica
+
+
+DIEGO SUAREZ <-> http://www.ecoscope.org/ontologies/ecosystems/harbour_MDG_DIE
+
+
+Carcharhinus wheeleri <-> http://www.ecoscope.org/ontologies/ecosystems/carcharhinus_wheeleri
+
+
+Makaira mazara <-> http://www.ecoscope.org/ontologies/ecosystems/makaira_mazara
+
+
+Dusky grouper <-> http://www.ecoscope.org/ontologies/ecosystems/epinephelus_marginatus
+
+
+Acoustic <-> http://www.ecoscope.org/ontologies/ecosystems/acoustic
+
+
+Larosterna Inca <-> http://www.ecoscope.org/ontologies/ecosystems/larosterna_inca
+
+
+Dusky shark <-> http://www.ecoscope.org/ontologies/ecosystems/carcharhinus_obscurus
+
+
+Marlín rayado <-> http://www.ecoscope.org/ontologies/ecosystems/tetrapturus_audax
+
+
+Thazard bâtard <-> http://www.ecoscope.org/ontologies/ecosystems/acanthocybium_solandri
+
+
+Escolier gracile <-> http://www.ecoscope.org/ontologies/ecosystems/thyrsitoides_marleyi
+
+
+Macarelas nep <-> http://www.ecoscope.org/ontologies/ecosystems/decapterus_sp
+
+
+Diaphus lucidus <-> http://www.ecoscope.org/ontologies/ecosystems/diaphus_lucidus
+
+
+Maquereau espagnol <-> http://www.ecoscope.org/ontologies/ecosystems/scomberomorus_maculatus
+
+
+Albatun <-> http://www.ecoscope.org/ontologies/ecosystems/albatun
+
+
+Carangoides malabaricus <-> http://www.ecoscope.org/ontologies/ecosystems/carangoides_malabaricus
+
+
+Grimalditeuthis bonplandii <-> http://www.ecoscope.org/ontologies/ecosystems/grimalditeuthis_bonplandi
+
+
+Sterne Inca <-> http://www.ecoscope.org/ontologies/ecosystems/larosterna_inca
+
+
+Mer Méditerranée <-> http://www.ecoscope.org/ontologies/ecosystems/mediterranean_ecosystem
+
+
+Pteroplatytrygon violacea préféré dans Worms!!! <-> http://www.ecoscope.org/ontologies/ecosystems/dasyatis_violacea
+
+
+Enoploteuthidae sp1 <-> http://www.ecoscope.org/ontologies/ecosystems/enoploteuthidae_sp1
+
+
+Amitié <-> http://www.ecoscope.org/ontologies/ecosystems/amitie
+
+
+Pieuvre <-> http://www.ecoscope.org/ontologies/ecosystems/Octopus_vulgaris
+
+
+Voilier Atlantique <-> http://www.ecoscope.org/ontologies/ecosystems/istiophorus_albicans
+
+
+longline <-> http://www.ecoscope.org/ontologies/ecosystems/longline
+
+
+Charybdis edwardsi <-> http://www.ecoscope.org/ontologies/ecosystems/charybdis_smithii
+
+
+Sphyraena acutipinnis <-> http://www.ecoscope.org/ontologies/ecosystems/sphyraena_acutipinnis
+
+
+Istiophoridae <-> http://www.ecoscope.org/ontologies/ecosystems/istiophoridae
+
+
+Requin océanique <-> http://www.ecoscope.org/ontologies/ecosystems/carcharhinus_longimanus
+
+
+Intertuna 3 <-> http://www.ecoscope.org/ontologies/ecosystems/intertuna_tres
+
+
+soldierfish <-> http://www.ecoscope.org/ontologies/ecosystems/myripristis_sp
+
+
+Exocoetus volitans <-> http://www.ecoscope.org/ontologies/ecosystems/exocoetus_volitans
+
+
+Dana octopus squid <-> http://www.ecoscope.org/ontologies/ecosystems/taaningia_danae
+
+
+Mastigoteuthis sp <-> http://www.ecoscope.org/ontologies/ecosystems/mastigoteuthis_sp
+
+
+Océan Atlantique <-> http://www.ecoscope.org/ontologies/ecosystems/atlanticOcean
+
+
+Lepidophanes guentheri <-> http://www.ecoscope.org/ontologies/ecosystems/lepidophanes_guentheri
+
+
+Abalistes stellatus <-> http://www.ecoscope.org/ontologies/ecosystems/abalistes_stellatus
+
+
+Lutjanus spp <-> http://www.ecoscope.org/ontologies/ecosystems/lutjanus_spp
+
+
+Epinephelus longispinis <-> http://www.ecoscope.org/ontologies/ecosystems/epinephelus_longispinis
+
+
+Le courant de Californie <-> http://www.ecoscope.org/ontologies/ecosystems/california_ecosystem
+
+
+Histioteuthis hoylei <-> http://www.ecoscope.org/ontologies/ecosystems/histioteuthis_hoylei
+
+
+Myctophidae sp ? <-> http://www.ecoscope.org/ontologies/ecosystems/myctophidae
+
+
+Escolar real <-> http://www.ecoscope.org/ontologies/ecosystems/rexea_prometheoides
+
+
+Cranchia scabra <-> http://www.ecoscope.org/ontologies/ecosystems/cranchia_scabra
+
+
+Shiny bird squid <-> http://www.ecoscope.org/ontologies/ecosystems/ornithoteuthis_volatilis
+
+
+MWFRS <-> http://www.ecoscope.org/ontologies/ecosystems/mwfrs
+
+
+Sternoptychidae dans worms !??? <-> http://www.ecoscope.org/ontologies/ecosystems/sternopthychidae_sp
+
+
+Ecologie du comportement <-> http://www.ecoscope.org/ontologies/ecosystems/behavioral_ecology
+
+
+Carcharhinus obscurus <-> http://www.ecoscope.org/ontologies/ecosystems/carcharhinus_obscurus
+
+
+Grimalditeuthis bonplandi <-> http://www.ecoscope.org/ontologies/ecosystems/grimalditeuthis_bonplandi
+
+
+tuniciers pélagiques <-> http://www.ecoscope.org/ontologies/ecosystems/salpes
+
+
+Euthynnus affinis <-> http://www.ecoscope.org/ontologies/ecosystems/euthynnus_affinis
+
+
+Taaningia danae <-> http://www.ecoscope.org/ontologies/ecosystems/taaningia_danae
+
+
+Decapterus brachycephalus <-> http://www.ecoscope.org/ontologies/ecosystems/decapterus_brachycephalus
+
+
+Comète saumon <-> http://www.ecoscope.org/ontologies/ecosystems/elagatis_bipinnulata
+
+
+Escolar negro <-> http://www.ecoscope.org/ontologies/ecosystems/lepidocybium_flavobrunneum
+
+
+skipjack tuna <-> http://www.ecoscope.org/ontologies/ecosystems/katsuwonus_pelamis
+
+
+caouanne <-> http://www.ecoscope.org/ontologies/ecosystems/caretta_caretta
+
+
+Abraliopsis sp <-> http://www.ecoscope.org/ontologies/ecosystems/abraliopsis_sp
+
+
+Primary Production <-> http://www.ecoscope.org/ontologies/ecosystems/primaryProduction
+
+
+Omosudis lowii??? <-> http://www.ecoscope.org/ontologies/ecosystems/ommosudis_lowsi
+
+
+TEMA <-> http://www.ecoscope.org/ontologies/ecosystems/harbour_GHA_TEM
+
+
+Thon aux grands yeux <-> http://www.ecoscope.org/ontologies/ecosystems/thunnus_obesus
+
+
+Chtenopteryx sicula  dans worms !!! <-> http://www.ecoscope.org/ontologies/ecosystems/ctenopteryx_sicula
+
+
+Makaire bleu Atlantique <-> http://www.ecoscope.org/ontologies/ecosystems/makaira_nigricans
+
+
+Juveniles large <-> http://www.ecoscope.org/ontologies/ecosystems/juveniles_large
+
+
+Blacktail reef shark <-> http://www.ecoscope.org/ontologies/ecosystems/carcharhinus_wheeleri
+
+
+Diaphanous hatchet fish <-> http://www.ecoscope.org/ontologies/ecosystems/sternoptyx_diaphana
+
+
+Carcharhinus falciformis <-> http://www.ecoscope.org/ontologies/ecosystems/carcharhinus_falciformis
+
+
+Seriola rivoliana <-> http://www.ecoscope.org/ontologies/ecosystems/seriola_rivoliana
+
+
+Modélisation <-> http://www.ecoscope.org/ontologies/ecosystems/modeling
+
+
+West African Spanish mackerel <-> http://www.ecoscope.org/ontologies/ecosystems/scomberomorus_tritor
+
+
+Torre Giulia <-> http://www.ecoscope.org/ontologies/ecosystems/torre_giulia
+
+
+Indo-Pacific king mackerel <-> http://www.ecoscope.org/ontologies/ecosystems/scomberomorus_guttatus
+
+
+Bayesian statistics <-> http://www.ecoscope.org/ontologies/ecosystems/bayesian_statistics
+
+
+Requin tigre commun <-> http://www.ecoscope.org/ontologies/ecosystems/galeocerdo_cuvier
+
+
+Bay of Bengual current ecosystem <-> http://www.ecoscope.org/ontologies/ecosystems/bay_of_bengual_ecosystem
+
+
+Indo-Pacific sergeant <-> http://www.ecoscope.org/ontologies/ecosystems/abudefduf_vaigiensis
+
+
+Procellaria aequinoctialis <-> http://www.ecoscope.org/ontologies/ecosystems/procellaria_aequinoctialis
+
+
+Areolate grouper <-> http://www.ecoscope.org/ontologies/ecosystems/epinephelus_areolatus
+
+
+short-billed spearfish <-> http://www.ecoscope.org/ontologies/ecosystems/tetrapturus_angustirostris
+
+
+Cheilopogon sp <-> http://www.ecoscope.org/ontologies/ecosystems/cheilopogon_sp
+
+
+GEOSAT <-> http://www.ecoscope.org/ontologies/ecosystems/GEOSAT
+
+
+Carinaria sp <-> http://www.ecoscope.org/ontologies/ecosystems/carinaria_sp
+
+
+tortue imbriquée <-> http://www.ecoscope.org/ontologies/ecosystems/eretmochelys_imbricata
+
+
+Tetrapturus pfluegeri <-> http://www.ecoscope.org/ontologies/ecosystems/tetrapturus_pfluegeri
+
+
+Atún rojo del Sur <-> http://www.ecoscope.org/ontologies/ecosystems/thunnus_maccoyii
+
+
+Océano Atlántico <-> http://www.ecoscope.org/ontologies/ecosystems/atlanticOcean
+
+
+Spinner shark <-> http://www.ecoscope.org/ontologies/ecosystems/carcharhinus_brevipinna
+
+
+Cubiceps pauciradiatus <-> http://www.ecoscope.org/ontologies/ecosystems/cubiceps_pauciradiatus
+
+
+Big-scale pomfret <-> http://www.ecoscope.org/ontologies/ecosystems/taractichthys_longipinnis
+
+
+unicorn leatherjacket <-> http://www.ecoscope.org/ontologies/ecosystems/aluterus_monoceros
+
+
+Ocean skipjack <-> http://www.ecoscope.org/ontologies/ecosystems/katsuwonus_pelamis
+
+
+Coryphaena hippurus <-> http://www.ecoscope.org/ontologies/ecosystems/coryphaena_hippurus
+
+
+Escolier reptile <-> http://www.ecoscope.org/ontologies/ecosystems/nealotus_tripes
+
+
+Tetrapturus angustirostris <-> http://www.ecoscope.org/ontologies/ecosystems/tetrapturus_angustirostris
+
+
+Escolier royal <-> http://www.ecoscope.org/ontologies/ecosystems/rexea_prometheoides
+
+
+Germo obesus <-> http://www.ecoscope.org/ontologies/ecosystems/thunnus_obesus
+
+
+Spheniscus Humboldti <-> http://www.ecoscope.org/ontologies/ecosystems/spheniscus_humboldti
+
+
+Lampris spp <-> http://www.ecoscope.org/ontologies/ecosystems/lampris_spp
+
+
+Pez espada <-> http://www.ecoscope.org/ontologies/ecosystems/xiphias_gladius
+
+
+Seriola lalandi <-> http://www.ecoscope.org/ontologies/ecosystems/seriola_lalandi
+
+
+Palomette <-> http://www.ecoscope.org/ontologies/ecosystems/orcynopsis_unicolor
+
+
+Yellow-edged lyretail <-> http://www.ecoscope.org/ontologies/ecosystems/variola_louti
+
+
+Cornuda cruz(=Pez martillo) <-> http://www.ecoscope.org/ontologies/ecosystems/sphyrna_zygaena
+
+
+Cap Ste Marie <-> http://www.ecoscope.org/ontologies/ecosystems/cap_ste_marie
+
+
+Carcharhinus limbatus <-> http://www.ecoscope.org/ontologies/ecosystems/carcharhinus_limbatus
+
+
+Océan Indien <-> http://www.ecoscope.org/ontologies/ecosystems/indianOcean
+
+
+Tetrapturus albidus <-> http://www.ecoscope.org/ontologies/ecosystems/tetrapturus_albidus
+
+
+Le courant des Canaries <-> http://www.ecoscope.org/ontologies/ecosystems/canaria_ecosystem
+
+
+macronectes giganteus <-> http://www.ecoscope.org/ontologies/ecosystems/macronectes_giganteus
+
+
+AEP exemple <-> http://www.ecoscope.org/ontologies/ecosystems/aepExampleCaseStudy
+
+
+Summan grouper <-> http://www.ecoscope.org/ontologies/ecosystems/epinephelus_summana
+
+
+net_primary_productivity_of_carbon <-> http://www.ecoscope.org/ontologies/ecosystems/primaryProduction
+
+
+Atlantic Ocean <-> http://www.ecoscope.org/ontologies/ecosystems/atlanticOcean
+
+
+Odontodactylus scyllarus <-> http://www.ecoscope.org/ontologies/ecosystems/odontodactylus_scyllarus
+
+
+Catalan Sea <-> http://www.ecoscope.org/ontologies/ecosystems/balearicSea
+
+
+Sthenototeutis <-> http://www.ecoscope.org/ontologies/ecosystems/sthenototeutis
+
+
+Serra <-> http://www.ecoscope.org/ontologies/ecosystems/scomberomorus_brasiliensis
+
+
+Symbolophorus evermanni <-> http://www.ecoscope.org/ontologies/ecosystems/symbolophorus_evermanni
+
+
+Graceful shark <-> http://www.ecoscope.org/ontologies/ecosystems/carcharhinus_amblyrhynchoides
+
+
+Remora remora <-> http://www.ecoscope.org/ontologies/ecosystems/remora_remora
+
+
+Roving coralgrouper <-> http://www.ecoscope.org/ontologies/ecosystems/plectropomus_pessuliferus
+
+
+Oceanic puffer <-> http://www.ecoscope.org/ontologies/ecosystems/lagocephalus_lagocephalus
+
+
+Hammerhead sharks nei <-> http://www.ecoscope.org/ontologies/ecosystems/sphyrna_spp
+
+
+marlinsucker <-> http://www.ecoscope.org/ontologies/ecosystems/remora_osteochir
+
+
+Hoplosthetus sp <-> http://www.ecoscope.org/ontologies/ecosystems/hoplosthetus_sp
+
+
+Toothed-fin squid <-> http://www.ecoscope.org/ontologies/ecosystems/ctenopteryx_sicula
+
+
+Sphyraena jello <-> http://www.ecoscope.org/ontologies/ecosystems/sphyraena_jello
+
+
+Sénégal <-> http://www.ecoscope.org/ontologies/ecosystems/senegalSea
+
+
+Phronima sp <-> http://www.ecoscope.org/ontologies/ecosystems/phronima_sp
+
+
+King penguin <-> http://www.ecoscope.org/ontologies/ecosystems/aptenodytes_patagonicus
+
+
+Humboldt penguin <-> http://www.ecoscope.org/ontologies/ecosystems/spheniscus_humboldti
+
+
+Starry triggerfish <-> http://www.ecoscope.org/ontologies/ecosystems/abalistes_stellatus
+
+
+Pota cárdena <-> http://www.ecoscope.org/ontologies/ecosystems/sthenoteuthis_oualaniensis
+
+
+Makaire à rostre court <-> http://www.ecoscope.org/ontologies/ecosystems/tetrapturus_angustirostris
+
+
+Océan Atlantique Sud <-> http://www.ecoscope.org/ontologies/ecosystems/southAtlanticOcean
+
+
+Canthidermis maculatus <-> http://www.ecoscope.org/ontologies/ecosystems/canthidermis_maculatus
+
+
+Télédétection <-> http://www.ecoscope.org/ontologies/ecosystems/remote_sensing
+
+
+Thazards non classés <-> http://www.ecoscope.org/ontologies/ecosystems/scomberomorus_sp
+
+
+Atún aleta negra <-> http://www.ecoscope.org/ontologies/ecosystems/thunnus_atlanticus
+
+
+Omosudis lowei <-> http://www.ecoscope.org/ontologies/ecosystems/omosudis_lowei
+
+
+Juveniles côtiers <-> http://www.ecoscope.org/ontologies/ecosystems/juveniles_cotiers
+
+
+Naso sp <-> http://www.ecoscope.org/ontologies/ecosystems/naso_sp
+
+
+Lepas anatifera <-> http://www.ecoscope.org/ontologies/ecosystems/lepas_anatifera
+
+
+Géostatistiques <-> http://www.ecoscope.org/ontologies/ecosystems/spatial_statistics
+
+
+Great white shark <-> http://www.ecoscope.org/ontologies/ecosystems/carcharodon_carcharias
+
+
+Shortfin scad <-> http://www.ecoscope.org/ontologies/ecosystems/decapterus_macrosoma
+
+
+Acanthephyra Sanguinea <-> http://www.ecoscope.org/ontologies/ecosystems/acanthephyra_sanguinea
+
+
+Avel Vad <-> http://www.ecoscope.org/ontologies/ecosystems/avel_vad
+
+
+Gempylidae <-> http://www.ecoscope.org/ontologies/ecosystems/gempylidae
+
+
+Biologie <-> http://www.ecoscope.org/ontologies/ecosystems/biology
+
+
+Lutjanus sebae <-> http://www.ecoscope.org/ontologies/ecosystems/lutjanus_sebae
+
+
+Aluterus monoceros <-> http://www.ecoscope.org/ontologies/ecosystems/aluterus_monoceros
+
+
+Makaira nigricans <-> http://www.ecoscope.org/ontologies/ecosystems/makaira_nigricans
+
+
+snubnose chub <-> http://www.ecoscope.org/ontologies/ecosystems/kyphosus_cinerascens
+
+
+Caranx crysos <-> http://www.ecoscope.org/ontologies/ecosystems/caranx_crysos
+
+
+Cap St Paul <-> http://www.ecoscope.org/ontologies/ecosystems/cap_st_paul
+
+
+Euthynnus alleteratus <-> http://www.ecoscope.org/ontologies/ecosystems/euthynnus_alleteratus
+
+
+Thazard ponctué (Indo-Pacifique) <-> http://www.ecoscope.org/ontologies/ecosystems/scomberomorus_guttatus
+
+
+Fou à pieds rouges <-> http://www.ecoscope.org/ontologies/ecosystems/sula_sula
+
+
+mako shark <-> http://www.ecoscope.org/ontologies/ecosystems/isurus_oxyrhinchus
+
+
+Shortbill spearfish <-> http://www.ecoscope.org/ontologies/ecosystems/tetrapturus_angustirostris
+
+
+Poisson lune <-> http://www.ecoscope.org/ontologies/ecosystems/mola_mola
+
+
+Ornithoteuthis volatilis <-> http://www.ecoscope.org/ontologies/ecosystems/ornithoteuthis_volatilis
+
+
+Sphyrna mokarran <-> http://www.ecoscope.org/ontologies/ecosystems/sphyrna_mokarran
+
+
+Vinciguerria nimbaria <-> http://www.ecoscope.org/ontologies/ecosystems/vinciguerria_nimbaria
+
+
+Iberian Sea <-> http://www.ecoscope.org/ontologies/ecosystems/balearicSea
+
+
+Fou du Pérou <-> http://www.ecoscope.org/ontologies/ecosystems/sula_variegata
+
+
+Lampuga <-> http://www.ecoscope.org/ontologies/ecosystems/coryphaena_hippurus
+
+
+Alepisaurus ferox <-> http://www.ecoscope.org/ontologies/ecosystems/alepisaurus_ferox
+
+
+Giant manta <-> http://www.ecoscope.org/ontologies/ecosystems/mobula_spp
+
+
+Inca stern <-> http://www.ecoscope.org/ontologies/ecosystems/larosterna_inca
+
+
+Regalecus spp <-> http://www.ecoscope.org/ontologies/ecosystems/regalecus_spp
+
+
+California ecosystem <-> http://www.ecoscope.org/ontologies/ecosystems/california_ecosystem
+
+
+Carcharhinidae <-> http://www.ecoscope.org/ontologies/ecosystems/carcharhinidae
+
+
+Chelonia mydas <-> http://www.ecoscope.org/ontologies/ecosystems/chelonia_mydas
+
+
+Myripristis sp <-> http://www.ecoscope.org/ontologies/ecosystems/myripristis_sp
+
+
+Benguela ecosystema <-> http://www.ecoscope.org/ontologies/ecosystems/benguela_ecosystem
+
+
+Pota saltadora <-> http://www.ecoscope.org/ontologies/ecosystems/ommastrephes_bartrami
+
+
+Taractes spp <-> http://www.ecoscope.org/ontologies/ecosystems/taractes_spp
+
+
+Bonite folle <-> http://www.ecoscope.org/ontologies/ecosystems/katsuwonus_pelamis
+
+
+Argonauta argo <-> http://www.ecoscope.org/ontologies/ecosystems/argonauta_argo
+
+
+Silvertip shark <-> http://www.ecoscope.org/ontologies/ecosystems/carcharhinus_albimarginatus
+
+
+Hyporhamphus sp <-> http://www.ecoscope.org/ontologies/ecosystems/hyporhamphus_sp
+
+
+Mozambique Channel <-> http://www.ecoscope.org/ontologies/ecosystems/mozambiqueChannel
+
+
+Atlantic Spanish mackerell <-> http://www.ecoscope.org/ontologies/ecosystems/scomberomorus_maculatus
+
+
+Hammerhead shark <-> http://www.ecoscope.org/ontologies/ecosystems/sphyrna_lewini
+
+
+Zorro ojón <-> http://www.ecoscope.org/ontologies/ecosystems/alopias_superciliosus
+
+
+Stingrays, butterfly rays nei <-> http://www.ecoscope.org/ontologies/ecosystems/dasyatidae
+
+
+Integrated Water Vapour <-> http://www.ecoscope.org/ontologies/ecosystems/integratedWaterVapour
+
+
+CONCARNEAU <-> http://www.ecoscope.org/ontologies/ecosystems/harbour_FRA_COC
+
+
+DAKAR <-> http://www.ecoscope.org/ontologies/ecosystems/harbour_DKR_SEN
+
+
+South American sea lion <-> http://www.ecoscope.org/ontologies/ecosystems/otaria_flavescens
+
+
+Tiger shark <-> http://www.ecoscope.org/ontologies/ecosystems/galeocerdo_cuvier
+
+
+Kogia sima <-> http://www.ecoscope.org/ontologies/ecosystems/kogia_sima
+
+
+requin baleine <-> http://www.ecoscope.org/ontologies/ecosystems/rhincodon_typus
+
+
+Patudo <-> http://www.ecoscope.org/ontologies/ecosystems/thunnus_obesus
+
+
+Carcharhinus spp <-> http://www.ecoscope.org/ontologies/ecosystems/carcharhinus_spp
+
+
+Taningia danae dans worms <-> http://www.ecoscope.org/ontologies/ecosystems/taaningia_danae
+
+
+Benguela ecosystem <-> http://www.ecoscope.org/ontologies/ecosystems/benguela_ecosystem
+
+
+Ocean triggerfish <-> http://www.ecoscope.org/ontologies/ecosystems/canthidermis_maculatus
+
+
+Horse Mackerel <-> http://www.ecoscope.org/ontologies/ecosystems/trachurus_trachurus_capensis
+
+
+Indo-Pacific blue marlin <-> http://www.ecoscope.org/ontologies/ecosystems/makaira_mazara
+
+
+Epinephelus tauvina <-> http://www.ecoscope.org/ontologies/ecosystems/epinephelus_tauvina
+
+
+Black marlin <-> http://www.ecoscope.org/ontologies/ecosystems/makaira_indica
+
+
+Carite del Indo-Pacífico <-> http://www.ecoscope.org/ontologies/ecosystems/scomberomorus_guttatus
+
+
+Auxide <-> http://www.ecoscope.org/ontologies/ecosystems/auxis_thazard
+
+
+Manchot royal <-> http://www.ecoscope.org/ontologies/ecosystems/aptenodytes_patagonicus
+
+
+Lutjanus sanguineus <-> http://www.ecoscope.org/ontologies/ecosystems/lutjanus_sanguineus
+
+
+purse seine <-> http://www.ecoscope.org/ontologies/ecosystems/seine
+
+
+Gonad <-> http://www.ecoscope.org/ontologies/ecosystems/gonad
+
+
+Auxis sp <-> http://www.ecoscope.org/ontologies/ecosystems/auxis_sp
+
+
+Avel vor <-> http://www.ecoscope.org/ontologies/ecosystems/avel_vor
+
+
+Great barracuda <-> http://www.ecoscope.org/ontologies/ecosystems/sphyraena_barracuda
+
+
+Ceratoscopelus warmingii <-> http://www.ecoscope.org/ontologies/ecosystems/ceratoscopelus_warmingii
+
+
+Auxis rochei <-> http://www.ecoscope.org/ontologies/ecosystems/auxis_rochei
+
+
+Hawksbill turtle <-> http://www.ecoscope.org/ontologies/ecosystems/eretmochelys_imbricata
+
+
+Pez luna <-> http://www.ecoscope.org/ontologies/ecosystems/mola_mola
+
+
+Taonius sp <-> http://www.ecoscope.org/ontologies/ecosystems/taonius_sp
+
+
+Thon à nageoire jaune <-> http://www.ecoscope.org/ontologies/ecosystems/thunnus_albacares
+
+
+Mer adriatique <-> http://www.ecoscope.org/ontologies/ecosystems/adriaticSea
+
+
+Phrosina semilunata <-> http://www.ecoscope.org/ontologies/ecosystems/phrosina_semilunata
+
+
+mobula mobula <-> http://www.ecoscope.org/ontologies/ecosystems/mobula_mobula
+
+
+Tiburón jaquetón <-> http://www.ecoscope.org/ontologies/ecosystems/carcharhinus_falciformis
+
+
+Malcarado de Parin <-> http://www.ecoscope.org/ontologies/ecosystems/diretmoides_parini
+
+
+La pêche à la canne à l’appât vivant <-> http://www.ecoscope.org/ontologies/ecosystems/canne
+
+
+Pholidoteuthis boschmai <-> http://www.ecoscope.org/ontologies/ecosystems/pholidoteuthis_boschmai
+
+
+Requin soyeux <-> http://www.ecoscope.org/ontologies/ecosystems/carcharhinus_falciformis
+
+
+Bramidae <-> http://www.ecoscope.org/ontologies/ecosystems/bramidae
+
+
+Japanese hooked squid <-> http://www.ecoscope.org/ontologies/ecosystems/moroteuthis_lonnbergii
+
+
+Bluntnose sixgill shark <-> http://www.ecoscope.org/ontologies/ecosystems/hexanchus_griseus
+
+
+Silvery hatchetfish <-> http://www.ecoscope.org/ontologies/ecosystems/argyropelecus_sladeni
+
+
+Population dynamics <-> http://www.ecoscope.org/ontologies/ecosystems/population_dynamics
+
+
+octopodes <-> http://www.ecoscope.org/ontologies/ecosystems/autres_octopodes
+
+
+Diretmus argenteus <-> http://www.ecoscope.org/ontologies/ecosystems/diretmus_argenteus
+
+
+Vapeur d'eau <-> http://www.ecoscope.org/ontologies/ecosystems/integratedWaterVapour
+
+
+Atlantic sailfish <-> http://www.ecoscope.org/ontologies/ecosystems/istiophorus_albicans
+
+
+Encornet planeur <-> http://www.ecoscope.org/ontologies/ecosystems/ornithoteuthis_volatilis
+
+
+Alopias vulpinus <-> http://www.ecoscope.org/ontologies/ecosystems/alopias_vulpinus
+
+
+Oilfish <-> http://www.ecoscope.org/ontologies/ecosystems/ruvettus_pretiosus
+
+
+christophe colomb <-> http://www.ecoscope.org/ontologies/ecosystems/christophe_colomb
+
+
+Albacore <-> http://www.ecoscope.org/ontologies/ecosystems/thunnus_alalunga
+
+
+Anoplogaster cornutus (misspelled) <-> http://www.ecoscope.org/ontologies/ecosystems/anoplogaster_cornuta
+
+
+Décrire ici un cas d'étude qui illustre la problématique d'une pêcherie au Chalut en précisant la ou les ressources, la localisation , la période... <-> http://www.ecoscope.org/ontologies/ecosystems/fisheryWithTrawlExampleCaseStudy
+
+
+sla <-> http://www.ecoscope.org/ontologies/ecosystems/seaLevelAnomaly
+
+
+Thunnus maccoyii <-> http://www.ecoscope.org/ontologies/ecosystems/thunnus_maccoyii
+
+
+Kogia simus <-> http://www.ecoscope.org/ontologies/ecosystems/kogia_sima
+
+
+Sternopthychidae sp <-> http://www.ecoscope.org/ontologies/ecosystems/sternopthychidae_sp
+
+
+Informatique <-> http://www.ecoscope.org/ontologies/ecosystems/computer_sciences
+
+
+Atlantique tropicale Est <-> http://www.ecoscope.org/ontologies/ecosystems/eastern_tropical_atlantic_ecosystem
+
+
+rosrico <-> http://www.ecoscope.org/ontologies/ecosystems/rospico
+
+
+Palmate octopus <-> http://www.ecoscope.org/ontologies/ecosystems/tremoctopus_violaceus
+
+
+sea_surface_height_above_geoid <-> http://www.ecoscope.org/ontologies/ecosystems/seaLevelAnomaly
+
+
+Thyrsitoides marleyi <-> http://www.ecoscope.org/ontologies/ecosystems/thyrsitoides_marleyi
+
+
+DJIBOUTI <-> http://www.ecoscope.org/ontologies/ecosystems/harbour_DJI_JIB
+
+
+Lepidochelys olivacea <-> http://www.ecoscope.org/ontologies/ecosystems/lepidochelys_olivacea
+
+
+Thazard tacheté du sud <-> http://www.ecoscope.org/ontologies/ecosystems/scomberomorus_brasiliensis
+
+
+Ocean sunfish <-> http://www.ecoscope.org/ontologies/ecosystems/mola_mola
+
+
+Dormilona <-> http://www.ecoscope.org/ontologies/ecosystems/lobotes_surinamensis
+
+
+Discipline qui étudie le comportement animal. Représentée au CRH pour l'étude de.... <-> http://www.ecoscope.org/ontologies/ecosystems/ethology
+
+
+crab larvae <-> http://www.ecoscope.org/ontologies/ecosystems/crab_larvae
+
+
+Zorro pelágico <-> http://www.ecoscope.org/ontologies/ecosystems/alopias_pelagicus
+
+
+Mobula diabolus <-> http://www.ecoscope.org/ontologies/ecosystems/mobula_diabolus
+
+
+Polyprion americanus <-> http://www.ecoscope.org/ontologies/ecosystems/polyprion_americanus
+
+
+Adriatic Sea <-> http://www.ecoscope.org/ontologies/ecosystems/adriaticSea
+
+
+Scombrolabrax heterolepis <-> http://www.ecoscope.org/ontologies/ecosystems/scombrolabrax_heterolepis
+
+
+Elephant Seal <-> http://www.ecoscope.org/ontologies/ecosystems/mirounga_leonina
+
+
+Argyropelecus gigas <-> http://www.ecoscope.org/ontologies/ecosystems/argyropelecus_gigas
+
+
+Octopoteuthis sp <-> http://www.ecoscope.org/ontologies/ecosystems/octopoteuthis_sp
+
+
+Indian Ocean <-> http://www.ecoscope.org/ontologies/ecosystems/indianOcean
+
+
+Xiphias gladius <-> http://www.ecoscope.org/ontologies/ecosystems/xiphias_gladius
+
+
+Calamarín alidentado <-> http://www.ecoscope.org/ontologies/ecosystems/ctenopteryx_sicula
+
+
+Dirette de Parin <-> http://www.ecoscope.org/ontologies/ecosystems/diretmoides_parini
+
+
+Étincelle <-> http://www.ecoscope.org/ontologies/ecosystems/electrona_risso
+
+
+Abudefduf vaigiensis <-> http://www.ecoscope.org/ontologies/ecosystems/abudefduf_vaigiensis
+
+
+Cavolinia sp <-> http://www.ecoscope.org/ontologies/ecosystems/cavolinia_sp
+
+
+Kyphosus vaigiensis <-> http://www.ecoscope.org/ontologies/ecosystems/kyphosus_vaigiensis
+
+
+Sthenoteuthis oualaniensis <-> http://www.ecoscope.org/ontologies/ecosystems/sthenoteuthis_oualaniensis
+
+
+Hapuka <-> http://www.ecoscope.org/ontologies/ecosystems/polyprion_spp
+
+
+Caranx sp <-> http://www.ecoscope.org/ontologies/ecosystems/caranx_sp
+
+
+Bonite à ventre rayé <-> http://www.ecoscope.org/ontologies/ecosystems/katsuwonus_pelamis
+
+
+Coryphaena equiselis <-> http://www.ecoscope.org/ontologies/ecosystems/coryphaena_equiselis
+
+
+Royal escolar <-> http://www.ecoscope.org/ontologies/ecosystems/rexea_prometheoides
+
+
+Hexanchus griseus <-> http://www.ecoscope.org/ontologies/ecosystems/hexanchus_griseus
+
+
+Longbill spearfish <-> http://www.ecoscope.org/ontologies/ecosystems/tetrapturus_pfluegeri
+
+
+Eretmochelys imbricata <-> http://www.ecoscope.org/ontologies/ecosystems/eretmochelys_imbricata
+
+
+BOULOGNE <-> http://www.ecoscope.org/ontologies/ecosystems/harbour_FRA_BOL
+
+
+Paralepis atlantica <-> http://www.ecoscope.org/ontologies/ecosystems/paralepis_atlantica
+
+
+Atlantic white marlin <-> http://www.ecoscope.org/ontologies/ecosystems/tetrapturus_albidus
+
+
+Pickhandle barracuda <-> http://www.ecoscope.org/ontologies/ecosystems/sphyraena_jello
+
+
+Ecosystème de Humboldt <-> http://www.ecoscope.org/ontologies/ecosystems/humboldt_ecosystem
+
+
+Carcharhinus albimarginatus <-> http://www.ecoscope.org/ontologies/ecosystems/carcharhinus_albimarginatus
+
+
+Sladen's hatchtefish <-> http://www.ecoscope.org/ontologies/ecosystems/argyropelecus_sladeni
+
+
+Thon rouge du sud <-> http://www.ecoscope.org/ontologies/ecosystems/thunnus_maccoyii
+
+
+Bigeye trevally <-> http://www.ecoscope.org/ontologies/ecosystems/carcharhinus_spp
+
+
+Melva <-> http://www.ecoscope.org/ontologies/ecosystems/auxis_rochei
+
+
+F de Magellan <-> http://www.ecoscope.org/ontologies/ecosystems/f_de_Magellan
+
+
+pelagic octopoda sp1 <-> http://www.ecoscope.org/ontologies/ecosystems/pelagic_octopoda_sp1
+
+
+mobula mobular dans worms, fishbase, wiki  ? <-> http://www.ecoscope.org/ontologies/ecosystems/mobula_mobula
+
+
+pelagic octopoda sp2 <-> http://www.ecoscope.org/ontologies/ecosystems/pelagic_octopoda_sp2
+
+
+Baitboat <-> http://www.ecoscope.org/ontologies/ecosystems/baitboat
+
+
+Ommastrephes bartramii dans worms... <-> http://www.ecoscope.org/ontologies/ecosystems/ommastrephes_bartrami
+
+
+Aviso <-> http://www.ecoscope.org/ontologies/ecosystems/aviso
+
+
+bayota <-> http://www.ecoscope.org/ontologies/ecosystems/bayota
+
+
+porcupinefish <-> http://www.ecoscope.org/ontologies/ecosystems/diodon_hystrix
+
+
+Intestin <-> http://www.ecoscope.org/ontologies/ecosystems/bowel
+
+
+North Atlantic Ocean <-> http://www.ecoscope.org/ontologies/ecosystems/northAtlanticOcean
+
+
+Thunnus alalunga <-> http://www.ecoscope.org/ontologies/ecosystems/thunnus_alalunga
+
+
+Mako sharks <-> http://www.ecoscope.org/ontologies/ecosystems/isurus_spp
+
+
+Lestidiops similis <-> http://www.ecoscope.org/ontologies/ecosystems/lestidiops_similis
+
+
+Shark suckers <-> http://www.ecoscope.org/ontologies/ecosystems/remora_sp
+
+
+Reef odontoactylid mantis shrimp? <-> http://www.ecoscope.org/ontologies/ecosystems/odontodactylus_scyllarus
+
+
+Isurus oxyrhinchus <-> http://www.ecoscope.org/ontologies/ecosystems/isurus_oxyrhinchus
+
+
+Spotted Spanish mackerel <-> http://www.ecoscope.org/ontologies/ecosystems/scomberomorus_maculatus
+
+
+Omosudis dans worms !!!!! <-> http://www.ecoscope.org/ontologies/ecosystems/ommosudis_lowsi
+
+
+Phoebetria fusca <-> http://www.ecoscope.org/ontologies/ecosystems/phoebetria_fusca
+
+
+sooty albatross <-> http://www.ecoscope.org/ontologies/ecosystems/phoebetria_fusca
+
+
+Yellowtail amberjack <-> http://www.ecoscope.org/ontologies/ecosystems/seriola_lalandi
+
+
+Striped bonito <-> http://www.ecoscope.org/ontologies/ecosystems/sarda_orientalis
+
+
+Short snouted lancetfish <-> http://www.ecoscope.org/ontologies/ecosystems/alepisaurus_brevirostris
+
+
+Carita <-> http://www.ecoscope.org/ontologies/ecosystems/scomberomorus_maculatus
+
+
+Carite lusitánico <-> http://www.ecoscope.org/ontologies/ecosystems/scomberomorus_tritor
+
+
+Pámpanos, palometónes nep <-> http://www.ecoscope.org/ontologies/ecosystems/stromateidae
+
+
+Victoria Harbour, Seychelles <-> http://www.ecoscope.org/ontologies/ecosystems/victoriaHarbour
+
+
+Argyropelecus sladeni <-> http://www.ecoscope.org/ontologies/ecosystems/argyropelecus_sladeni
+
+
+Crocodile shark <-> http://www.ecoscope.org/ontologies/ecosystems/pseudocarcharias_kamoharai
+
+
+Ablennes hians <-> http://www.ecoscope.org/ontologies/ecosystems/ablennes_hians
+
+
+Bounicou <-> http://www.ecoscope.org/ontologies/ecosystems/katsuwonus_pelamis
+
+
+Snake mackerels, escolars nei <-> http://www.ecoscope.org/ontologies/ecosystems/gempylidae
+
+
+mar de sergio <-> http://www.ecoscope.org/ontologies/ecosystems/mar_de_sergio
+
+
+petrel... <-> http://www.ecoscope.org/ontologies/ecosystems/procellaria_aequinoctialis
+
+
+Listado <-> http://www.ecoscope.org/ontologies/ecosystems/katsuwonus_pelamis
+
+
+Epinephelus morrhua <-> http://www.ecoscope.org/ontologies/ecosystems/epinephelus_morrhua
+
+
+Thazard cirrus <-> http://www.ecoscope.org/ontologies/ecosystems/scomberomorus_lineolatus
+
+
+tortue verte <-> http://www.ecoscope.org/ontologies/ecosystems/chelonia_mydas
+
+
+Humboldt ecosystem <-> http://www.ecoscope.org/ontologies/ecosystems/humboldt_ecosystem
+
+
+Thon mignon <-> http://www.ecoscope.org/ontologies/ecosystems/thunnus_tonggol
+
+
+Marlín trompa corta <-> http://www.ecoscope.org/ontologies/ecosystems/tetrapturus_angustirostris
+
+
+L'écosystème marin exploité de Guinée <-> http://www.ecoscope.org/ontologies/ecosystems/guinea_ecosystem
+
+
+Sea Surface Temperature <-> http://www.ecoscope.org/ontologies/ecosystems/sst
+
+
+Lagocephalus spadiceus <-> http://www.ecoscope.org/ontologies/ecosystems/lagocephalus_spadiceus
+
+
+Squatina aculeata <-> http://www.ecoscope.org/ontologies/ecosystems/squatina_aculeata
+
+
+Stomac <-> http://www.ecoscope.org/ontologies/ecosystems/stomac
+
+
+Physical oceanography <-> http://www.ecoscope.org/ontologies/ecosystems/physical_oceanography
+
+
+Calmar à nageoire denticulée <-> http://www.ecoscope.org/ontologies/ecosystems/ctenopteryx_sicula
+
+
+salpes <-> http://www.ecoscope.org/ontologies/ecosystems/salpes
+
+
+Tropical Rainfall Measuring Mission (TRMM) satellite <-> http://www.ecoscope.org/ontologies/ecosystems/trmm
+
+
+Albatros errante <-> http://www.ecoscope.org/ontologies/ecosystems/diomedea_exulans
+
+
+Leatherback turtle <-> http://www.ecoscope.org/ontologies/ecosystems/dermochelys_coriacea
+
+
+Atún tongol <-> http://www.ecoscope.org/ontologies/ecosystems/thunnus_tonggol
+
+
+Océan Pacifique <-> http://www.ecoscope.org/ontologies/ecosystems/pacificOcean
+
+
+Voilier Indo-Pacifique <-> http://www.ecoscope.org/ontologies/ecosystems/istiophorus_platypterus
+
+
+Oceanic whitetip shark <-> http://www.ecoscope.org/ontologies/ecosystems/carcharhinus_longimanus
+
+
+Emperor red snapper <-> http://www.ecoscope.org/ontologies/ecosystems/lutjanus_sebae
+
+
+Carcharhinus altimus <-> http://www.ecoscope.org/ontologies/ecosystems/carcharhinus_altimus
+
+
+Masturus lanceolatus <-> http://www.ecoscope.org/ontologies/ecosystems/masturus_lanceolatus
+
+
+Via Zéphyr <-> http://www.ecoscope.org/ontologies/ecosystems/via_zephyr
+
+
+Cornet japonais <-> http://www.ecoscope.org/ontologies/ecosystems/moroteuthis_lonnbergii
+
+
+Pristipomoides typus <-> http://www.ecoscope.org/ontologies/ecosystems/pristipomoides_typus
+
+
+Parapronoe sp <-> http://www.ecoscope.org/ontologies/ecosystems/parapronoe_sp
+
+
+Escolar oscuro <-> http://www.ecoscope.org/ontologies/ecosystems/nealotus_tripes
+
+
+Lancetfishes nei <-> http://www.ecoscope.org/ontologies/ecosystems/alepisaurus_spp
+
+
+Lestrolepis intermedia <-> http://www.ecoscope.org/ontologies/ecosystems/lestrolepis_intermedia
+
+
+Bacoreta <-> http://www.ecoscope.org/ontologies/ecosystems/euthynnus_alleteratus
+
+
+SKJ <-> http://www.ecoscope.org/ontologies/ecosystems/katsuwonus_pelamis
+
+
+Morus capensis <-> http://www.ecoscope.org/ontologies/ecosystems/morus_capensis
+
+
+Raja spp <-> http://www.ecoscope.org/ontologies/ecosystems/raja_spp
+
+
+King mackerel <-> http://www.ecoscope.org/ontologies/ecosystems/scomberomorus_cavalla
+
+
+Pota planeadora <-> http://www.ecoscope.org/ontologies/ecosystems/ornithoteuthis_volatilis
+
+
+Alepisaurus spp <-> http://www.ecoscope.org/ontologies/ecosystems/alepisaurus_spp
+
+
+Grammistes sexlineatus <-> http://www.ecoscope.org/ontologies/ecosystems/grammistes_sexlineatus
+
+
+Carangoides orthogrammus <-> http://www.ecoscope.org/ontologies/ecosystems/carangoides_orthogrammus
+
+
+blue sea chub <-> http://www.ecoscope.org/ontologies/ecosystems/kyphosus_cinerascens
+
+
+Neoanchisquilla tuberculata <-> http://www.ecoscope.org/ontologies/ecosystems/neoanchisquilla_tuberculata
+
+
+AMSR-E <-> http://www.ecoscope.org/ontologies/ecosystems/amsre
+
+
+Ommosudis lowsi <-> http://www.ecoscope.org/ontologies/ecosystems/ommosudis_lowsi
+
+
+logerhead sea turtle <-> http://www.ecoscope.org/ontologies/ecosystems/caretta_caretta
+
+
+Remorina albescens <-> http://www.ecoscope.org/ontologies/ecosystems/remorina_albescens
+
+
+Biology <-> http://www.ecoscope.org/ontologies/ecosystems/biology
+
+
+Salpidae dans Worms ?? <-> http://www.ecoscope.org/ontologies/ecosystems/salpes
+
+
+Pristipomoides filamentosus <-> http://www.ecoscope.org/ontologies/ecosystems/pristipomoides_filamentosus
+
+
+Thysanoteuthis rhombus <-> http://www.ecoscope.org/ontologies/ecosystems/thysanoteuthis_rhombus
+
+
+Thazard atlantique <-> http://www.ecoscope.org/ontologies/ecosystems/scomberomorus_maculatus
+
+
+Epinephelus albomarginatus <-> http://www.ecoscope.org/ontologies/ecosystems/epinephelus_albomarginatus
+
+
+Dynamique des pêcheries <-> http://www.ecoscope.org/ontologies/ecosystems/population_dynamics
+
+
+Trachurus capensis dans worms !!!  <-> http://www.ecoscope.org/ontologies/ecosystems/trachurus_trachurus_capensis
+
+
+Bonite orientale <-> http://www.ecoscope.org/ontologies/ecosystems/sarda_orientalis
+
+
+Lagocephalus sceleratus <-> http://www.ecoscope.org/ontologies/ecosystems/lagocephalus_sceleratus
+
+
+Scomberomorus guttatus <-> http://www.ecoscope.org/ontologies/ecosystems/scomberomorus_guttatus
+
+
+Octopus <-> http://www.ecoscope.org/ontologies/ecosystems/Octopus_vulgaris
+
+
+Enoplometopus sp <-> http://www.ecoscope.org/ontologies/ecosystems/enoplometopus_sp
+
+
+Butterfishes, pomfrets nei <-> http://www.ecoscope.org/ontologies/ecosystems/stromateidae
+
+
+Lobotes surinamensis <-> http://www.ecoscope.org/ontologies/ecosystems/lobotes_surinamensis
+
+
+cottonmouth jack <-> http://www.ecoscope.org/ontologies/ecosystems/uraspis_secunda
+
+
+Stromatés, ailerons nca <-> http://www.ecoscope.org/ontologies/ecosystems/stromateidae
+
+
+Pez hacha  <-> http://www.ecoscope.org/ontologies/ecosystems/argyropelecus_sladeni
+
+
+Balearic Sea <-> http://www.ecoscope.org/ontologies/ecosystems/balearicSea
+
+
+Arctocephalus Australis <-> http://www.ecoscope.org/ontologies/ecosystems/arctocephalus_Australis
+
+
+Thunnus albacares <-> http://www.ecoscope.org/ontologies/ecosystems/thunnus_albacares
+
+
+Giant trevally <-> http://www.ecoscope.org/ontologies/ecosystems/caranx_ignobilis
+
+
+Yellowfin tuna <-> http://www.ecoscope.org/ontologies/ecosystems/thunnus_albacares
+
+
+Behavioral ecology <-> http://www.ecoscope.org/ontologies/ecosystems/behavioral_ecology
+
+
+stinker <-> http://www.ecoscope.org/ontologies/ecosystems/macronectes_halli
+
+
+CAP VERT <-> http://www.ecoscope.org/ontologies/ecosystems/harbour_CPV
+
+
+Bluefin tuna <-> http://www.ecoscope.org/ontologies/ecosystems/bft
+
+
+Decapterus macrosoma <-> http://www.ecoscope.org/ontologies/ecosystems/decapterus_macrosoma
+
+
+Bacoreta oriental <-> http://www.ecoscope.org/ontologies/ecosystems/euthynnus_affinis
+
+
+Und Squids <-> http://www.ecoscope.org/ontologies/ecosystems/und_squids
+
+
+Manta birostris <-> http://www.ecoscope.org/ontologies/ecosystems/manta_birostris
+
+
+Balaou atlantique <-> http://www.ecoscope.org/ontologies/ecosystems/scomberesox_saurus
+
+
+Modeling <-> http://www.ecoscope.org/ontologies/ecosystems/modeling
+
+
+common rorqual <-> http://www.ecoscope.org/ontologies/ecosystems/balaenoptera_physalus
+
+
+Père Briant <-> http://www.ecoscope.org/ontologies/ecosystems/pere_briant
+
+
+Chipirón volantín <-> http://www.ecoscope.org/ontologies/ecosystems/thysanoteuthis_rhombus
+
+
+Salps <-> http://www.ecoscope.org/ontologies/ecosystems/salpes
+
+
+Encornet volant <-> http://www.ecoscope.org/ontologies/ecosystems/ommastrephes_bartrami
+
+
+Isurus paucus <-> http://www.ecoscope.org/ontologies/ecosystems/isurus_paucus
+
+
+Pieuvre palmée <-> http://www.ecoscope.org/ontologies/ecosystems/tremoctopus_violaceus
+
+
+Albatros d'Amsterdam <-> http://www.ecoscope.org/ontologies/ecosystems/diomedea_amsterdamensis
+
+
+Taningia danae <-> http://www.ecoscope.org/ontologies/ecosystems/taaningia_danae
+
+
+Caranx sexfasciatus <-> http://www.ecoscope.org/ontologies/ecosystems/caranx_sexfasciatus
+
+
+Comète maquereau <-> http://www.ecoscope.org/ontologies/ecosystems/decapterus_macarellus
+
+
+Via Mistral <-> http://www.ecoscope.org/ontologies/ecosystems/via_mistral
+
+
+Galeocerdo cuvier <-> http://www.ecoscope.org/ontologies/ecosystems/galeocerdo_cuvier
+
+
+Bonite ventre rayé <-> http://www.ecoscope.org/ontologies/ecosystems/katsuwonus_pelamis
+
+
+Aprion virescens <-> http://www.ecoscope.org/ontologies/ecosystems/aprion_virescens
+
+
+Carcharhinus galapagensis <-> http://www.ecoscope.org/ontologies/ecosystems/carcharhinus_galapagensis
+
+
+Imperial blackfish <-> http://www.ecoscope.org/ontologies/ecosystems/schedophilus_ovalis
+
+
+Espadon <-> http://www.ecoscope.org/ontologies/ecosystems/xiphias_gladius
+
+
+Elagatis bipinnulata <-> http://www.ecoscope.org/ontologies/ecosystems/elagatis_bipinnulata
+
+
+Dynamique des populations <-> http://www.ecoscope.org/ontologies/ecosystems/population_dynamics
+
+
+Diamondback squid <-> http://www.ecoscope.org/ontologies/ecosystems/thysanoteuthis_rhombus
+
+
+ChloA <-> http://www.ecoscope.org/ontologies/ecosystems/chlorophyllA
+
+
+Rynchonerella angelini <-> http://www.ecoscope.org/ontologies/ecosystems/rynchonerella_angelini
+
+
+Rouvet <-> http://www.ecoscope.org/ontologies/ecosystems/ruvettus_pretiosus
+
+
+sula sula <-> http://www.ecoscope.org/ontologies/ecosystems/sula_sula
+
+
+Atún rojo <-> http://www.ecoscope.org/ontologies/ecosystems/bft
+
+
+Pulpota <-> http://www.ecoscope.org/ontologies/ecosystems/taaningia_danae
+
+
+Avel viz <-> http://www.ecoscope.org/ontologies/ecosystems/avel_viz
+
+
+Picuda barracuda <-> http://www.ecoscope.org/ontologies/ecosystems/sphyraena_barracuda
+
+
+Eastern tropical atlantic <-> http://www.ecoscope.org/ontologies/ecosystems/eastern_tropical_atlantic_ecosystem
+
+
+SEYCHELLES <-> http://www.ecoscope.org/ontologies/ecosystems/harbour_SYC_VIC
+
+
+Carite estriado Indo-Pacífico <-> http://www.ecoscope.org/ontologies/ecosystems/scomberomorus_commerson
+
+
+Comète fine <-> http://www.ecoscope.org/ontologies/ecosystems/decapterus_macrosoma
+
+
+Thon dents de chien <-> http://www.ecoscope.org/ontologies/ecosystems/gymnosarda_unicolor
+
+
+chalut <-> http://www.ecoscope.org/ontologies/ecosystems/fisheryWithTrawlExampleCaseStudy
+
+
+Lamna nasus <-> http://www.ecoscope.org/ontologies/ecosystems/lamna_nasus
+
+
+Scomberomorus sp <-> http://www.ecoscope.org/ontologies/ecosystems/scomberomorus_sp
+
+
+Comètes nca <-> http://www.ecoscope.org/ontologies/ecosystems/decapterus_sp
+
+
+Wreckfish <-> http://www.ecoscope.org/ontologies/ecosystems/polyprion_americanus
+
+
+Thon gros yeux <-> http://www.ecoscope.org/ontologies/ecosystems/thunnus_obesus
+
+
+Thresher sharks nei <-> http://www.ecoscope.org/ontologies/ecosystems/brama_spp
+
+
+Green jobfish <-> http://www.ecoscope.org/ontologies/ecosystems/aprion_virescens
+
+
+Lancier longnez <-> http://www.ecoscope.org/ontologies/ecosystems/alepisaurus_ferox
+
+
+Jacks, crevalles nei <-> http://www.ecoscope.org/ontologies/ecosystems/caranx_sp
+
+
+Main Wind Force Resisting System <-> http://www.ecoscope.org/ontologies/ecosystems/mwfrs
+
+
+scrawled filefish <-> http://www.ecoscope.org/ontologies/ecosystems/aluterus_scriptus
+
+
+Ecosystème méditerranéen <-> http://www.ecoscope.org/ontologies/ecosystems/mediterranean_ecosystem
+
+
+Neon flying squid <-> http://www.ecoscope.org/ontologies/ecosystems/ommastrephes_bartrami
+
+
+Requin pointe blanche <-> http://www.ecoscope.org/ontologies/ecosystems/carcharhinus_albimarginatus
+
+
+Diretmoides parini <-> http://www.ecoscope.org/ontologies/ecosystems/diretmoides_parini
+
+
+Prickly fanfish <-> http://www.ecoscope.org/ontologies/ecosystems/pterycombus_petersii
+
+
+Orcynopsis unicolor <-> http://www.ecoscope.org/ontologies/ecosystems/orcynopsis_unicolor
+
+
+Men Cren <-> http://www.ecoscope.org/ontologies/ecosystems/men_cren
+
+
+Aguja azul <-> http://www.ecoscope.org/ontologies/ecosystems/makaira_nigricans
+
+
+Oceanography <-> http://www.ecoscope.org/ontologies/ecosystems/oceanography
+
+
+Broadbill swordfish <-> http://www.ecoscope.org/ontologies/ecosystems/xiphias_gladius
+
+
+Striped marlin <-> http://www.ecoscope.org/ontologies/ecosystems/tetrapturus_audax
+
+
+Rainbow runner <-> http://www.ecoscope.org/ontologies/ecosystems/elagatis_bipinnulata
+
+
+Mobula japanica <-> http://www.ecoscope.org/ontologies/ecosystems/mobula_japanica
+
+
+Benthosema suborbitale <-> http://www.ecoscope.org/ontologies/ecosystems/benthosema_suborbitale
+
+
+Onychoteuthis banksi dans dbStomac  et dans FAO !!!  <-> http://www.ecoscope.org/ontologies/ecosystems/onychoteuthis_banksi
+
+
+Ram's horn squid <-> http://www.ecoscope.org/ontologies/ecosystems/spirula_spirula
+
+
+requins <-> http://www.ecoscope.org/ontologies/ecosystems/requins
+
+
+Stenella attenuata <-> http://www.ecoscope.org/ontologies/ecosystems/stenella_attenuata
+
+
+Nansenia macrolepis <-> http://www.ecoscope.org/ontologies/ecosystems/nansenia_macrolepis
+
+
+Sandbar shark <-> http://www.ecoscope.org/ontologies/ecosystems/carcharhinus_plumbeus
+
+
+Atlantic blue marlin <-> http://www.ecoscope.org/ontologies/ecosystems/makaira_nigricans
+
+
+Makaire noir <-> http://www.ecoscope.org/ontologies/ecosystems/makaira_indica
+
+
+Escolier serpent <-> http://www.ecoscope.org/ontologies/ecosystems/gempylus_serpens
+
+
+Trachurus trachurus capensis <-> http://www.ecoscope.org/ontologies/ecosystems/trachurus_trachurus_capensis
+
+
+Pelagic stingray <-> http://www.ecoscope.org/ontologies/ecosystems/dasyatis_violacea
+
+
+Pseudocarcharias kamoharai <-> http://www.ecoscope.org/ontologies/ecosystems/pseudocarcharias_kamoharai
+
+
+Balistes capriscus <-> http://www.ecoscope.org/ontologies/ecosystems/balistes_capriscus
+
+
+Sula capensis <-> http://www.ecoscope.org/ontologies/ecosystems/morus_capensis
+
+
+Barracuda <-> http://www.ecoscope.org/ontologies/ecosystems/sphyraena_barracuda
+
+
+Thazard franc <-> http://www.ecoscope.org/ontologies/ecosystems/scomberomorus_regalis
+
+
+Ethology <-> http://www.ecoscope.org/ontologies/ecosystems/ethology
+
+
+Isurus spp <-> http://www.ecoscope.org/ontologies/ecosystems/isurus_spp
+
+
+Scomberomorus brasiliensis <-> http://www.ecoscope.org/ontologies/ecosystems/scomberomorus_brasiliensis
+
+
+triggerfish <-> http://www.ecoscope.org/ontologies/ecosystems/balistes_capriscus
+
+
+Somali ecosystem <-> http://www.ecoscope.org/ontologies/ecosystems/somali_ecosystem
+
+
+Dauphin tacheté pantropical <-> http://www.ecoscope.org/ontologies/ecosystems/stenella_attenuata
+
+
+Blacktip reef shark <-> http://www.ecoscope.org/ontologies/ecosystems/carcharhinus_melanopterus
+
+
+Electrona risso <-> http://www.ecoscope.org/ontologies/ecosystems/electrona_risso
+
+
+Analyse spatiale <-> http://www.ecoscope.org/ontologies/ecosystems/spatial_analysis
+
+
+Ornate jobfish <-> http://www.ecoscope.org/ontologies/ecosystems/pristipomoides_zonatus
+
+
+Nealotus tripes <-> http://www.ecoscope.org/ontologies/ecosystems/nealotus_tripes
+
+
+Cachalot nain <-> http://www.ecoscope.org/ontologies/ecosystems/kogia_sima
+
+
+Omosudis lowii <-> http://www.ecoscope.org/ontologies/ecosystems/omosudis_lowei
+
+
+Kyphosus cinerascens <-> http://www.ecoscope.org/ontologies/ecosystems/kyphosus_cinerascens
+
+
+Comet grouper <-> http://www.ecoscope.org/ontologies/ecosystems/epinephelus_morrhua
+
+
+Rexea prometheoides <-> http://www.ecoscope.org/ontologies/ecosystems/rexea_prometheoides
+
+
+Stock assessment <-> http://www.ecoscope.org/ontologies/ecosystems/stock_assessment
+
+
+Décrire ici un cas d'étude qui illustre la problématique d'une pêcherie à la Seine en précisant la ou les ressources, la localisation , la période... <-> http://www.ecoscope.org/ontologies/ecosystems/fisheryWithSeineExampleCaseStudy
+
+
+MAJUNGA <-> http://www.ecoscope.org/ontologies/ecosystems/harbour_MDG_MJN
+
+
+Scomberomorus lineolatus <-> http://www.ecoscope.org/ontologies/ecosystems/scomberomorus_lineolatus
+
+
+Monacanthidae <-> http://www.ecoscope.org/ontologies/ecosystems/monacanthidae
+
+
+caret <-> http://www.ecoscope.org/ontologies/ecosystems/eretmochelys_imbricata
+
+
+Blue shark <-> http://www.ecoscope.org/ontologies/ecosystems/prionace_glauca
+
+
+Oceanographie physique <-> http://www.ecoscope.org/ontologies/ecosystems/physical_oceanography
+
+
+SST <-> http://www.ecoscope.org/ontologies/ecosystems/sst
+
+
+Snake mackerel <-> http://www.ecoscope.org/ontologies/ecosystems/lagocephalus_sceleratus
+
+
+Percebe bravo <-> http://www.ecoscope.org/ontologies/ecosystems/lepas_anatifera
+
+
+Cap Bojador <-> http://www.ecoscope.org/ontologies/ecosystems/cap_bojador
+
+
+Petrel gris <-> http://www.ecoscope.org/ontologies/ecosystems/procellaria_cinerea
+
+
+vegetal <-> http://www.ecoscope.org/ontologies/ecosystems/vegetal
+
+
+yves de kerguelen <-> http://www.ecoscope.org/ontologies/ecosystems/yves_de_kerguelen
+
+
+Thon Patudo <-> http://www.ecoscope.org/ontologies/ecosystems/thunnus_obesus
+
+
+Wahoo <-> http://www.ecoscope.org/ontologies/ecosystems/acanthocybium_solandri
+
+
+Via Euros <-> http://www.ecoscope.org/ontologies/ecosystems/via_euros
+
+
+histioteuthidae sp <-> http://www.ecoscope.org/ontologies/ecosystems/histioteuthidae_sp
+
+
+Longline fishery, Reunion Island, France. <-> http://www.ecoscope.org/ontologies/ecosystems/fisheryWithOctopus_vulgaris
+
+
+Frigate tuna <-> http://www.ecoscope.org/ontologies/ecosystems/auxis_thazard
+
+
+Alopias superciliosus <-> http://www.ecoscope.org/ontologies/ecosystems/alopias_superciliosus
+
+
+Longnose lancetfish <-> http://www.ecoscope.org/ontologies/ecosystems/alepisaurus_ferox
+
+
+devil fish <-> http://www.ecoscope.org/ontologies/ecosystems/mobula_mobula
+
+
+Ostracion cubicus <-> http://www.ecoscope.org/ontologies/ecosystems/ostracion_cubicus
+
+
+Opa <-> http://www.ecoscope.org/ontologies/ecosystems/lampris_guttatus
+
+
+whale shark <-> http://www.ecoscope.org/ontologies/ecosystems/rhincodon_typus
+
+
+Avel vad <-> http://www.ecoscope.org/ontologies/ecosystems/avel_vad
+
+
+Sula variegata <-> http://www.ecoscope.org/ontologies/ecosystems/sula_variegata
+
+
+Prince de Joinville <-> http://www.ecoscope.org/ontologies/ecosystems/prince_de_Joinville
+
+
+Germon <-> http://www.ecoscope.org/ontologies/ecosystems/thunnus_alalunga
+
+
+Kyphosus sectator? dans worms!!! Kyphosus sectatrix dans FAO !!! <-> http://www.ecoscope.org/ontologies/ecosystems/kyphosis_sectatrix
+
+
+D'ZOUDZI <-> http://www.ecoscope.org/ontologies/ecosystems/harbour_MYT_DZA
+
+
+Escolar clavo <-> http://www.ecoscope.org/ontologies/ecosystems/ruvettus_pretiosus
+
+
+Pulpo manta <-> http://www.ecoscope.org/ontologies/ecosystems/tremoctopus_violaceus
+
+
+Thunnus atlanticus <-> http://www.ecoscope.org/ontologies/ecosystems/thunnus_atlanticus
+
+
+Mobula spp <-> http://www.ecoscope.org/ontologies/ecosystems/mobula_spp
+
+
+Hoplostethus dans worms !!! <-> http://www.ecoscope.org/ontologies/ecosystems/hoplosthetus_sp
+
+
+Melvera <-> http://www.ecoscope.org/ontologies/ecosystems/auxis_rochei
+
+
+Onychoteuthis banksii <-> http://www.ecoscope.org/ontologies/ecosystems/onychoteuthis_banksi
+
+
+BANDAR-ABBAS <-> http://www.ecoscope.org/ontologies/ecosystems/harbour_IRN_BND
+
+
+ABIDJAN <-> http://www.ecoscope.org/ontologies/ecosystems/harbour_CIV_ABJ
+
+
+Scomberomorus regalis <-> http://www.ecoscope.org/ontologies/ecosystems/scomberomorus_regalis
+
+
+Tripletail <-> http://www.ecoscope.org/ontologies/ecosystems/lobotes_surinamensis
+
+
+Estimation des stocks <-> http://www.ecoscope.org/ontologies/ecosystems/stock_assessment
+
+
+Brachyscelus crusculum dans Worms !!!  <-> http://www.ecoscope.org/ontologies/ecosystems/brachysculus_crusculum
+
+
+Frigate and bullet tunas <-> http://www.ecoscope.org/ontologies/ecosystems/auxis_sp
+
+
+Cero <-> http://www.ecoscope.org/ontologies/ecosystems/scomberomorus_regalis
+
+
+Carite rayado <-> http://www.ecoscope.org/ontologies/ecosystems/scomberomorus_lineolatus
+
+
+other <-> http://www.ecoscope.org/ontologies/ecosystems/other
+
+
+QuikSCAT <-> http://www.ecoscope.org/ontologies/ecosystems/QuikSCAT
+
+
+Gyre subtropicale du sud de l'océan Indien <-> http://www.ecoscope.org/ontologies/ecosystems/indian_south_subtropical_gyre_ecosystem
+
+
+Dasyatis spp <-> http://www.ecoscope.org/ontologies/ecosystems/dasyatis_spp
+
+
+Bonito <-> http://www.ecoscope.org/ontologies/ecosystems/sarda_sarda
+
+
+Thalassarche chlororhynchos <-> http://www.ecoscope.org/ontologies/ecosystems/thalassarche_chlororhynchos
+
+
+northern giant petrel <-> http://www.ecoscope.org/ontologies/ecosystems/macronectes_halli
+
+
+Pteroplatytrygon violacea <-> http://www.ecoscope.org/ontologies/ecosystems/pteroplatytrygon_violacea
+
+
+Istiophorus platypterus <-> http://www.ecoscope.org/ontologies/ecosystems/istiophorus_platypterus
+
+
+Atlantic black skipjack <-> http://www.ecoscope.org/ontologies/ecosystems/euthynnus_alleteratus
+
+
+sharksucker <-> http://www.ecoscope.org/ontologies/ecosystems/echeneis_naucrates
+
+
+Auxis thasard <-> http://www.ecoscope.org/ontologies/ecosystems/auxis_thazard
+
+
+Production Primaire <-> http://www.ecoscope.org/ontologies/ecosystems/primaryProduction
+
+
+Spatial statistics <-> http://www.ecoscope.org/ontologies/ecosystems/spatial_statistics
+
+
+Carcharhinus leucas <-> http://www.ecoscope.org/ontologies/ecosystems/carcharhinus_leucas
+
+
+live sharksucker <-> http://www.ecoscope.org/ontologies/ecosystems/echeneis_naucrates
+
+
+Estomac <-> http://www.ecoscope.org/ontologies/ecosystems/stomac
+
+
+green turtle <-> http://www.ecoscope.org/ontologies/ecosystems/chelonia_mydas
+
+
+Thazard blanc <-> http://www.ecoscope.org/ontologies/ecosystems/scomberomorus_tritor
+
+
+Chiroteuthis sp <-> http://www.ecoscope.org/ontologies/ecosystems/chiroteuthis_sp
+
+
+Unknown shrimps <-> http://www.ecoscope.org/ontologies/ecosystems/unknown_shrimps
+
+
+Ecosytème du Benguela <-> http://www.ecoscope.org/ontologies/ecosystems/benguela_ecosystem
+
+
+Scorpaenidae <-> http://www.ecoscope.org/ontologies/ecosystems/scorpaenidae
+
+
+Geomatic <-> http://www.ecoscope.org/ontologies/ecosystems/geomatic
+
+
+Bonite <-> http://www.ecoscope.org/ontologies/ecosystems/katsuwonus_pelamis
+
+
+Argonauta común <-> http://www.ecoscope.org/ontologies/ecosystems/argonauta_argo
+
+
+Bonita <-> http://www.ecoscope.org/ontologies/ecosystems/katsuwonus_pelamis
+
+
+Macarela caballa <-> http://www.ecoscope.org/ontologies/ecosystems/decapterus_macarellus
+
+
+Pingüino rey <-> http://www.ecoscope.org/ontologies/ecosystems/aptenodytes_patagonicus
+
+
+Sea-viewing Wide Field-of-view Sensor <-> http://www.ecoscope.org/ontologies/ecosystems/seawifs
+
+
