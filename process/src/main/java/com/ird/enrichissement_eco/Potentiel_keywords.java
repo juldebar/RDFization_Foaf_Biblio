@@ -259,10 +259,11 @@ public class Potentiel_keywords {
      */
     public static void main(String[] args) {
 
-        String addsPath = "/home/jimmy/Bureau/Sources/Start/adds.txt"; //Adresse des mots à y ajouter
+        String path = System.getProperty("user.dir");
+        String addsPath = path + "/inputs/adds.txt"; //Adresse des mots à y ajouter
         String service = "http://ecoscopebc.mpl.ird.fr:8080/joseki/ecoscope";
-        String refBiblio = "file:/home/jimmy/NetBeansProjects/Enrichissement_ecoscope/Biblio_ext.rdf"; //Chargement du model
-        String out = "potential_keywords.txt";
+        String refBiblio = "file:" + path + "/inputs/Biblio_ext.rdf"; //Chargement du model
+        String out = path + "/outputs/potential_keywords.txt";
         Model ModelBiblio = ModelFactory.createDefaultModel();
         ModelBiblio.read(refBiblio);
         try {

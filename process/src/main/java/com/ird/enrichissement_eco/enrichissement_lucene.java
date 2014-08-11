@@ -31,7 +31,6 @@ import org.apache.lucene.index.DirectoryReader;
 import org.apache.lucene.index.IndexWriter;
 import org.apache.lucene.index.IndexWriterConfig;
 import org.apache.lucene.index.Term;
-import org.apache.lucene.queryparser.classic.ParseException;
 import org.apache.lucene.search.IndexSearcher;
 import org.apache.lucene.search.PhraseQuery;
 import org.apache.lucene.search.ScoreDoc;
@@ -63,6 +62,7 @@ public class enrichissement_lucene {
      * @throws IOException
      */
     public static void enrichissement(String refBiblio, String agents, String ecosys, String ecodef, String bl, String service) throws IOException {
+        String path = System.getProperty("user.dir");
         // Les modèles dans lesquels on importe les triplets RDF des fichiers du dessus
         //MIX LECTURE / ECRITURE
         Model ModelBiblio_ext = ModelFactory.createDefaultModel();
@@ -83,7 +83,7 @@ public class enrichissement_lucene {
         }
         //Set out
         PrintStream originalOut = new PrintStream(System.out);
-        File result_query = new File("trace_enrichissement.txt");
+        File result_query = new File(path + "/outputs/trace_enrichissement.txt");
         PrintStream printStream = new PrintStream(result_query);
         System.setOut(printStream);
 
@@ -204,17 +204,17 @@ public class enrichissement_lucene {
         PrintWriter fluxSortie_ecodef;
         PrintWriter fluxSortie_agents;
         if (ecosys.equals("")) {
-            fluxSortie_eco = new PrintWriter(new FileOutputStream("Ecosystems_ext.rdf"));
+            fluxSortie_eco = new PrintWriter(new FileOutputStream(path + "/outputs/Ecosystems_ext.rdf"));
         } else {
             fluxSortie_eco = new PrintWriter(new FileOutputStream(ecodef));
         }
         if (ecodef.equals("")) {
-            fluxSortie_ecodef = new PrintWriter(new FileOutputStream("Ecosystems_def_ext.rdf"));
+            fluxSortie_ecodef = new PrintWriter(new FileOutputStream(path + "/outputs/Ecosystems_def_ext.rdf"));
         } else {
             fluxSortie_ecodef = new PrintWriter(new FileOutputStream(ecodef));
         }
         if (agents.equals("")) {
-            fluxSortie_agents = new PrintWriter(new FileOutputStream("Agents_ext.rdf"));
+            fluxSortie_agents = new PrintWriter(new FileOutputStream(path + "/outputs/Agents_ext.rdf"));
         } else {
             fluxSortie_agents = new PrintWriter(new FileOutputStream(agents));
         }
@@ -229,12 +229,13 @@ public class enrichissement_lucene {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        String path = System.getProperty("user.dir");
         //location of models : si on veut ajouter dedans on met le chemin. Sinon un Nom_ext.rdf est créé.
-        String refBiblio = "file:/home/jimmy/NetBeansProjects/Enrichissement_ecoscope/Biblio_ext.rdf"; //Model biblio
-        String agents = "file:/home/jimmy/NetBeansProjects/Enrichissement_ecoscope/Agents_ext.rdf"; //Model Agents
+        String refBiblio = "file:+" + path + "inputs/Biblio_ext.rdf"; //Model biblio
+        String agents = "file:" + path + "/inputs/Agents_ext.rdf"; //Model Agents
         String ecosys = "";
         String ecodef = "";
-        String ne_pas_annoter = "/home/jimmy/Bureau/Sources/Start/ne_pas_annoter.txt";
+        String ne_pas_annoter = path+"/inputs/ne_pas_annoter.txt";
         String service = "http://ecoscopebc.mpl.ird.fr:8080/joseki/ecoscope";
         try {
             enrichissement(refBiblio, agents, ecosys, ecodef, ne_pas_annoter, service);

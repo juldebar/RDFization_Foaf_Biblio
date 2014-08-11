@@ -159,7 +159,8 @@ public class CsvToRdf extends Basic_Frame implements Observable, ActionListener 
         if (!s.equals("Entrez le nom du fichier en sortie...")) {
             nameOutput = s;
         } else {
-            nameOutput = "mesAgents.rdf";
+            String path = System.getProperty("user.dir");
+            nameOutput = path + "/outputs/mesAgents.rdf";
         }
     }
 

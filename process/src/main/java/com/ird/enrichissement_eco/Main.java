@@ -33,12 +33,13 @@ public class Main {
      */
     public static void main(String[] args) {
 
+        String path = System.getProperty("user.dir");
         //Location of files 
-        String file_agents = "/home/jimmy/Bureau/Sources/Start/toto.csv"; //Chemin du fichier csv
+        String file_agents = path + "/inputs/agents.csv"; //Chemin du fichier csv
 
         //location of models
-        String refBiblio = "file:/home/jimmy/Bureau/Sources/Start/Zbibliotontology.rdf";
-        String agentEcoscope = "file:/home/jimmy/Bureau/Sources/Start/agents.owl";
+        String refBiblio = "file:" + path + "/inputs/bibliotontology.rdf";
+        String agentEcoscope = "file:" + path + "/inputs/agents.owl";
 
         // Les modèles dans lesquels on importe les triplets RDF des fichiers du dessus
         //UNIQUEMENT EN LECTURE
@@ -59,7 +60,7 @@ public class Main {
         Model Model_mesAgents = ModelFactory.createDefaultModel();
         extraction_agent(Model_mesAgents, file_agents);
         try {
-            PrintWriter fluxMes_agents = new PrintWriter(new FileOutputStream("mes_agent.rdf"));
+            PrintWriter fluxMes_agents = new PrintWriter(new FileOutputStream(path+"/outputs/mes_agent.rdf"));
             Model_mesAgents.write(fluxMes_agents);
         } catch (FileNotFoundException ex) {
             Logger.getLogger(Main.class.getName()).log(Level.SEVERE, null, ex);
@@ -68,7 +69,7 @@ public class Main {
         //Crée un fichier exploitable par Zotero sans doublons
         export_to_zotero(ModelBiblio, ModelZotero);
         try {
-            PrintWriter fluxZotero = new PrintWriter(new FileOutputStream("Zotero.rdf"));
+            PrintWriter fluxZotero = new PrintWriter(new FileOutputStream(path+"/outputs/Zotero.rdf"));
             ModelZotero.write(fluxZotero);
         } catch (FileNotFoundException ex) {
             Logger.getLogger(Main.class.getName()).log(Level.SEVERE, null, ex);
@@ -78,13 +79,13 @@ public class Main {
         enrichissement(ModelBiblio, ModelAgent, ModelBiblio_out, ModelAgent_out);
         enrichissement(ModelBiblio, Model_mesAgents, ModelBiblio_out, ModelAgent_out);
         try {
-            PrintWriter fluxModelBiblio = new PrintWriter(new FileOutputStream("Biblio_ext.rdf"));
+            PrintWriter fluxModelBiblio = new PrintWriter(new FileOutputStream(path+"/outputs/Biblio_ext.rdf"));
             ModelBiblio_out.write(fluxModelBiblio);
         } catch (FileNotFoundException ex) {
             Logger.getLogger(Main.class.getName()).log(Level.SEVERE, null, ex);
         }
         try {
-            PrintWriter fluxModelAgent = new PrintWriter(new FileOutputStream("Agents_ext.rdf"));
+            PrintWriter fluxModelAgent = new PrintWriter(new FileOutputStream(path+"/outputs/Agents_ext.rdf"));
             ModelAgent_out.write(fluxModelAgent);
         } catch (FileNotFoundException ex) {
             Logger.getLogger(Main.class.getName()).log(Level.SEVERE, null, ex);

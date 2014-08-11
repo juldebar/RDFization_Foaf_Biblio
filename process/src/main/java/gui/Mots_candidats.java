@@ -223,7 +223,8 @@ public class Mots_candidats extends Basic_Frame implements Observable, ActionLis
         if (!s.equals("Entrez le nom du fichier en sortie...")) {
             nameOutput = s;
         } else {
-            nameOutput = "potentiel_keywods.txt";
+            String path = System.getProperty("user.dir");
+            nameOutput = path + "/outputs/potentiel_keywods.txt";
         }
     }
 

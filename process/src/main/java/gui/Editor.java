@@ -582,9 +582,8 @@ public class Editor extends Basic_Frame implements Observable, ActionListener {
             //On met à jour le dernier élément (comme pour un précédent / suivant)
             champs.get(position).set_entry(get_champs());
             //Récupération des prédicats nécessaires
-            //String path = "file:/home/jimmy/Bureau/Sources/Start/predicats.rdf";
-            String path = "file:~/Bureau/Sources/Start/predicats.rdf";
-            Model tmp = ModelFactory.createDefaultModel();
+            String dir = System.getProperty("user.dir");
+            String path = "file:" + dir + "/ouputs/predicats.rdf";            Model tmp = ModelFactory.createDefaultModel();
             tmp.read(path);
             Property skos_prefLabel;
             Property skos_altLabel;

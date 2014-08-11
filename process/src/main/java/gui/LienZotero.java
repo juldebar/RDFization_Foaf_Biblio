@@ -217,20 +217,21 @@ public class LienZotero extends Basic_Frame implements Observable, ActionListene
      * @param clean path du fichier Zotero nétoyé
      */
     public void set_nameOutput(String zotero, String agents, String clean) {
+        String path = System.getProperty("user.dir");
         if (!zotero.equals("Entrez le nom du fichier en sortie...")) {
             nameOutput_zotero = zotero;
         } else {
-            nameOutput_zotero = "ma_bibliontology.rdf";
+            nameOutput_zotero = path + "/outputs/ma_bibliontology.rdf";
         }
         if (!agents.equals("Entrez le nom du fichier en sortie...")) {
             nameOutput_agents = agents;
         } else {
-            nameOutput_agents = "mes_agents_ext.rdf";
+            nameOutput_agents = path + "/outputs/mes_agents_ext.rdf";
         }
         if (!clean.equals("Entrez le nom du fichier en sortie...")) {
             nameOutput_clean = agents;
         } else {
-            nameOutput_clean = "zotero.rdf";
+            nameOutput_clean = path + "/ouputs/zotero.rdf";
         }
     }
 
