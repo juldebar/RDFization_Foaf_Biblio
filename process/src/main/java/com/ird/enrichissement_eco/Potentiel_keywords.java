@@ -262,10 +262,10 @@ public class Potentiel_keywords {
         String path = System.getProperty("user.dir");
         String addsPath = path + "/inputs/adds.txt"; //Adresse des mots à y ajouter
         String service = "http://ecoscopebc.mpl.ird.fr:8080/joseki/ecoscope";
-        String refBiblio = "file:" + path + "/inputs/Biblio_ext.rdf"; //Chargement du model
+        String refBiblio = path + "/inputs/Biblio_ext.rdf"; //Chargement du model
         String out = path + "/outputs/potential_keywords.txt";
         Model ModelBiblio = ModelFactory.createDefaultModel();
-        ModelBiblio.read(refBiblio);
+        ModelBiblio.read("file:" + refBiblio);
         try {
             extraire_mots(refBiblio, addsPath, service, out);
         } catch (IOException ex) {

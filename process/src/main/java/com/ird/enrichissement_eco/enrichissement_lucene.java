@@ -71,15 +71,15 @@ public class enrichissement_lucene {
         Model ModelEcodef_ext = ModelFactory.createDefaultModel();
 
         //On alimente les modèles créés. Load bibliographic ref into the model ModelBiblio
-        ModelBiblio_ext.read(refBiblio);
+        ModelBiblio_ext.read("file:"+refBiblio);
         if (!agents.equals("")) {
-            ModelAgents_ext.read(agents);
+            ModelAgents_ext.read("file:"+agents);
         }
         if (!ecosys.equals("")) {
-            ModelEcosys_ext.read(ecosys);
+            ModelEcosys_ext.read("file:"+ecosys);
         }
         if (!ecodef.equals("")) {
-            ModelEcodef_ext.read(ecodef);
+            ModelEcodef_ext.read("file:"+ecodef);
         }
         //Set out
         PrintStream originalOut = new PrintStream(System.out);
@@ -231,11 +231,11 @@ public class enrichissement_lucene {
     public static void main(String[] args) {
         String path = System.getProperty("user.dir");
         //location of models : si on veut ajouter dedans on met le chemin. Sinon un Nom_ext.rdf est créé.
-        String refBiblio = "file:+" + path + "inputs/Biblio_ext.rdf"; //Model biblio
-        String agents = "file:" + path + "/inputs/Agents_ext.rdf"; //Model Agents
+        String refBiblio = path + "/inputs/Biblio_ext.rdf"; //Model biblio
+        String agents = path + "/inputs/Agents_ext.rdf"; //Model Agents
         String ecosys = "";
         String ecodef = "";
-        String ne_pas_annoter = path+"/inputs/ne_pas_annoter.txt";
+        String ne_pas_annoter = path + "/inputs/ne_pas_annoter.txt";
         String service = "http://ecoscopebc.mpl.ird.fr:8080/joseki/ecoscope";
         try {
             enrichissement(refBiblio, agents, ecosys, ecodef, ne_pas_annoter, service);

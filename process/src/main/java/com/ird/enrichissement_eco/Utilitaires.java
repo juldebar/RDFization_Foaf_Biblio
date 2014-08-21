@@ -91,7 +91,7 @@ public class Utilitaires {
     }
 
     /**
-     * Crée une URI pour un agent à partir de son nom et prénom
+     * Crée une URI pour un agent à partir de son nom et prénom (1ere lettre).
      *
      * @param nom nom de l'agent
      * @param prenom prénom de l'agent
@@ -101,12 +101,48 @@ public class Utilitaires {
     static String createURI_agent(String nom, String prenom) {
         String uri;
         String base_uri = "http://www.ecoscope.org/ontologies/agents/";
-        String tmp = normalize(nom);
-        char c = tmp.charAt(0);
+        int i = 0;
+        char c;
+        String tmp_nom = "";
+        //Parcours de toutes les lettres du nom
+        while (i < nom.length()) {
+            c = nom.charAt(i);
+            //Si la lettre est un tiret ou un espace : nom composé
+            if ((c == '-') || (c == ' ')) {
+                ++i;
+                //Alors on n'ajoute pas l'espace ou le tiret Mais on ajoute la lettre suivante, normalisé mais avec la 1ere lettre en majuscule
+                if (i < nom.length()) {
+                    c = nom.charAt(i);
+                    c = normalize(c);
+                    c -= 32;
+                    tmp_nom += c;
+                }
+            } else {
+                //Sinon on ajoute simplement la lettre normalisée
+                tmp_nom += normalize(c);
+            }
+            ++i;
+        }
+        i = 0;
+        String tmp_prenom = "";
+        //Même traitement pour les prénoms
+        while (i < prenom.length()) {
+            c = prenom.charAt(i);
+            if ((c == '-') || (c == ' ')) {
+                ++i;
+                if (i < prenom.length()) {
+                    c = prenom.charAt(i);
+                    tmp_prenom += c;
+                }
+            } else {
+                tmp_prenom += normalize(c);
+            }
+            ++i;
+        }
+        c = tmp_nom.charAt(0);
         c -= 32;
-        tmp = tmp.substring(1, tmp.length());
-        uri = base_uri + normalize(prenom) + c + tmp; //L'uri des agents est l'uri de base, suivie du prénom (filtré) et du nom filtré mais dont la 1ere lettre est en majuscule
-
+        tmp_nom = tmp_nom.substring(1, tmp_nom.length());
+        uri = base_uri + tmp_prenom + c + tmp_nom; //L'uri des agents est l'uri de base, suivie du prénom (filtré) et du nom filtré mais dont la 1ere lettre est en majuscule
         return uri;
     }
 
