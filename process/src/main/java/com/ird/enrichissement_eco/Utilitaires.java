@@ -5,7 +5,9 @@ import com.hp.hpl.jena.query.QueryExecutionFactory;
 import com.hp.hpl.jena.query.QuerySolution;
 import com.hp.hpl.jena.query.ResultSet;
 import com.hp.hpl.jena.rdf.model.Model;
+import com.hp.hpl.jena.rdf.model.ModelFactory;
 import com.hp.hpl.jena.rdf.model.Property;
+import com.hp.hpl.jena.rdf.model.RDFNode;
 import com.hp.hpl.jena.rdf.model.Resource;
 import com.hp.hpl.jena.rdf.model.Statement;
 import com.hp.hpl.jena.rdf.model.StmtIterator;
@@ -86,7 +88,7 @@ public class Utilitaires {
         }
         if ((in >= 'A') && (in <= 'Z')) {
             out = (char) (in + 32);
-        } 
+        }
         return out;
     }
 
@@ -576,6 +578,33 @@ public class Utilitaires {
         try (BufferedReader buff = new BufferedReader(new FileReader(filePath))) {
             while ((line = buff.readLine()) != null) {
                 result.add(line);
+            }
+        }
+        return result;
+    }
+
+    /**
+     * Retourne une liste des termes utilisés dans Zotero pour "tag" les
+     * articles
+     *
+     * @param ModelBiblio Modele extrait du fichier bibliographique provenant de
+     * Zotero
+     * @return liste des termes utilisé en ctag:tagged dans zotero
+     */
+    static LinkedList<String> extraire_tags(Model ModelBiblio) {
+        LinkedList<String> result = new LinkedList<>();
+        Property predicat;
+        StmtIterator stmt_iter = ModelBiblio.listStatements();
+        Statement state;
+        String tag;
+        while (stmt_iter.hasNext()) {
+            state = stmt_iter.nextStatement();
+            predicat = state.getPredicate();
+            if (predicat.getURI().equals("http://commontag.org/ns#label")) {
+                tag = state.getObject().toString();
+                if (!result.contains(tag)) {
+                    result.add(tag);
+                }
             }
         }
         return result;
