@@ -16,9 +16,12 @@ import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
+import java.io.PrintStream;
 import java.util.HashMap;
 import java.util.LinkedList;
 import java.util.Map;
+import java.util.logging.Level;
+import java.util.logging.Logger;
 
 /**
  * Fichier comportant la majorité des fonctions "utiles" aux autres fichiers
@@ -608,5 +611,73 @@ public class Utilitaires {
             }
         }
         return result;
+    }
+
+    /**
+     * Permet de fournir un fichier texte reprenant les mots clés utilisés dans
+     * Zotero, au début du fichier se trouve les mots qui ne possèdent pas
+     * d'équivalent dans l'ontologie et à la fin les mots déjà présent.
+     *
+     * @param Biblio Modèle extrait du fichier Zotero
+     * @param service adresse du service endpoint
+     * @param output path du fichier de sortie
+     * @throws FileNotFoundException
+     */
+    public static void traiter_tags(Model Biblio, String service, String output) throws FileNotFoundException {
+        //Récupération des labels servant de tags dans Zotero
+        LinkedList<String> tags = extraire_tags(Biblio);
+
+        //Modification de la sortie pour écrire dans le fichier
+        PrintStream sysOut = System.out;
+        System.setOut(new PrintStream(output));
+
+        //Remplissage de la liste des alt et prefLabel
+        HashMap<String, Resource> map_StoR = new HashMap<>();
+        HashMap<Resource, LinkedList<String>> map_RtoS = new HashMap<>();
+        remplissage_endpoint(map_RtoS, map_StoR, service);
+
+        //Liste comprenant les mots qui auront matchés
+        LinkedList<String> already_keyword = new LinkedList<>();
+        //Liste des mots qui n'ont pas matchés
+        LinkedList<String> not_already_keyword = new LinkedList<>();
+
+        boolean is_in;
+        //Pour tous les labels "tag" de Zotero
+        for (String s : tags) {
+            is_in = false;
+            //On regarde notre liste de alLabel et prefLabel
+            for (Map.Entry<String, Resource> entry : map_StoR.entrySet()) {
+                //S'il existe un match : pas besoin d'ajouter ce label
+                if (s.equals(entry.getKey())) {
+                    already_keyword.add(s);
+                    is_in = true;
+                }
+            }
+            //Sinon, candidat
+            if (!is_in) {
+                not_already_keyword.add(s);
+            }
+        }
+        System.out.println(""
+                + "*******************************************\n"
+                + "*                                         *\n"
+                + "*      Les mots suivants ne sont pas      *\n"
+                + "*           encore des mots clés          *\n"
+                + "*                                         *\n"
+                + "*******************************************");
+        for (String s : not_already_keyword) {
+            System.out.println(s);
+        }
+        System.out.println("\n\n"
+                + "*****************************************\n"
+                + "*                                       *\n"
+                + "*      Les mots suivants sont déjà      *\n"
+                + "*             des mots clés             *\n"
+                + "*                                       *\n"
+                + "*****************************************");
+        for (String s : already_keyword) {
+            System.out.println(s);
+        }
+        System.setOut(sysOut);
     }
 }

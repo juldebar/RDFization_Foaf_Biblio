@@ -4,6 +4,7 @@ import com.hp.hpl.jena.rdf.model.Model;
 import com.hp.hpl.jena.rdf.model.ModelFactory;
 import static com.ird.enrichissement_eco.EnrichissementBiblio.enrichissement;
 import static com.ird.enrichissement_eco.ExtractionAgent.extraction_agent;
+import static com.ird.enrichissement_eco.Utilitaires.traiter_tags;
 import static com.ird.enrichissement_eco.Zotero.export_to_zotero;
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
@@ -60,7 +61,7 @@ public class Main {
         Model Model_mesAgents = ModelFactory.createDefaultModel();
         extraction_agent(Model_mesAgents, file_agents);
         try {
-            PrintWriter fluxMes_agents = new PrintWriter(new FileOutputStream(path+"/outputs/mes_agent.rdf"));
+            PrintWriter fluxMes_agents = new PrintWriter(new FileOutputStream(path + "/outputs/mes_agent.rdf"));
             Model_mesAgents.write(fluxMes_agents);
         } catch (FileNotFoundException ex) {
             Logger.getLogger(Main.class.getName()).log(Level.SEVERE, null, ex);
@@ -69,7 +70,7 @@ public class Main {
         //Crée un fichier exploitable par Zotero sans doublons
         export_to_zotero(ModelBiblio, ModelZotero);
         try {
-            PrintWriter fluxZotero = new PrintWriter(new FileOutputStream(path+"/outputs/Zotero.rdf"));
+            PrintWriter fluxZotero = new PrintWriter(new FileOutputStream(path + "/outputs/Zotero.rdf"));
             ModelZotero.write(fluxZotero);
         } catch (FileNotFoundException ex) {
             Logger.getLogger(Main.class.getName()).log(Level.SEVERE, null, ex);
@@ -79,16 +80,23 @@ public class Main {
         enrichissement(ModelBiblio, ModelAgent, ModelBiblio_out, ModelAgent_out);
         enrichissement(ModelBiblio, Model_mesAgents, ModelBiblio_out, ModelAgent_out);
         try {
-            PrintWriter fluxModelBiblio = new PrintWriter(new FileOutputStream(path+"/outputs/Biblio_ext.rdf"));
+            PrintWriter fluxModelBiblio = new PrintWriter(new FileOutputStream(path + "/outputs/Biblio_ext.rdf"));
             ModelBiblio_out.write(fluxModelBiblio);
         } catch (FileNotFoundException ex) {
             Logger.getLogger(Main.class.getName()).log(Level.SEVERE, null, ex);
         }
         try {
-            PrintWriter fluxModelAgent = new PrintWriter(new FileOutputStream(path+"/outputs/Agents_ext.rdf"));
+            PrintWriter fluxModelAgent = new PrintWriter(new FileOutputStream(path + "/outputs/Agents_ext.rdf"));
             ModelAgent_out.write(fluxModelAgent);
         } catch (FileNotFoundException ex) {
             Logger.getLogger(Main.class.getName()).log(Level.SEVERE, null, ex);
+        }
+
+        String service = "http://ecoscopebc.mpl.ird.fr:8080/joseki/ecoscope";
+        try {
+            traiter_tags(ModelBiblio, service,  path + "/outputs/mot_clé_zotero.txt");
+        } catch (FileNotFoundException ex) {
+            Logger.getLogger(Utilitaires.class.getName()).log(Level.SEVERE, null, ex);
         }
     }
 

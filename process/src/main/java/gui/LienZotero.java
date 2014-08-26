@@ -3,6 +3,8 @@ package gui;
 import com.hp.hpl.jena.rdf.model.Model;
 import com.hp.hpl.jena.rdf.model.ModelFactory;
 import static com.ird.enrichissement_eco.EnrichissementBiblio.enrichissement;
+import com.ird.enrichissement_eco.Utilitaires;
+import static com.ird.enrichissement_eco.Utilitaires.traiter_tags;
 import static com.ird.enrichissement_eco.Zotero.export_to_zotero;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
@@ -336,6 +338,14 @@ public class LienZotero extends Basic_Frame implements Observable, ActionListene
                     } catch (FileNotFoundException ex) {
                         Logger.getLogger(LienZotero.class.getName()).log(Level.SEVERE, null, ex);
                     }
+                    if (!endpoint.equals("")) {
+                        try {
+                            String path = System.getProperty("user.dir");
+                            traiter_tags(ModelBiblio, endpoint, path + "/outputs/mot_clé_zotero.txt");
+                        } catch (FileNotFoundException ex) {
+                            Logger.getLogger(Utilitaires.class.getName()).log(Level.SEVERE, null, ex);
+                        }
+                    }
                     System.out.println("Tache terminée");
                 }
             }
@@ -375,7 +385,14 @@ public class LienZotero extends Basic_Frame implements Observable, ActionListene
                     + "Enfin un fichier zotero.rdf est crée. Il propose une version propre du fichier zotero\n"
                     + "passé en entrée afin de pouvoir le ré-injecter dans Zotero. Les doublons auront été\n"
                     + "éliminés, une URI aura été donné aux noeuds anonymes et les noms des agents aura\n"
-                    + "été complété lorsque cela aurait été nécessaire et possible.";
+                    + "été complété lorsque cela aurait été nécessaire et possible.\n\n"
+                    + ""
+                    + "Un fichier \"outputs/mot_clé_zotero.txt\" est aussi créé : il correspond à la liste des\n"
+                    + "mots clés utilisés par zotero. Les premiers sont les mots pour lesquels il n'existe aucun\n"
+                    + "équivalent dans l'ontologie, les seconds sont les mots qui étaient déjà présent dans cette\n"
+                    + "dernière.\n"
+                    + "Note : Pour ne pas utiliser cette fonctionnalité, vous pouvez modifier l'adresse du service\n"
+                    + "endpoint et la laisser vide.";
             JOptionPane.showMessageDialog(null, msg, "Aide", JOptionPane.INFORMATION_MESSAGE);
         }
     }
