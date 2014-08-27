@@ -648,7 +648,7 @@ public class Utilitaires {
             //On regarde notre liste de alLabel et prefLabel
             for (Map.Entry<String, Resource> entry : map_StoR.entrySet()) {
                 //S'il existe un match : pas besoin d'ajouter ce label
-                if (s.equals(entry.getKey())) {
+                if (normalize(s).equals(normalize(entry.getKey()))) {
                     already_keyword.add(s);
                     is_in = true;
                 }
