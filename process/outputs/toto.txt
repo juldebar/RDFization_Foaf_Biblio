@@ -1,3 +1,9 @@
+*******************************************
+*                                         *
+*      Les mots suivants ne sont pas      *
+*           encore des mots clés          *
+*                                         *
+*******************************************
 Dive Depth
 continental Shelf
 canal plus
@@ -26,7 +32,6 @@ Peruvian anchovy
 fisheries
 pelagic fishes
 ecosystem approach
-mitigation
 fish competitors
 Seasonal Diving Behavior
 Lactation
@@ -41,18 +46,15 @@ Phytoplankton
 pelagic
 Deep Diving
 (Ecology; Environmental Biology--General; Methods)
-Indian Ocean
 habitat suitability
 anchovy
 sacca di gorro
 neural network
 Thysanoessa gregaria
-Benguela
 Lagrangian
 functional response
 Numerical simulation
 wavelet coherency
-Benguela ecosystem
 bioenergetic function
 charges
 blue-eyed shags, diving behaviour, ecological selection, niche divergence, sexual dimorphism, time-budget
@@ -69,7 +71,6 @@ species interactions
 environmental forcing
 multispecies modelling
 Generalized additive model (GAM)
-area
 rock lobster
 Bioaccumulation model
 dolphinfish
@@ -123,7 +124,6 @@ sag ratio
 (Reproductive System--General; Methods)
 ulva rigida
 spawning abundance
-Fish
 D=11
 carbon content
 Pisces-Unspecified
@@ -141,7 +141,6 @@ Oceanic Mixed Layer
 stimulus
 bioaccumulation modelling
 Multilayer perceptron (MLP)
-hole
 tuna fishery
 cod
 top-down control
@@ -155,7 +154,6 @@ quantum
 threshold detection
 [delta]13C and [delta]15N
 Diving behaviour
-skipjack tuna
 extremal
 ichthyoplankton
 Niño
@@ -241,7 +239,6 @@ ecosystem modeling
 ocean-atmosphere interactions
 marine protected area
 meeting point
-capture
 N=2
 recurrence quantification analysis
 coastal
@@ -307,8 +304,6 @@ maximum fishing depth
 variability
 Post-Dive Interval
 s-triazines
-Seychelles
-purse seine
 marine ecosystem dynamics
 (Ecology; Environmental Biology--Animal)
 macroalgae
@@ -322,7 +317,6 @@ similarity
 by-catch
 (Nutrition--General Studies, Nutritional Status and Methods)
 predator–prey relationships
-ecosystem
 moduli
 Pelagic fish spatial distribution
 non-stationarity
@@ -361,7 +355,6 @@ parabronchial lung
 transfer efficiency
 Methylmercury
 recovery
-Mozambique Channel
 Space-time
 pelagic ecosystem
 fishing effort
@@ -380,7 +373,6 @@ biology
 Niño southern oscillation
 temperature-depth recorders
 Western Indian Ocean
-trophic level
 Slate census
 economy
 ecological scenarios
@@ -407,7 +399,6 @@ meeting abstract
 water masses
 five-brane
 Prey Quality
-plankton
 rockhopper
 rank species abundance
 atlantic Ocean
@@ -450,7 +441,6 @@ yellowfin
 Amino acids
 Mediterranean Sea
 ocean colour
-management
 air monitoring
 oxygen reserves
 Vertical chlorophyll a profile
@@ -459,3 +449,27 @@ mesoscale
 space
 frigatebird
 indicators of trophic functioning
+
+
+*****************************************
+*                                       *
+*      Les mots suivants sont déjà      *
+*             des mots clés             *
+*                                       *
+*****************************************
+mitigation
+Indian Ocean
+Benguela
+Benguela ecosystem
+area
+Fish
+hole
+skipjack tuna
+capture
+Seychelles
+purse seine
+ecosystem
+Mozambique Channel
+trophic level
+plankton
+management

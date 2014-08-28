@@ -6,9 +6,9 @@
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/optimizingthedesignofacousticsurveysofperuviananchoveta"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/trophicdynamicsofsmallpelagicfish"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/determinismandplasticityoffishschoolingbehaviourasexemplifiedbythesouthpacificjackmackereltrachurusmurphyi"/>
+    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/estructurapoblacionaldelospecesdemersalesenlazonanortedelcaribecolombianoenrelacionconelhabitatunaherramientaparaidentificarareasmarinasprotegidasamps"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/scaleinvariantmovementsoffishermenthesameforagingstrategyasnaturalpredators"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/themesessionuonacoustictechniquesforthreedimensionalcharacterizationandclassificationofthepelagicecosystemu"/>
-    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/estructurapoblacionaldelospecesdemersalesenlazonanortedelcaribecolombianoenrelacionconelhabitatunaherramientaparaidentificarareasmarinasprotegidasamps"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/ecologicalnichesandareasofoverlapofthesquatlobstermunidapleuroncodesmonodonandanchovetaengraulisringensoffperu"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/poissonsetpecheursenameriquedusudunjeudecachecache"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/theimpactofoverfishingandelninoontheconditionfactorandreproductivesuccessofperuvianhakemerlucciusgayiperuanus"/>
@@ -17,8 +17,8 @@
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/impactsofkelvinwaveforcingintheperuhumboldtcurrentsystemscenariosofspatialreorganizationsfromphysicstofishers"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/dominantspecieswithinfunctionalgroupsofeasternboundaryupwellingecosytemswhatcanwelearn"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/therelationshipofanchovyandsardinetowatermassesintheperuvianhumboldtcurrentsystemfromto"/>
-    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/trophicdynamics"/>
     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/trophicdynamics"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/investigatingrelationshipsbetweenalbacorethunnusalalungacpueandpreydistributioninthebayofbiscay"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/schoolingbehaviourandenvironmentalforcinginrelationtoanchovetadistributionananalysisacrossmultiplespatialscales"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/comoexplicarlarapidarecuperaciondelaanchovetadespuesdeelnino"/>
@@ -70,11 +70,11 @@
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/crossingthefrontierverticaltransitratesofdeepdivingcormorantsrevealdepthzoneofneutralbuoyancy"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/agents/jeanJacquesLechauve">
-    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/applicationavdthversionb"/>
+    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/avdthveracquisitionetvalidationdesdonneesthonieres"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/sardaradumodeleconceptuelaumodelephysique"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/stomacadatabaseforstoringinformationonstomachcontents"/>
     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/avdthveracquisitionetvalidationdesdonneesthonieres"/>
+    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/applicationavdthversionb"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/agents/philippeVendeville">
     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
@@ -93,8 +93,8 @@
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/airesmarinesprotegeesetgouvernancecontributiondesdisciplinesetevolutionpluridisciplinaires"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/simulationofmpascenariosgovernancebybayesiannetwork"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/colloqueinternationallaproblematiquedudeveloppementdurablevingtansapresnouvelleslecturestheoriquesinnovationsmethodologiquesetdomainesdextension"/>
-    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/bioeconomicmodelofthedynamicsoffisheriesfacingglobaleconomicandenvironmentchangesthefrenchguyanashrimpfisherymodel"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/acomparativeapproachofchangesinthecharacteristicsoffisheriesataregionalscaleimplicationsofmodificationsinthesizestructuresoflandings"/>
+    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/bioeconomicmodelofthedynamicsoffisheriesfacingglobaleconomicandenvironmentchangesthefrenchguyanashrimpfisherymodel"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/transformationofusesandeconomicgoodsstatusinducedbyconservationthecaseofmarineprotectedareasinfrenchpolynesia"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/madagascarfaceauxenjeuxdudeveloppementdurable"/>
   </rdf:Description>
@@ -120,8 +120,8 @@
     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/foraginghabitatsoftheseabirdcommunityofeuropaislandmozambiquechannel"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/lespoissonsmesopelagiquesdansleschainesalimentairesuneapprocheparlesisotopesstablesducarboneetdelazotedanslecanaldemozambique"/>
-    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/iotcwptt"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/deladynamiqueoceaniquemesoechelleauxpredateursmarinslecanaldumozambiquecommecasdecole"/>
+    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/iotcwptt"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/trophicecologyoftropicaltoppredatorsintheindianocean"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/roleofpelagiccrustaceansinthedietofthelongnoselancetfishalepisaurusferoxintheseychelleswaters"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/bioaccumulationoftraceelementsinpelagicfishfromwesternindianocean"/>
@@ -131,11 +131,11 @@
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/openenvironmentaldatabasesforopenseafisheriesbiologists"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/patternsofvariabilityofseasurfacechlorophyllinthemozambiquechannelaquantitativeapproach"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/topmarinepredatorstracklagrangiancoherentstructures"/>
-    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/newinformationfromfishdietsontheimportanceofglassyflyingsquidhyaloteuthispelagicateuthoideaommastrephidaeintheepipelagiccephalopodcommunityofthetropicalatlanticocean"/>
-    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/atenyearperiodofdailyseasurfacetemperatureatacoastalstationinreunionislandindianoceanjulyaprilpatternsofvariabilityandbiologicalresponses"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/ninenationsoneoceanabenchmarkappraisalofthesouthwesternindianoceanfisheriesproject"/>
-    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/iotcwppt"/>
+    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/atenyearperiodofdailyseasurfacetemperatureatacoastalstationinreunionislandindianoceanjulyaprilpatternsofvariabilityandbiologicalresponses"/>
+    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/newinformationfromfishdietsontheimportanceofglassyflyingsquidhyaloteuthispelagicateuthoideaommastrephidaeintheepipelagiccephalopodcommunityofthetropicalatlanticocean"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/vascocirenemeasurementssupplementdecireneairseainteractionsintheseychelleschagosthermoclineridgeregion"/>
+    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/iotcwppt"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/oceansciencesmeetingaslotosagu"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/presidentducomitescientifiquedelactoidepuisnovembre"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/isotopicevidenceofdistinctfeedingecologiesandmovementpatternsintwomigratorypredatorsyellowfintunaandswordfishofthewesternindianocean"/>
@@ -168,9 +168,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/agents/renaudPianet">
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/ctoiwptt"/>
-    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/descriptionoffisheriestropicaltuna"/>
-    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/statistiquesdelapecheriethonierefrancaisedurantlaperiode"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/ameliorationdesdonneesstatistiquesdelapechethonieredanslazonedelatlantiqueesttropical"/>
+    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/statistiquesdelapecheriethonierefrancaisedurantlaperiode"/>
+    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/descriptionoffisheriestropicaltuna"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/complexinterplaysamongpopulationdynamicsenvironmentalforcingandexploitationinfisheries"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/statistiquesdelapecheriethonierefisdurantlaperiode"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/programmenationalpluriannueldecollectedesdonneesdebasebilandesoperationsmeneesparlirden"/>
@@ -186,8 +186,8 @@
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/analysisofdataobtainedfromobserverprogrammesconductedinandintheindianoceanonboardfrenchpurseseiners"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/iotcwptt"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/sardaradumodeleconceptuelaumodelephysique"/>
-    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/thefrenchtropicalpurseseinefisheriesobserverprogram"/>
     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/thefrenchtropicalpurseseinefisheriesobserverprogram"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/meetingcederproject"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/statitiquesdelapecheriethoniereeuropeenneetassimileependantlaperiode"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/noteontheyearlycatchesbycountryandgearofthefismfranceivorycoastsenegalmoroccofleetduringtheperiod"/>
@@ -195,7 +195,7 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/agents/nicolasBez">
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/destrajectoiresvmsauxdistributionsspatialesdethonstropicaux"/>
-    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/fractaldimensionforquantifyingecosystemspatialpatternfromacousticandotherspatiallyexplicitdata"/>
+    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/spatialmodelsfordescribingandassessingmarineresource"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/surcertainesproprietesdesdescripteursetindicateursspatiaux"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/workshoponmappingandgeostatisticalmethodsforfisheriesstockassessment"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/evaluationdesincertitudesassocieesauxindicateursproduitsparlessystemesdesuivistatistiquedespecheriesartisanales"/>
@@ -219,7 +219,7 @@
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/isthefadassociatedfishbiomassaproxyfortotalfishbiomassacasestudyonasmallpelagicfish"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/repetitivefishinglocaldepletionandfishingefficiencies"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/lamiseenoeuvredindicateursdequalitedanslessystemesdesuividespecheries"/>
-    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/spatialmodelsfordescribingandassessingmarineresource"/>
+    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/fractaldimensionforquantifyingecosystemspatialpatternfromacousticandotherspatiallyexplicitdata"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/agents/justinMoninAmande">
     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
@@ -287,8 +287,8 @@
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/variabilityofthegrowthparametersoftheskipjacktunakatsuwonuspelamisamongareasintheeasternatlanticanalysisfromtaggingdatawithinametaanalysisapproach"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/actualizaciondelacpueestandarizadaderabiladultothunnusalbacaresdelaflotadecercotropicaleuropeaeneloceanoatlanticodea"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/iotcwptda"/>
-    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/applicationoftheproceanmodeltotheeasternatlanticskipjackkatsuwonuspelamistunafishery"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/modelingperformanceandinformationexchangebetweenfishingvesselswithartificialneuralnetworks"/>
+    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/applicationoftheproceanmodeltotheeasternatlanticskipjackkatsuwonuspelamistunafishery"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/actualizaciondelacpueestandarizadaderabildelaflotadecercotropicaleneloceanoatlanticodea"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/depredationonpelagiclonglinesintheindianoceanananalysisofthesoviethistoricaldatabaseontunaresearch"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/estimatedgrowthrateoftheskipjacktunakatsuwonuspelamisfromtaggingsurveysconductedinthesenegaleseareawithinametaanalysisframeworkcoll"/>
@@ -309,12 +309,12 @@
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/thwiomsascientificsymp"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/agents/patrickDewals">
-    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/frenchpurseseinetunafisheriesstatisticsintheindianocean"/>
-    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/statitiquesdelapecheriethoniereeuropeenneetassimileependantlaperiode"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/iotcwptt"/>
+    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/frenchpurseseinetunafisheriesstatisticsintheindianocean"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/ctoiwptt"/>
-    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/statistiquesdelapecheriethoniereeuropeenneetassimileedurantlaperiode"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/manueldelutilisateurdavdthv"/>
+    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/statistiquesdelapecheriethoniereeuropeenneetassimileedurantlaperiode"/>
+    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/statitiquesdelapecheriethoniereeuropeenneetassimileependantlaperiode"/>
     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/statistiquesdelapecheriethonierefrancaisedurantlaperiode"/>
   </rdf:Description>
@@ -325,9 +325,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/agents/nataliaRomanova">
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/depredationonpelagiclonglinesintheindianoceanananalysisofthesoviethistoricaldatabaseontunaresearch"/>
-    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/historicaldatabaseonsoviettunalonglinetunaresearchintheindianandatlanticoceansfirstresultsofyugnironmfsdatarescueproject"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/catchandeffortdataonsoviettunapurseseinefisheriesintheindianoceanbasedondailyradioreportsdatabase"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/historicaldatabaseonsoviettunalonglinetunaresearchintheindianandatlanticoceansfirstresultsofyugnironmfsdatarescueproject"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/agents/francoisGerlotto">
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/communicationinsideanchovyschoolsawaytofacilitatefastdmorphologicalandstructuralchangesinresponsetopredationasobservedwithmultibeamsonar"/>
@@ -350,17 +350,17 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/agents/emilyWalker">
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/satellitemonitoringoffishingvesselsasatooltolocalizeandestimatethefishingactivity"/>
-    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/meetingcederproject"/>
-    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/destrajectoiresvmsauxdistributionsspatialesdethonstropicaux"/>
-    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/thefrenchtropicalpurseseinefisheriesobserverprogram"/>
-    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/estimationofnominalfishingeffortoftropicaltunapurseseinersfromvmsdata"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/fishingactivityoftunapurseseinersestimatedfromvmsdataandvalidatedbyobserversdata"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/destrajectoiresvmsauxdistributionsspatialesdethonstropicaux"/>
+    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/estimationofnominalfishingeffortoftropicaltunapurseseinersfromvmsdata"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/krigingofthelatentprobabilityofabinomialvariableapplicationtofishstatistics"/>
+    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/meetingcederproject"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/thefrenchtropicalpurseseinefisheriesobserverprogram"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/agents/jeanFrancoisTernon">
-    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/mesoscaleeddiesinfluencedistributionandaggregationpatternsofmicronektoninthemozambiquechannel"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/deladynamiqueoceaniquemesoechelleauxpredateursmarinslecanaldumozambiquecommecasdecole"/>
+    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/mesoscaleeddiesinfluencedistributionandaggregationpatternsofmicronektoninthemozambiquechannel"/>
     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/acousticcharacterizationoftropicaltunapreyinthewesternindianoceaninrelationwithenvironmentalconditions"/>
   </rdf:Description>
@@ -381,16 +381,16 @@
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/ecosystemmodelingapproachesforsouthafricanfisheriesmanagement"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/densitydependentchangesinreproductiveparametersandconditionofsouthernbenguelasardinesardinopssagax"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/internationalsymposiumoneasternboundaryupwellingecosystems"/>
-    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/thefrenchconnexion"/>
+    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/podemosevitarlasobrecapitalizaciondelaindustriapesquera"/>
+    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/introductionoftheeventandaboutthesponsors"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/anchovyearlylifeinthenorthernhumboldtcurrentsystemanindividualbasedmodelstudy"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/thedynamicsofcollapseinworldfisheries"/>
-    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/introductionoftheeventandaboutthesponsors"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/smallpelagicfishreproductivestrategiesinupwellingsystemsahomingevolutionarymodeltostudyenvironmentalconstraints"/>
-    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/enrichmentconcentrationandretentionprocessesinrelationtoanchovyengraulisringenseggsandlarvaedistributionsinthenorthernhumboldtupwellingecosystem"/>
+    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/thefrenchconnexion"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/poissonsetpecheursenameriquedusudunjeudecachecache"/>
-    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/modellingsardineandanchovyichthyoplanktontransportinthecanarycurrentsystem"/>
-    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/podemosevitarlasobrecapitalizaciondelaindustriapesquera"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/theatlasofeasternboundaryupwellingsystemsaebusavisualisationtoolforthecomparisonofecosystems"/>
+    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/modellingsardineandanchovyichthyoplanktontransportinthecanarycurrentsystem"/>
+    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/enrichmentconcentrationandretentionprocessesinrelationtoanchovyengraulisringenseggsandlarvaedistributionsinthenorthernhumboldtupwellingecosystem"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/prototypeofanintegratedmodeloftheworldwidesystemofsmallpelagicfisheries"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/anindividualbasedmodelstudyofanchovyearlylifehistoryinthenorthernhumboldtcurrentsystem"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/modelingtheprimaryandsecondaryproductionsofthesouthernbenguelaupwellingsystemacomparativestudythroughtwobiogeochemicalmodelsglobalbiogeochem"/>
@@ -443,27 +443,27 @@
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/modelbasedassessmentofpersistenceinproposedmarineprotectedareadesigns"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/surfacecurrentsduringanomalousupwellingseasonsoffcentralcalifornia"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/zeromodesforthedmembraneandfivebrane"/>
-    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/alongshoreandtemporalvariabilityinchlorophyllaconcentrationinchileannearshorewaters"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/dispersalperrecruitanefficientmethodforassessingsustainabilityinmarinereservenetworks"/>
+    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/alongshoreandtemporalvariabilityinchlorophyllaconcentrationinchileannearshorewaters"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/agents/nathalieBodin">
-    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/thconferenceofsocietyofenvironmentaltoxicologyandchemistry"/>
+    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/influenceoflipidextractiononcarbonandnitrogenstableisotopesincrustaceantissuesassessmentofpolychlorobiphenylbioaccumulationinthespidercrabfoodwebusingstableisotopes"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/variabilityofstablesignaturesdcanddnintwospidercrabpopulationsmajabrachydactylainwesterneurope"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/congenerspecificaccumulationandtrophictransferofpolychlorinatedbiphenylsinspidercrabfoodwebsrevealedbystableisotopeanalysis"/>
-    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/influenceoflipidextractiononcarbonandnitrogenstableisotopesincrustaceantissuesassessmentofpolychlorobiphenylbioaccumulationinthespidercrabfoodwebusingstableisotopes"/>
+    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/thconferenceofsocietyofenvironmentaltoxicologyandchemistry"/>
     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/effectoflipidremovaloncarbonandnitrogenstableisotoperatiosincrustaceantissues"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/agents/christopheLett">
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/enrichmentconcentrationandretentionprocessesinrelationtoanchovyengraulisringenseggsandlarvaedistributionsinthenorthernhumboldtupwellingecosystem"/>
+    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/anindividualbasedmodelstudyofanchovyearlylifehistoryinthenorthernhumboldtcurrentsystem"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/anchovyearlylifeinthenorthernhumboldtcurrentsystemanindividualbasedmodelstudy"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/simulationandquantificationofenrichmentandretentionprocessesinthesouthernbenguelaupwellingecosystem"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/factorsaffectinginformationtransferfromknowledgeabletonaiveindividualsingroups"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/smallpelagicfishreproductivestrategiesinupwellingsystemsahomingevolutionarymodeltostudyenvironmentalconstraints"/>
-    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/modellingsardineandanchovyichthyoplanktontransportinthecanarycurrentsystem"/>
-    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/anindividualbasedmodelstudyofanchovyearlylifehistoryinthenorthernhumboldtcurrentsystem"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/ichthyopalagrangiantoolformodellingichthyoplanktondynamics"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/modellingsardineandanchovyichthyoplanktontransportinthecanarycurrentsystem"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/agents/yunneShin">
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/twowaycouplingversusonewayforcingofplanktonandfishmodelstopredictecosystemchangesinthebenguela"/>
@@ -512,8 +512,8 @@
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/situationdelassurancequaliteetlistedesdocumentsduprototype"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/agents/fredericMenard">
-    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/newinformationfromfishdietsontheimportanceofglassyflyingsquidhyaloteuthispelagicateuthoideaommastrephidaeintheepipelagiccephalopodcommunityofthetropicalatlanticocean"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/resourcepartitioningwithinatropicalseabirdcommunitynewinformationfromstableisotopes"/>
+    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/newinformationfromfishdietsontheimportanceofglassyflyingsquidhyaloteuthispelagicateuthoideaommastrephidaeintheepipelagiccephalopodcommunityofthetropicalatlanticocean"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/complexinterplaysamongpopulationdynamicsenvironmentalforcingandexploitationinfisheries"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/stomacadatabaseforstoringinformationonstomachcontents"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/lespoissonsmesopelagiquesdansleschainesalimentairesuneapprocheparlesisotopesstablesducarboneetdelazotedanslecanaldemozambique"/>
@@ -574,11 +574,11 @@
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/patternsofvariationinlargepelagicfishestimeseriesandclimaticoscillationsacomparativeapproachbetweentheindianandatlanticoceans"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/thekeyimportanceoftheunderlyingstockrecruitmentassumptionwhenevaluatingthepotentialofmanagementregulationsofatlanticbluefintuna"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/patternsofvariabilityinlargepelagicfishestimeseriesandclimaticoscillationsacomparativeapproachbetweenthetropicalindianandatlanticoceans"/>
-    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/bluefintunamanagementandconservationissues"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/timeseriesanalysisoftunaandswordfishcatchesandclimatevariabilityintheindianocean"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/lessonsfromthepastinvestigatinghistoricaldatafrombluefintunafisheries"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/openenvironmentaldatabasesforopenseafisheriesbiologists"/>
+    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/bluefintunamanagementandconservationissues"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/backtothefutureinvestigatinghistoricaldataofbluefintunafisheries"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/agents/laurentDagorn">
@@ -656,15 +656,15 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/agents/francoisLeLoch">
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/biodepositionbyaninvasivesuspensionfeederimpactsthebiogeochemicalcycleofsiinacoastalecosystembayofbrestfrance"/>
-    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/lespoissonsmesopelagiquesdansleschainesalimentairesuneapprocheparlesisotopesstablesducarboneetdelazotedanslecanaldemozambique"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/seasonalvariabilityoflivingbenthicforaminiferafromtheoutercontinentalshelfofthebayofbiscay"/>
+    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/lespoissonsmesopelagiquesdansleschainesalimentairesuneapprocheparlesisotopesstablesducarboneetdelazotedanslecanaldemozambique"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/chantiergolfedegascogne"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/thinternationalconferenceonshellfishrestoration"/>
     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/variabilityofstablesignaturesdcanddnintwospidercrabpopulationsmajabrachydactylainwesterneurope"/>
+    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/influenceoflipidextractiononcarbonandnitrogenstableisotopesincrustaceantissuesassessmentofpolychlorobiphenylbioaccumulationinthespidercrabfoodwebusingstableisotopes"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/smallscalespatialandtemporalinteractionsamongbenthiccrustaceansandonefishspeciesinthebayofbiscay"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/benthiccommunityandfoodwebstructureonthecontinentalshelfofthebayofbiscaynortheasternatlanticrevealedbystableisotopesanalysis"/>
-    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/influenceoflipidextractiononcarbonandnitrogenstableisotopesincrustaceantissuesassessmentofpolychlorobiphenylbioaccumulationinthespidercrabfoodwebusingstableisotopes"/>
+    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/variabilityofstablesignaturesdcanddnintwospidercrabpopulationsmajabrachydactylainwesterneurope"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/thembs"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/eforumhalieumetrique"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/emeforumhalieumetrique"/>
@@ -688,9 +688,9 @@
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/schoolingpropertiesofanobligateandafacultativefishspecies"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/etudedimpactdesrejetsenmerparlesystemedemissaireprofonddeladistillerierivieredumatasaintbenoitlareunionsuiviparacoustiquedesvariationsdebiomasseenpoissonautourdelemissairedeladistillerierivieredumatasaintbenoit"/>
     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/isthefadassociatedfishbiomassaproxyfortotalfishbiomassacasestudyonasmallpelagicfish"/>
-    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/exploratorybehaviourofademersalfisharoundanartificialreefwithacousticmultitaggingthecaseoflutjanuskasmirainstpaulbayreunionislandindianocean"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/thconferenceonfishtelemetry"/>
+    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/exploratorybehaviourofademersalfisharoundanartificialreefwithacousticmultitaggingthecaseoflutjanuskasmirainstpaulbayreunionislandindianocean"/>
+    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/isthefadassociatedfishbiomassaproxyfortotalfishbiomassacasestudyonasmallpelagicfish"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/firstfieldbasedexperimentsupportingthemeetingpointhypothesisforschoolinginpelagicfish"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/impactdesstructuresartificiellesimmergeessurladynamiquespatialedepoissonspelagiquescotiersdelareunionlecasdelabaiedesaintpaul"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/behaviourandspatialdynamicsofschoolingfisharoundcoastalfadsinlareunionisland"/>
@@ -701,8 +701,8 @@
   <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/agents/pierreChavance">
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/bycatchanddiscardsoftheeuropeanpurseseinetunafisheryintheindianoceanestimationandcharacteristicsfortheperiod"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/uneestimationrecentedelapecheartisanalemauritanienne"/>
-    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/ecologicalriskassessmentforspeciescaughtiniccatfisheries"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/rapportdecontributionaudocumentationdorientationstrategiquepecheetenvironnementmarindumaecontributionalamiseajourdudocumentdestrategiedelacooperationfrancaisepourledeveloppementdurabledusecteurpecheetlapreservationdelenvironnementmarinenafriquedelouestexamendesaspectsrecherche"/>
+    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/ecologicalriskassessmentforspeciescaughtiniccatfisheries"/>
     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/iotcwpeb"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/actesdusymposiuminternational"/>
@@ -712,23 +712,23 @@
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/scientificadviceforfisheriesmanagementinwestafricainthecontextofglobalchangeinmarinesystems"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/lamiseenoeuvredindicateursdequalitedanslessystemesdesuividespecheries"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/somepreliminaryresultsontunadiscardsandbycatchinthefrenchtunapurseseinefisheryoftheindianocean"/>
-    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/challengesanddifficultiesofcooperationbetweenfisheriesinformationsystemsexperiencesinsixwestafricandevelopingcountries"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/noteontheyearlycatchesbycountryandgearofthefismfranceivorycoastsenegalmoroccofleetduringtheperiod"/>
+    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/challengesanddifficultiesofcooperationbetweenfisheriesinformationsystemsexperiencesinsixwestafricandevelopingcountries"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/agents/herveDemarcq">
-    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/modelingtheprimaryandsecondaryproductionsofthesouthernbenguelaupwellingsystemacomparativestudythroughtwobiogeochemicalmodelsglobalbiogeochem"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/variabilityofplanktonwithreferencetofishvariabilityinthebenguelacurrentlargemarineecosystemanoverview"/>
-    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/mesoscaleexploitationofamajortunaconcentrationintheindianocean"/>
+    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/modelingtheprimaryandsecondaryproductionsofthesouthernbenguelaupwellingsystemacomparativestudythroughtwobiogeochemicalmodelsglobalbiogeochem"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/generalisedmodelofprimaryproductioninthesouthernbenguelaupwellingsystem"/>
+    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/mesoscaleexploitationofamajortunaconcentrationintheindianocean"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/trendsinprimaryproductionseasurfacetemperatureandwindinupwellingsystems"/>
     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/applicationofachlorophyllindexderivedfromsatellitedatatoinvestigatethevariabilityofphytoplanktoninthebenguelaecosystem"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/agents/pascalCauquil">
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/explorationsetpropositionpourlamiseenuvreduprojetecoscope"/>
-    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/proceduredeparcoursducircuitdessavoirsetrecetteducentredinformationsci"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/explorationsetpropositionpourlamiseenoeuvreduprojetecoscope"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/proceduredeparcoursducircuitdessavoirsetrecetteducentredinformationsci"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/agents/florenceGalletti">
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/airesmarinesprotegeesetgouvernancecontributiondesdisciplinesetevolutionpluridisciplinaires"/>
@@ -740,20 +740,20 @@
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/jointeffectsofnutrientsandcontaminantsonthedynamicsofafoodchaininmarineecosystems"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/modelingthecombinedeffectofnutrientsandpyreneontheplanktonpopulationvalidationusingmesocosmexperimentdataandscenarioanalysis"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/polychlorinatedbiphenylspcbsintheatmosphereofsubalpinenorthernitaly"/>
-    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/characterizationofregimeshiftsinenvironmentaltimeserieswithrecurrencequantificationanalysis"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/ontheuseofthepartitioningapproachtoderiveenvironmentalqualitystandardseqsforpersistentorganicpollutantspopsinsedimentsareviewofexistingdata"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/abioaccumulationmodelforherbicidesinulvarigidaandtapesphilippinaruminsaccadigorolagoonnorthernadriatic"/>
+    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/characterizationofregimeshiftsinenvironmentaltimeserieswithrecurrencequantificationanalysis"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/modellingtheinfluenceofthermalstratificationandcompletemixingonthedistributionandfluxesofpolychlorinatedbiphenylsinthewatercolumnofisprabaylakemaggiore"/>
     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/modelingapproachtoregimeshiftsofprimaryproductioninshallowcoastalecosystems"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/agents/laurentDrapeau">
-    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/characterizingandcomparingthespawninghabitatsofanchovyengraulisencrasicolusandsardinesardinopssagaxinthesouthernbenguelaupwellingecosystem"/>
+    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/thefoodofthreeseabirdsatlathamislandtanzaniawithobservationsonforagingbymaskedboobies"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/spatializedecosystemindicatorsinthesouthernbenguela"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/indicatorsofsustainablefishingforsouthafricansardinesardinopssagaxandanchovyengraulisencrasicolus"/>
-    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/afrobisamarinebiogeographicinformationsystemforsubsaharanafrica"/>
+    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/characterizingandcomparingthespawninghabitatsofanchovyengraulisencrasicolusandsardinesardinopssagaxinthesouthernbenguelaupwellingecosystem"/>
     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/thefoodofthreeseabirdsatlathamislandtanzaniawithobservationsonforagingbymaskedboobies"/>
+    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/afrobisamarinebiogeographicinformationsystemforsubsaharanafrica"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/agents/jeanLeFur">
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/petiteencyclopediesurlesecosystemesmarinsexploitestropicauxetmediterraneens"/>
@@ -812,12 +812,12 @@
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/comparisonofcandnstableisotoperatiosbetweensurfaceparticulateorganicmatterandmicrophytoplanktoninthegulfoflionsnwmediterranean"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/agents/alainCaveriviere">
-    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/analysedespluviometriesdanslazonedelabaiedambaronordouestdemadagascarrecherchederelationsaveclabondancedescrevettescotieres"/>
-    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/combiningfishingclosurewithminimumsizeofcapturetoimproveoctopusproductioninsenegalesewatersanevaluationusinganalyticalmodelling"/>
-    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/actesdelatelier"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/atelieramenagementdelapecheriecrevettiere"/>
-    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/lescrevettescotieresdemadagascarbiologieexploitationgestion"/>
+    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/actesdelatelier"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/evaluationdustockdepoulpeparlapprochestructuraleetanalysedelimpactdelarretbiologiqueinfaillerp"/>
+    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/combiningfishingclosurewithminimumsizeofcapturetoimproveoctopusproductioninsenegalesewatersanevaluationusinganalyticalmodelling"/>
+    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/lescrevettescotieresdemadagascarbiologieexploitationgestion"/>
+    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/analysedespluviometriesdanslazonedelabaiedambaronordouestdemadagascarrecherchederelationsaveclabondancedescrevettescotieres"/>
     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/actesdupremierateliernational"/>
   </rdf:Description>
@@ -825,9 +825,9 @@
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/trophicdynamicsofsmallpelagicfish"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/schoolingbehaviourandenvironmentalforcinginrelationtoanchovetadistributionananalysisacrossmultiplespatialscales"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/revisitingperuviananchovyengraulisringenstrophodynamicsprovidesanewvisionofthehumboldtcurrentsystem"/>
-    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/trophicdynamics"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/trophicmodelingofthenorthernhumboldtcurrentecosystemparticomparingtrophiclinkagesunderlaninaandelninoconditions"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/trophicmodelingofthenorthernhumboldtcurrentecosystempartiielucidatingecosystemdynamicsfromtowithafocusontheimpactofenso"/>
+    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/trophicdynamics"/>
     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/dietofsardinesardinopssagaxinthenorthernhumboldtcurrentsystemandcomparisonwiththedietsofclupeoidsinthisandothereasternboundaryupwellingsystems"/>
   </rdf:Description>
@@ -858,18 +858,18 @@
   <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/agents/ericMachu">
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/phytoplanktondistributionintheagulhassystemfromacoupledphysicalbiologicalmodel"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/modelingtheprimaryandsecondaryproductionsofthesouthernbenguelaupwellingsystemacomparativestudythroughtwobiogeochemicalmodelsglobalbiogeochem"/>
-    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/modellingsardineandanchovyichthyoplanktontransportinthecanarycurrentsystem"/>
+    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/contributiontothecdentitledbenguelaforecastingalargemarineecosystem"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/twowaycouplingversusonewayforcingofplanktonandfishmodelstopredictecosystemchangesinthebenguela"/>
     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/contributiontothecdentitledbenguelaforecastingalargemarineecosystem"/>
+    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/modellingsardineandanchovyichthyoplanktontransportinthecanarycurrentsystem"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/agents/christianMullon">
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/functionalgroupbiodiversityineasternboundaryupwellingecosystemsquestionsthewaspwaisttrophicstructure"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/doesverticalmigratorybehaviourretainfishlarvaeonshoreinupwellingecosystemsamodellingstudyofanchovyinthesouthernbenguela"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/dominantspecieswithinfunctionalgroupsofeasternboundaryupwellingecosytemswhatcanwelearn"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/prototypeofanintegratedmodeloftheworldwidesystemofsmallpelagicfisheries"/>
-    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/viabilitymodeloftrophicinteractionsinmarineecosystems"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/theatlasofeasternboundaryupwellingsystemsaebusavisualisationtoolforthecomparisonofecosystems"/>
+    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/viabilitymodeloftrophicinteractionsinmarineecosystems"/>
     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/thedynamicsofcollapseinworldfisheries"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/viabilitytheoryforanecosystemapproachtofisheries"/>
@@ -885,19 +885,19 @@
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/evolutionacourttermedespeuplementsdepoissonsdelestuairedelacasamancesenegalsuiteauneameliorationdescontraintesenvironnementales"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/rapportdecontributionaudocumentationdorientationstrategiquepecheetenvironnementmarindumaecontributionalamiseajourdudocumentdestrategiedelacooperationfrancaisepourledeveloppementdurabledusecteurpecheetlapreservationdelenvironnementmarinenafriquedelouestexamendesaspectsrecherche"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/howtorecognizethefishinthetreesmethodologicalreflectionsforthefishpopulationassessmentinanartificialreservoir"/>
-    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/useandlimitsofthreemethodsforassessingfishsizespectraandfishabundanceintwotropicalmanmadelakes"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/emeforumhalieumetrique"/>
+    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/useandlimitsofthreemethodsforassessingfishsizespectraandfishabundanceintwotropicalmanmadelakes"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/therelevanceofsizeparametersasindicatorsoffisheryexploitationintwowestafricanreservoirs"/>
     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/therelevanceofspeciesbasedindicatorsasatoolforevaluatingthestructureofexploitedfishassemblagesacomparativestudyoftwotropicallakesinmaliwestafrica"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/agents/timotheeBrochier">
+    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/anindividualbasedmodelstudyofanchovyearlylifehistoryinthenorthernhumboldtcurrentsystem"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/anchovyearlylifeinthenorthernhumboldtcurrentsystemanindividualbasedmodelstudy"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/smallpelagicfishreproductivestrategiesinupwellingsystemsahomingevolutionarymodeltostudyenvironmentalconstraints"/>
-    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/modellingsardineandanchovyichthyoplanktontransportinthecanarycurrentsystem"/>
-    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/anindividualbasedmodelstudyofanchovyearlylifehistoryinthenorthernhumboldtcurrentsystem"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/ichthyopalagrangiantoolformodellingichthyoplanktondynamics"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/modellingsardineandanchovyichthyoplanktontransportinthecanarycurrentsystem"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/agents/pierreFrancoisBaisnee">
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/theatlasofeasternboundaryupwellingsystemsaebusavisualisationtoolforthecomparisonofecosystems"/>
@@ -916,8 +916,8 @@
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/diagnosticdeletatdustockdepoulpeoctopusvulgarismauritaniensyntheseetnouvellesevaluationsparlapprocheglobale"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/bottomupcontrolregulatesfisheriesproductionatthescaleofecoregionsineuropeanseas"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/bycatchanddiscardsoftheeuropeanpurseseinetunafisheryintheindianoceanestimationandcharacteristicsfortheperiod"/>
-    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/impactofclimateoneelpopulationsofthenorthernhemisphere"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/americanfisheriessocietysymposium"/>
+    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/impactofclimateoneelpopulationsofthenorthernhemisphere"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/trophicsignatureofcoralreeffishassemblagestowardsapotentialindicatorofecosystemdisturbance"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/impactoftrophicinteractionsonproductionfunctionsandontheecosystemresponsetofishingasimulationapproach"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/roleofpredationbyharpsealspagophilusgroenlandicusinthecollapseandnonrecoveryofnortherngulfofstlawrencecodgadusmorhua"/>
@@ -931,13 +931,13 @@
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/iotcwpeb"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/agents/pascalCotel">
-    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/isthefadassociatedfishbiomassaproxyfortotalfishbiomassacasestudyonasmallpelagicfish"/>
+    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/thconferenceonfishtelemetry"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/schoolingbehaviourofsmallpelagicfishphenotypicexpressionofindependentstimuli"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/ices"/>
-    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/thwiomsascientificsymp"/>
-    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/thconferenceonfishtelemetry"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/isthefadassociatedfishbiomassaproxyfortotalfishbiomassacasestudyonasmallpelagicfish"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/behaviourandspatialdynamicsofschoolingfisharoundcoastalfadsinlareunionisland"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/thwiomsascientificsymp"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/agents/jeanPierreHallier">
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/growthofbigeyetunathunnusobesusintheeasternatlanticoceanfromtaggingrecapturedataandotolithsreadings"/>
@@ -959,15 +959,15 @@
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/unemersanspoissons"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/agents/gillesDomalain">
-    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/imdisinternationalmarinedataandinformationconference"/>
-    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/symposiuminternationalsurlesecosystemescotiersdafriquedelouest"/>
-    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/architectureintegreedunsystemedevisualisationcartographiquedesstatistiquesdepeche"/>
-    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/lamiseenoeuvredindicateursdequalitedanslessystemesdesuividespecheries"/>
-    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/evaluationdesincertitudesassocieesauxindicateursproduitsparlessystemesdesuivistatistiquedespecheriesartisanales"/>
-    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/easternboundaryupwellingecosystemsymposium"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/evolutiondelapecheartisanalemauritaniennedea"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/imdisinternationalmarinedataandinformationconference"/>
+    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/architectureintegreedunsystemedevisualisationcartographiquedesstatistiquesdepeche"/>
+    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/evaluationdesincertitudesassocieesauxindicateursproduitsparlessystemesdesuivistatistiquedespecheriesartisanales"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/elementsconstitutifsdunearchitectureintegreedevisualisationcartographiquedesstatistiquesdepeche"/>
+    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/symposiuminternationalsurlesecosystemescotiersdafriquedelouest"/>
+    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/lamiseenoeuvredindicateursdequalitedanslessystemesdesuividespecheries"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/easternboundaryupwellingecosystemsymposium"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/agents/philippeCury">
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/ecosystemesmarinsversunepecheresponsableetdurable"/>
@@ -1000,8 +1000,8 @@
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/lepactemarinpourunepechedurablepourunavenirviableetsolidaire"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/decadalenvironmentalandecologicalchangesinthecanarycurrentlargemarineecosystemandadjacentwaterspatternsofconnectionsandteleconnection"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/lesressourcesmarines"/>
-    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/lamerplusjamaisrecommencee"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/perspectivesonecosystembasedapproachestothemanagementofmarineresources"/>
+    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/lamerplusjamaisrecommencee"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/lesecosystemesmarinsexploitesquelsenjeuxpourlexxiemesiecle"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/conferenceiddriparis"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/lapprocheecosystemiquedespechesutopieounouveauparadigme"/>
@@ -1024,17 +1024,17 @@
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/propositionspourrenforcerlesliensauseindelacommunautehalieutiquedelifremeretdelird"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/impactsoffishingandclimatechangeexploredusingtrophicmodels"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/twowaycouplingversusonewayforcingofplanktonandfishmodelstopredictecosystemchangesinthebenguela"/>
-    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/viabilitymodeloftrophicinteractionsinmarineecosystems"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/ecosystemmodelingapproachesforsouthafricanfisheriesmanagement"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/towardsendtoendmodelsforinvestigatingtheeffectsofclimateandfishinginmarineecosystems"/>
+    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/viabilitymodeloftrophicinteractionsinmarineecosystems"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://www.ecoscope.org/ontologies/agents/patriceDewals">
-    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/frenchpurseseinetunafisheriesstatisticsintheindianocean"/>
-    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/statitiquesdelapecheriethoniereeuropeenneetassimileependantlaperiode"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/iotcwptt"/>
+    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/frenchpurseseinetunafisheriesstatisticsintheindianocean"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/ctoiwptt"/>
-    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/statistiquesdelapecheriethoniereeuropeenneetassimileedurantlaperiode"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/manueldelutilisateurdavdthv"/>
+    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/statistiquesdelapecheriethoniereeuropeenneetassimileedurantlaperiode"/>
+    <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/statitiquesdelapecheriethoniereeuropeenneetassimileependantlaperiode"/>
     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
     <j.0:publications rdf:resource="http://www.ecoscope.org/ontologies/resources/biblioUMRpublication/statistiquesdelapecheriethonierefrancaisedurantlaperiode"/>
   </rdf:Description>

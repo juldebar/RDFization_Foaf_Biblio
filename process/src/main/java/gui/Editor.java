@@ -15,6 +15,7 @@ import java.awt.event.WindowEvent;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
+import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -29,7 +30,7 @@ import javax.swing.filechooser.FileNameExtensionFilter;
 /**
  * Dernière étape dans le traitement des mots clés, permet d'ajouter les
  * triplets aux mots choisis
- * 
+ *
  * Voir l'action du bouton "Aide" pour plus de détails sur cette fenêtre.
  *
  * @author jimmy
@@ -582,20 +583,14 @@ public class Editor extends Basic_Frame implements Observable, ActionListener {
             //On met à jour le dernier élément (comme pour un précédent / suivant)
             champs.get(position).set_entry(get_champs());
             //Récupération des prédicats nécessaires
-            String dir = System.getProperty("user.dir");
-            String path = "file:" + dir + "/ouputs/predicats.rdf";            Model tmp = ModelFactory.createDefaultModel();
-            tmp.read(path);
-            Property skos_prefLabel;
-            Property skos_altLabel;
-            Property fao;
-            Property worms;
-            Property skos_note;
-            //Charge le model présent dans path pour récupérer les Properties
-            skos_prefLabel = getProperty_prefLabel(path);
-            skos_altLabel = getProperty_altLabel(path);
-            fao = getProperty_faoId(path);
-            worms = getProperty_worms(path);
-            skos_note = getProperty_note(path);
+            String skos = "http://www.w3.org/2004/02/skos/core#";
+            String ecosystems_def = "http://www.ecoscope.org/ontologies/ecosystems_def/";
+            Model tmp = ModelFactory.createDefaultModel();
+            Property skos_prefLabel = tmp.createProperty(skos, "prefLabel");
+            Property skos_altLabel = tmp.createProperty(skos, "altLabel");
+            Property fao = tmp.createProperty(ecosystems_def, "faoId");
+            Property worms = tmp.createProperty(ecosystems_def, "wormsId");
+            Property skos_note = tmp.createProperty(skos, "note");
             int combo;
             LinkedList<String> models = new LinkedList<>();
             String model;
@@ -759,18 +754,25 @@ public class Editor extends Basic_Frame implements Observable, ActionListener {
                             Logger.getLogger(Editor.class.getName()).log(Level.SEVERE, null, ex);
                         }
                     } else {
+                        String path = System.getProperty("user.dir");
                         try {
-                            fluxModel = new PrintWriter(new FileOutputStream("Model_ext.rdf"));
+                            fluxModel = new PrintWriter(new FileOutputStream(path + "/output/Model_ext.rdf"));
                             Model.write(fluxModel);
-                        } catch (FileNotFoundException ex) {
-                            Logger.getLogger(Editor.class.getName()).log(Level.SEVERE, null, ex);
+                        } catch (FileNotFoundException e) {
+                            try {
+                                File fichier = new File(path + "/outputs/Model_ext.rdf");
+                                fichier.createNewFile();
+                                fluxModel = new PrintWriter(new FileOutputStream(fichier));
+                                Model.write(fluxModel);
+                            } catch (IOException ex1) {
+                                Logger.getLogger(Editor.class.getName()).log(Level.SEVERE, null, ex1);
+                            }
                         }
                     }
-
                 }
                 ++i;
             }
-            JOptionPane.showMessageDialog(null, "Action terminée, retour au menu principal", "Terminé !", JOptionPane.INFORMATION_MESSAGE);
+            JOptionPane.showMessageDialog(null, "Action terminée, retour au menu précédent", "Terminé !", JOptionPane.INFORMATION_MESSAGE);
             exit();
         }
 
@@ -1074,7 +1076,9 @@ public class Editor extends Basic_Frame implements Observable, ActionListener {
     }
 
     /**
-     * Vérifie si le champs URI a bien été modifié ou si il a été laissé à http://ecoscope.org/ (aux espaces et caractères spéciaux près)
+     * Vérifie si le champs URI a bien été modifié ou si il a été laissé à
+     * http://ecoscope.org/ (aux espaces et caractères spéciaux près)
+     *
      * @param uri String entrée dans le champs URI
      * @return true si l'uri a été modifiée, false sinon.
      */
